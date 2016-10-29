@@ -15,6 +15,8 @@
 
 ## Balance - stance
 
+- Left-right ball position: Ball should be slightly left of mid-way
+  between heels (for right hander).
 - Weight is between middle of foot and **heel**.
 - Weight must **not** be towards toes.
 - Stand closer to ball.
