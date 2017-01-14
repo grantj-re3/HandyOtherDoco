@@ -2,7 +2,7 @@
 
 ## Timeshare info
 
-- [Holiday Concepts](http://www.holidayconcepts.com.au/?page_id=62)
+- [Holiday Concepts Group](http://www.holidayconcepts.com.au/?page_id=62)
 - [Good and bad reviews](http://www.productreview.com.au/p/holiday-concepts-1.html)
 - [Timeshares Website](https://www.timeshares.com.au/)
 - [General info](https://www.timeshares.com.au/all-about-timeshares.php)
