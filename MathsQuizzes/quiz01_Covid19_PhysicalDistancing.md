@@ -2,10 +2,8 @@
 
 A maths quiz inspired by the new relaxed COVID-19 rules in South Australia
 and Western Australia which permit a density of 1 person every 2 square
-metres yet still want you to maintain a distance of 1.5m from others. See:
-
-- [SA Roadmap for easing COVID-19 restrictions - Step 3 - From 29 June 2020 - Emergency Management (Public Activities No. 3) (COVID - 19) Direction 2020](https://www.covid-19.sa.gov.au/__data/assets/pdf_file/0004/222988/FAQ-Emergency-Management-Public-Activities-no-3-COVID-19-Direction-2020-01072020.pdf)
-- [WA Government - 29 May 2020 - Last updated 3 July 2020 - COVID-19 - Phase 3 - Easing of restrictions - frequently asked questions](https://www.wa.gov.au/government/publications/phase-3-easing-of-restrictions-frequently-asked-questions)
+metres yet still want you to maintain a distance of 1.5m from others. For
+details, see the references section.
 
 
 ## Introduction
@@ -43,4 +41,9 @@ the center of each square is a person (represented by a dot).
      to stand in the corners of the room and along the edges/walls
      unless you can demonstrate that the trick works for very large
      rooms.
+
+## References
+
+- [SA Roadmap for easing COVID-19 restrictions - Step 3 - From 29 June 2020 - Emergency Management (Public Activities No. 3) (COVID - 19) Direction 2020](https://www.covid-19.sa.gov.au/__data/assets/pdf_file/0004/222988/FAQ-Emergency-Management-Public-Activities-no-3-COVID-19-Direction-2020-01072020.pdf)
+- [WA Government - 29 May 2020 - Last updated 3 July 2020 - COVID-19 - Phase 3 - Easing of restrictions - frequently asked questions](https://www.wa.gov.au/government/publications/phase-3-easing-of-restrictions-frequently-asked-questions)
 
