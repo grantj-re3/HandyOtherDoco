@@ -32,7 +32,9 @@ the center of each square is a person (represented by a dot).
    metres to give the maximum number of people [P] permitted in that
    room. Can you find any 2 dimensional arrangement/layout of the
    maximum number of people [P] such that each person is 1.5m or
-   more from their nearest neighbour?
+   more from their nearest neighbour? [That is, I am asking if is
+   it possible to comply with the 1.5m rule if you have the maximum
+   number of people in a large room.]
 
    - In other words, I'm looking for a pattern of arranging the
      people in an arbitrarily large room - so I am not expecting
