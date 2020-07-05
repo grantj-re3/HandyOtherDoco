@@ -8,9 +8,10 @@ details, see the references section.
 
 ## Introduction
 
-Consider a large room with horizontal and vertical lines marked
-on the floor such that the floor is divided into *squares*. At
-the center of each square is a person (represented by a dot).
+Consider a large room with lines marked on the floor such that the
+floor is divided into *a grid of squares* (i.e. the grid is
+formed by intersecting, straight, vertical and horizontal lines).
+At the center of each square is a person (represented by a point).
 
 
 ## Questions
@@ -21,28 +22,17 @@ the center of each square is a person (represented by a dot).
 2. If the area of each square is 2 square metres, how far is each
    person from their nearest neighbour? [Hint: In this scenario
    we are already violating the 1.5m distance rule... even for
-   infinitely thin people, i.e. dots!]
+   infinitely thin people, i.e. points!]
 
 3. For the arrangement/layout given in the introduction, what is
    the area (in square metres) of each square if you require each
    person to be 1.5m from their nearest neighbour?
 
-4. Bonus question: If you have an arbitrarily large room, you can
-   calculate its area [A] in square metres then divide by 2 square
-   metres to give the maximum number of people [P] permitted in that
-   room. Can you find any 2 dimensional arrangement/layout of the
-   maximum number of people [P] such that each person is 1.5m or
-   more from their nearest neighbour? [That is, I am asking if is
-   it possible to comply with the 1.5m rule if you have the maximum
-   number of people in a large room.]
+4. Bonus question: If you have a requirement that a large number
+   of points must be spaced 1.5m or more apart, can you find any
+   arrangement/layout of those points such that the average
+   density is 2 square metres or less?
 
-   - In other words, I'm looking for a pattern of arranging the
-     people in an arbitrarily large room - so I am not expecting
-     the square grid arrangement/layout described in the introduction.
-   - I'm wanting you to avoid "tricks" like arranging for people
-     to stand in the corners of the room and along the edges/walls
-     unless you can demonstrate that the trick works for very large
-     rooms.
 
 ## References
 
