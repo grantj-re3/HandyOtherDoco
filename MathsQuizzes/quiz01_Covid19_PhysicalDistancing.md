@@ -31,7 +31,7 @@ At the center of each square is a person (represented by a point).
 4. Bonus question: If you have a requirement that a large number
    of points must be spaced 1.5m or more apart, can you find any
    arrangement/layout of those points such that the average
-   density is 2 square metres or less?
+   *area-per-person* is 2 square metres or less?
 
 
 ## References
