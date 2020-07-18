@@ -17,7 +17,9 @@
 - The section *Respiratory and facial protective equipment* on page 8 says *In the majority of situations where respiratory protection is required, a surgical mask will be adequate.*
 - Discarding surgical mask after use
 - Appendix B: Mask Utilisation Priority during Pandemic Planning – NSW Health
-- Appendix E: AS 4381:2015 Single use surgical face mask standard
+- Appendix E: AS 4381:2015 Single use surgical face mask standard [for levels 1, 2 and 3]
+
+[Halyard Health | AS 4381: 2015 Understanding the new Australian mask standards](http://direct.ch2.net.au/direct_static/product_documents/promo-53-Halyard%20Combined%20file%20ASTM%20infographic%20and%20standards.pdf) including applications of level 1, 2 and 3 masks.
 
 [Safe Work Australia | In home services | Masks | last updated: 29 Apr 2020](https://www.safeworkaustralia.gov.au/covid-19-information-workplaces/industry-information/home-services/masks) discusses:
 
@@ -29,7 +31,7 @@
 
 [Australian Institute of Health & Safety | Key facts about facemasks, respirators and COVID-19 protection](https://www.aihs.org.au/news-and-publications/news/key-facts-about-facemasks-respirators-and-covid-19-protection)
 
-[Would the widespread use of masks in public help stop the spread of coronavirus? | 7.30 | 29 Jun 2020](https://www.youtube.com/watch?v=65eMHYiu_TA) - video 3m 32s
+[ABC 7.30 | Would the widespread use of masks in public help stop the spread of coronavirus? | 29 Jun 2020](https://www.youtube.com/watch?v=65eMHYiu_TA) - video 3m 32s
 
 [ABC News | Face masks are no 'silver bullet' for coronavirus but do have benefits. Here's what you need to know | 29 May 2020](https://www.abc.net.au/news/health/2020-05-29/coronavirus-faces-masks-explainer/12296094)
 
