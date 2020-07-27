@@ -34,6 +34,11 @@ At the center of each square is a person (represented by a point).
    *area-per-person* is 2 square metres or less?
 
 
+## Solutions
+
+The solutions to questions 1 to 4 above are [here](solutions/soln01.pdf).
+
+
 ## References
 
 - [SA Roadmap for easing COVID-19 restrictions - Step 3 - From 29 June 2020 - Emergency Management (Public Activities No. 3) (COVID - 19) Direction 2020](https://www.covid-19.sa.gov.au/__data/assets/pdf_file/0004/222988/FAQ-Emergency-Management-Public-Activities-no-3-COVID-19-Direction-2020-01072020.pdf)
