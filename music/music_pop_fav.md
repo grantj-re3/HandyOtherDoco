@@ -1,9 +1,10 @@
-# Music from the 1960s to 2020s
+# Music from the 1950s to 2020s
 
 Some of my favourite music from the last 6 decades or so... arranged by year.
 
 Title                       | Performers (Year)                   | Composers (Year)          | Links
 ----------------------------|-------------------------------------|---------------------------|------
+On the Street Where You Live | Bill Shirley (1956)                | Frederick Loewe, Alan Jay Lerner | [Video1 LCT 2018](https://www.youtube.com/watch?v=6kX3PZ_ynss), [Video2 BS 1956](https://www.youtube.com/watch?v=0udu4KYv1zI)
 Can't Take My Eyes Off You  | Frankie Valli (1967)                | Bob Crewe, Bob Gaudio     | [Video1](https://www.youtube.com/watch?v=NGFToiLtXro), [Video2](https://www.youtube.com/watch?v=RbnXASVV--M)
 Happy Together              | Turtles (1967)                      | Garry Bonner, Alan Gordon | [Video](https://www.youtube.com/watch?v=mRCe5L1imxg)
 Dream a Little Dream of Me  | Mamas & the Papas (1968)            | Fabian Andre, Wilbur Schwandt, Gus Kahn (1931) | [Video](https://www.youtube.com/watch?v=GBotCustS-Q)
@@ -11,10 +12,11 @@ This Guy's in Love with You | Herb Alpert (1968)                  | Burt Bachara
 The Long and Winding Road   | Beatles (1970)                      | Paul McCartney            | [Video1](https://www.youtube.com/watch?v=fR4HjTH_fTM), [Video2](https://www.youtube.com/watch?v=tjdf_w1JcSQ)
 Your Song                   | Elton John (1970)                   | Elton John, Bernie Taupin | [Video](https://www.youtube.com/watch?v=GlPlfCy1urI)
 Hey Tonight                 | Creedence Clearwater Revival (1971) | John Fogerty              | [Video](https://www.youtube.com/watch?v=_UJduxHSqF8)
+Alone Again (Naturally)     | Gilbert O'Sullivan (1972)           | Gilbert O'Sullivan        | [Video](https://www.youtube.com/watch?v=D_P-v1BVQn8)
 Midnight Train to Georgia   | Gladys Knight & the Pips (1973)     | Jim Weatherly             | [Video1](https://www.youtube.com/watch?v=A0F9lh8TiSM), [Video2](https://www.youtube.com/watch?v=s4KZs0mLJiQ), [Video3](https://www.youtube.com/watch?v=K2PeC1MkAZE)
 Reelin' In the Years  | Steely Dan (1973)        | Walter Becker, Donald Fagen                    | [Video](https://www.youtube.com/watch?v=GaH25Sghoqc)
 The Way We Were       | Barbra Streisand (1973)  | Alan Bergman, Marilyn Bergman, Marvin Hamlisch | [Video1](https://www.youtube.com/watch?v=hkBziLvefsw), [Video2](https://www.youtube.com/watch?v=T9-jWsb3nmA)
-You're No Good        | Linda Ronstadt (1974)    | Clint Ballard, Jr. (1963?)                     | [Video1](https://www.youtube.com/watch?v=6ysu2aUCwgk) [Video2](https://www.youtube.com/watch?v=_bj_32QeAaU)
+You're No Good        | Linda Ronstadt (1974)    | Clint Ballard, Jr. (1963?)                     | [Video1](https://www.youtube.com/watch?v=6ysu2aUCwgk), [Video2](https://www.youtube.com/watch?v=_bj_32QeAaU)
 It's a Long Way There | Little River Band (1975) | Graham Goble                                   | [Video1](https://www.youtube.com/watch?v=3hqO8q7uoIo), [Video2](https://www.youtube.com/watch?v=qYiiv7Dr-cA), [Video3](https://www.youtube.com/watch?v=ABckaeEANU4)
 Misty                 | Ray Stevens (1975)       | Johnny Burke, Erroll Garner (1959)             | [Video1](https://www.youtube.com/watch?v=ko56rc30qdk), [Video2](https://www.youtube.com/watch?v=v3RigVrLr7s)
 Wildfire              | Michael Murphey (1975)   | Michael Murphey, Larry Cansler                 | [Video1](https://www.youtube.com/watch?v=Pc3OnSQc48s), [Video2](https://www.youtube.com/watch?v=gl4Y4FWWkn0)
@@ -34,8 +36,11 @@ Against All Odds        | Phil Collins (1984) | Phil Collins                   |
 Bring Him Home (from the musical *Les Misérables*) | Colm Wilkinson (1985)              | Claude-Michel Schönberg, Alain Boublil, Jean-Marc Natel, Herbert Kretzmer | [Video](https://www.youtube.com/watch?v=qsYnhVITf9E)
 Laughing Into 1939           | Al Stewart (1995)                  | Al Stewart                                                                | [Video](https://www.youtube.com/watch?v=jmuPs1vD8Ew)
 Autumn Leaves                | Eva Cassidy (1996)                 | Joseph Kosma (1945)                                                       | [Video](https://www.youtube.com/watch?v=xXBNlApwh0c)
+Un-Break My Heart            | Toni Braxton (1996)                | Diane Warren                                                              | [Video](https://www.youtube.com/watch?v=O596XpES1rI)
 The Prayer                   | Celine Dion, Andrea Bocelli (1999) | David Foster, Carole Bayer Sager, Alberto Testa, Tony Renis               | [Video](https://www.youtube.com/watch?v=qt_OkgSOrkU)
+Tighinn Air A'Mhuir Am Fear A Phosas Mi (Coming on the sea is the one I'll marry) | Capercaillie (2000) | Traditional                         | [Video](https://www.youtube.com/watch?v=9Rx0R3g_6Ck)
 While My Guitar Gently Weeps | Jake Shimabukuro (2006)            | George Harrison (1968)                                                    | [Video1 JS](https://www.youtube.com/watch?v=puSkP3uym5k), [Video2 JS+TE](https://www.youtube.com/watch?v=J5qakFIecBU), [Video3 GH](https://www.youtube.com/watch?v=oDs2Bkq6UU4)
+Taking the Long Way          | Dixie Chicks (2007)                | Martie Maguire, Natalie Maines, Emily Strayer, Dan Wilson                 | [Video1](https://www.youtube.com/watch?v=s5HKLteH9Mc), [Video2](https://www.youtube.com/watch?v=h58iGepQrFM)
 Bluebird (ブルーバード)      | Ikimono-gakari (いきものがかり) (2008) | Yoshiki Mizuno                                                        | [Video1](https://www.youtube.com/watch?v=uWwIrX47VD8), [Video2](https://www.youtube.com/watch?v=aJRu5ltxXjc)
 With You (from the musical *Ghost*) | Caissie Levy (2011)                | Dave Stewart, Glen Ballard                                                | [Video1](https://www.youtube.com/watch?v=VHQ0FmUtS0E), [Video2 BGT](https://www.youtube.com/watch?v=nuxRztsMNzg)
 
