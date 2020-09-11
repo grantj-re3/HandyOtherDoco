@@ -4,7 +4,8 @@ Some of my favourite music from the last 6 decades or so... arranged by year.
 
 Title                       | Performers (Year)                   | Composers (Year)          | Links
 ----------------------------|-------------------------------------|---------------------------|------
-On the Street Where You Live | Bill Shirley (1956)                | Frederick Loewe, Alan Jay Lerner | [Video1 LCT 2018](https://www.youtube.com/watch?v=6kX3PZ_ynss), [Video2 BS 1956](https://www.youtube.com/watch?v=0udu4KYv1zI)
+On the Street Where You Live (from the musical *My Fair Lady*) | Bill Shirley (1956)          | Frederick Loewe, Alan Jay Lerner | [Video1 LCT 2018](https://www.youtube.com/watch?v=6kX3PZ_ynss), [Video2 BS 1956](https://www.youtube.com/watch?v=0udu4KYv1zI)
+Downtown                    | Petula Clark (1964)                 | Tony Hatch                | [Video1](https://www.youtube.com/watch?v=z_m4Qb0iW-o), [Video2](https://www.youtube.com/watch?v=Zx06XNfDvk0)
 Can't Take My Eyes Off You  | Frankie Valli (1967)                | Bob Crewe, Bob Gaudio     | [Video1](https://www.youtube.com/watch?v=NGFToiLtXro), [Video2](https://www.youtube.com/watch?v=RbnXASVV--M)
 Happy Together              | Turtles (1967)                      | Garry Bonner, Alan Gordon | [Video](https://www.youtube.com/watch?v=mRCe5L1imxg)
 Dream a Little Dream of Me  | Mamas & the Papas (1968)            | Fabian Andre, Wilbur Schwandt, Gus Kahn (1931) | [Video](https://www.youtube.com/watch?v=GBotCustS-Q)
@@ -12,12 +13,15 @@ This Guy's in Love with You | Herb Alpert (1968)                  | Burt Bachara
 The Long and Winding Road   | Beatles (1970)                      | Paul McCartney            | [Video1](https://www.youtube.com/watch?v=fR4HjTH_fTM), [Video2](https://www.youtube.com/watch?v=tjdf_w1JcSQ)
 Your Song                   | Elton John (1970)                   | Elton John, Bernie Taupin | [Video](https://www.youtube.com/watch?v=GlPlfCy1urI)
 Hey Tonight                 | Creedence Clearwater Revival (1971) | John Fogerty              | [Video](https://www.youtube.com/watch?v=_UJduxHSqF8)
+You've Got a Friend         | Carole King (1971)                  | Carole King               | [Video](https://www.youtube.com/watch?v=eAR_Ff5A8Rk), [Video2](https://www.youtube.com/watch?v=qde5NMy7WTU)
 Alone Again (Naturally)     | Gilbert O'Sullivan (1972)           | Gilbert O'Sullivan        | [Video](https://www.youtube.com/watch?v=D_P-v1BVQn8)
 Midnight Train to Georgia   | Gladys Knight & the Pips (1973)     | Jim Weatherly             | [Video1](https://www.youtube.com/watch?v=A0F9lh8TiSM), [Video2](https://www.youtube.com/watch?v=s4KZs0mLJiQ), [Video3](https://www.youtube.com/watch?v=K2PeC1MkAZE)
 Reelin' In the Years  | Steely Dan (1973)        | Walter Becker, Donald Fagen                    | [Video](https://www.youtube.com/watch?v=GaH25Sghoqc)
 The Way We Were       | Barbra Streisand (1973)  | Alan Bergman, Marilyn Bergman, Marvin Hamlisch | [Video1](https://www.youtube.com/watch?v=hkBziLvefsw), [Video2](https://www.youtube.com/watch?v=T9-jWsb3nmA)
+Evie (Parts 1, 2 & 3) | Stevie Wright (1974)     | Harry Vanda, George Young                      | [Video1 SW](https://www.youtube.com/watch?v=8Hj8BRV8Jls), [Video2 SW](https://www.youtube.com/watch?v=QOFexMWQ1Gs), [Video3 TW](https://www.youtube.com/watch?v=y2FRyCoViaI), [Video3 PJ 3:46-15:03](https://www.youtube.com/watch?v=g_yXVsC1s78)
 You're No Good        | Linda Ronstadt (1974)    | Clint Ballard, Jr. (1963?)                     | [Video1](https://www.youtube.com/watch?v=6ysu2aUCwgk), [Video2](https://www.youtube.com/watch?v=_bj_32QeAaU)
 It's a Long Way There | Little River Band (1975) | Graham Goble                                   | [Video1](https://www.youtube.com/watch?v=3hqO8q7uoIo), [Video2](https://www.youtube.com/watch?v=qYiiv7Dr-cA), [Video3](https://www.youtube.com/watch?v=ABckaeEANU4)
+Love of My Life       | Queen (1975)             | Freddie Mercury                                | [Video1](https://www.youtube.com/watch?v=2bqm4gRY3mA), [Video2](https://www.youtube.com/watch?v=v3xwCkhmies&list=RDsUJkCXE4sAA&index=3)
 Misty                 | Ray Stevens (1975)       | Johnny Burke, Erroll Garner (1959)             | [Video1](https://www.youtube.com/watch?v=ko56rc30qdk), [Video2](https://www.youtube.com/watch?v=v3RigVrLr7s)
 Wildfire              | Michael Murphey (1975)   | Michael Murphey, Larry Cansler                 | [Video1](https://www.youtube.com/watch?v=Pc3OnSQc48s), [Video2](https://www.youtube.com/watch?v=gl4Y4FWWkn0)
 (Don't Fear) The Reaper | Blue Öyster Cult (1976) | Donald "Buck Dharma" Roeser                   | [Video](https://www.youtube.com/watch?v=Dy4HA3vUv2c)
@@ -29,6 +33,7 @@ Dust in the Wind      | Kansas (1977)            | Kerry Livgren                
 Just the Way You Are  | Billy Joel (1977)        | Billy Joel                                     | [Video1](https://www.youtube.com/watch?v=dBqyX0UUzVQ), [Video2](https://www.youtube.com/watch?v=tJWM5FmZyqU)
 Lost Without Your Love  | Bread (1977)           | David Gates                                    | [Video](https://www.youtube.com/watch?v=4vOq6UPhvDE)
 A Man I'll Never Be     | Boston (1978)          | Tom Scholz                                     | [Video1](https://www.youtube.com/watch?v=gZxP3bMn0as), [Video2](https://www.youtube.com/watch?v=PqsHWnDBS0Q)
+September Morn          | Neil Diamond (1979) | Gilbert Bécaud, Neil Diamond   | [Video](https://www.youtube.com/watch?v=zEuOkapb-_o)
 Still                   | Commodores (1979)   | Lionel Richie                  | [Video](https://www.youtube.com/watch?v=-oTxaL2NDkc)
 I Can't Tell You Why    | Eagles (1980)       | Timothy B. Schmit, Glenn Frey, Don Henley | [Video](https://www.youtube.com/watch?v=mseS0C421cU)
 The Winner Takes It All | ABBA (1980)         | Benny Andersson, Björn Ulvaeus | [Video1](https://www.youtube.com/watch?v=92cwKCU8Z5c&ob=av2nm), [Video2](https://www.youtube.com/watch?v=iyIOl-s7JTU)
