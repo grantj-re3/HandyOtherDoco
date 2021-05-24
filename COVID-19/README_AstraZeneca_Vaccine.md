@@ -47,14 +47,14 @@ On this page, most of the in text below a hyperlink is quoted/pasted directly fr
 
 [ABC iView | The Vaccine Friday 21/5/2021 | Only available until 20 June 2021](https://iview.abc.net.au/show/vaccine/series/0/video/NC2129H014S00) without a transcript
 
-- Orignal Wu Han virus (without any controls): 1 person infects 2.4 others
+- [Orignal Wu Han virus (without any controls): 1 person infects 2.4 others
 - British variant: 1 person infects 4.5 others
 - Indian variant: 1 person infects 6 to 8 others
 - The media tends to report on extraordinary events e.g. the rare cases of blood clotting
 - At the moment Australia does not have community transmission
 - Taiwan like Australia has controlled COVID really well - few cases and a low vaccination rate; then COVID got into the community and they are now getting 300 cases per day
 - Mass vaccination when a lot of COVID around becomes a problem
-- Supply of Astra vaccine within Australia no longer an issue
+- Supply of Astra vaccine within Australia no longer an issue]
 
 
 [ABC Coronacast | Why should I bother getting AstraZeneca today? | 21 May 2021](https://www.abc.net.au/radio/programs/coronacast/why-should-i-bother-getting-astrazeneca-today/13352830) including transcript
@@ -107,6 +107,7 @@ Yes, it would be great if all we had was Pfizer and we had millions and millions
 - the rate is estimated to be higher (20-40 cases per million) in those under 50 years of age.
 - Comirnaty (Pfizer) vaccine is preferred in people who have a past history of cerebral venous sinus thrombosis or heparin-induced thrombocytopenia, given the similarities between these conditions [and] TTS.
 
+
 [Department of Health (Australia) | ATAGI statement on AstraZeneca vaccine in response to new vaccine safety concerns | 8 April 2021](https://www.health.gov.au/news/atagi-statement-on-astrazeneca-vaccine-in-response-to-new-vaccine-safety-concerns)
 
 - Studies have suggested it may occur in approximately 4 - 6 people in every one million people in the 4-20 days after the first dose of vaccine. However, higher rates have been reported in Germany and some Scandinavian countries.
@@ -115,6 +116,12 @@ Yes, it would be great if all we had was Pfizer and we had millions and millions
 - Comirnaty (the Pfizer COVID-19 vaccine) does not appear to carry a risk of TTS. [Another study (NewsGP above) indicates otherwise.]
 - ATAGI respects a person’s choice to make an informed decision on whether to accept the risk of COVID-19 vaccination with the AstraZeneca vaccine.
 - In the context of the ongoing risk of COVID-19 in Australia, ATAGI considers that the benefit-to-risk balance is favourable for use of AstraZeneca vaccine in all older adult age groups.
+
+
+[Department of Health (Australia) | Is it true? Can COVID-19 vaccines give you COVID-19? | Updated 23 April 2021](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/is-it-true/is-it-true-can-covid-19-vaccines-give-you-covid-19)
+
+- None of the approved vaccines in Australia contain the live virus. This means they cannot give you COVID-19.
+
 
 [NewsGP RACGP | Benefits of AstraZeneca overwhelmingly high despite increased clotting risk | 28 April 2021](https://www1.racgp.org.au/newsgp/clinical/benefits-of-astrazeneca-overwhelmingly-high-despit)
 
@@ -138,6 +145,25 @@ Yes, it would be great if all we had was Pfizer and we had millions and millions
 [STAT | Why would a Covid vaccine cause rare blood clots? Researchers have found clues | 13 April 2021](https://www.statnews.com/2021/04/13/researchers-search-for-answers-in-puzzle-of-blood-clots-and-covid-vaccines-and-see-some-clues/)
 
 - he said there were 35 cases of serious blood clots with the vaccine made by Pfizer/BioNTech among 54 million doses given; five cases with the Moderna vaccine among 4 million Europeans dosed; and three cases, later updated to four, of blood clots with low platelet counts among 4.5 million people doses — apparently worldwide — with the vaccine developed by Johnson & Johnson. That is the number the U.S. appears to have updated to six cases out of 6.8 million doses.
+
+
+[News > Lifestyle > Health | Safety of COVID-19 vaccine by AstraZeneca explained: Blood clot cause, risks, chance of death and benefits | 16 April 2021](https://www.news.com.au/lifestyle/health/health-problems/safety-of-covid19-vaccine-by-astrazeneca-explained-blood-clot-cause-risks-chance-of-death-and-benefits/news-story/016c14235bdd3a581ebc6c030b51bdd4)
+
+- The top video says:
+  + TTS affects 4-6 people per million vaccinations
+  + Risk of blood clots after taking Astra Zeneca vaccine is about 1 in 200,000
+  + Risk of dying after taking AstraZeneca vaccine is about 1 in 800,000
+- The video in the "Is it a rare side-effect?" section says "The risk of mortality from COVID is much greater than the risk of mortality from these [Astra Zeneca blood clotting] side-effects"
+- Women under the age of 65 have predominantly been impacted.
+- Instances of blood clotting is less likely in older groups, the data suggests.
+- For example, based on the UK reports, for those in their 60s and above ... By comparison, we know that for every person in that age bracket who develops a clot, another 70 will wind up in intensive care in a month from COVID-19 infections.
+- [What I would like to know for over 50s in Australia, is the rate of death due to an AstraZeneca clot vs the rate of death due to COVID. I suspect we roughly know the first value now (around 1:800,000 to 1:1,000,000) whereas the death rate due to COVID involves predicting the future!]
+- What else can cause this kind of response? ... contraceptive pill ... Pregnancy ... Smokers ... minimal movement over long periods of time – such as on long-haul flights
+- Infographic:
+  + Shows the benefits of taking the Astra Zeneca increases with age
+  + Shows the harms (due to blood clots) of taking the Astra Zeneca decreases with age
+  + Original article at [Communicating the potential benefits and harms of the Astra-Zeneca COVID-19 vaccine](https://wintoncentre.maths.cam.ac.uk/news/communicating-potential-benefits-and-harms-astra-zeneca-covid-19-vaccine/)
+
 
 [ABC News | Your COVID-19 vaccine safety questions, answered by experts | Posted 28 February 2021 | Updated 1 March 2021](https://www.abc.net.au/news/2021-02-28/coronavirus-covid-vaccine-safety-concerns-answered-by-experts/13178614)
 
@@ -166,4 +192,27 @@ How do we know there won't be longer-term effects if we're testing short term?
 
 - More than 200 million doses of approved vaccines have also now been given worldwide and many doses have been of the two vaccines we're using in Australia. So far, we're not seeing longer-term side effects. [But later they did find the rare blood clotting issue!]
 - The only way we can be 100 per cent sure there are no long-term problems is to monitor long-term. 
+
+
+[Science (AAAS) | How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes | 17 April 2020](https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes)
+
+- Some clinicians suspect ... downhill trajectories is a disastrous overreaction of the immune system known as a “cytokine storm”
+- Some studies have shown elevated levels of these inflammation-inducing cytokines in the blood of hospitalized COVID-19 patients.
+- But others aren’t convinced. “There seems to have been a quick move to associate COVID-19 with these hyperinflammatory states. I haven’t really seen convincing data that that is the case”
+
+[Centers for Disease Control and Prevention (USA) | People at increased risk - Older Adults | 14 May 2021](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
+
+- [Interesting table showing risk of cases / hospitalizations / death by age group]
+
+[The Conversation | Coronavirus is growing exponentially – here’s what that really means | 4 April 2020 | Updated 11 November 2020](https://theconversation.com/coronavirus-is-growing-exponentially-heres-what-that-really-means-134591)
+
+- “... without drastic action, cases could double every five or six days”.
+- The consistent doubling of cases in a fixed period is the hallmark of exponential growth.
+
+[BBC Future (UK) | Exponential growth bias: The numerical error behind Covid-19 | 13 August 2020](https://www.bbc.com/future/article/20200812-exponential-growth-bias-the-numerical-error-behind-covid-19)
+
+- Exponential growth ... accelerates over time.
+- Perhaps the simplest example is population growth
+- According to various epidemiological studies, without intervention the number of new Covid-19 cases doubles every three to four days, which was the reason that so many scientists advised rapid lockdowns to prevent the pandemic from spiralling out of control.
+- The researchers speculate that some of the graphical representations found in the media may have been counter-productive. It’s common for the number of infections to be presented on a “logarithmic scale” ... it means that exponential growth looks more linear than it really is ... In their view, simple numerical tables may actually be more powerful.
 
