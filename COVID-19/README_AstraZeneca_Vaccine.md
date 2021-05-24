@@ -22,10 +22,46 @@ I've attempted to find answers to these questions (and others) in the references
 - I have attempted to avoid content from non-experts, typically politicians or social media.
 - I've also attempted to use recent information.
 
-On this page, most of the in text below a hyperlink is quoted/pasted directly from the article. Words in square brackets [...] are my own.
+
+## Main points
+
+- In Australia, our vaccines have had the full approval process, not emergency authorisation like in some countries.
+- AstraZeneca is a very effective vaccine against COVID (better than shown by the initial clinical trials).
+- One study claims the chance of clots (CVT) is 8 times higher if you get COVID compared to being given the AstraZeneca vaccine.
+  In other words, if you think you'd rather take your chances with COVID rather than risk the AstraZeneca clots,
+  you may be surprised to discover that the COVID blood clotting rate is higher!
+- The risk of clots after taking Astra is around 1:100,000 - 1:200,000.
+- The risk of death due to clots after taking Astra is around 1:800,000 - 1:1,000,000.
+- Hopefully the above risks are even lower in Australia because only those over 50 will be given AstraZeneca (initially at least).
+- In Australia, over 50 year olds will probably not have the opportunity to take Pfizer or Moderna until the end of 2021 or later.
+- None of the vaccines in Australia can give you COVID.
+
+
+## Future scenarios
+
+To date, Australia has had very little community transmission of COVID compared to many other countries, however ...
+
+- Australians are returning from overseas and many want international borders open over the next year or so.
+- Australia's hotel quarantine is inadequate so we are at risk of COVID escaping into the community
+  where most of us are vulnerable (as we haven't been infected yet).
+- Newer COVID variants (particularly the Indian variant) spread more rapidly than the original variant.
+- Potentially, we could experience exponential growth of COVID infections as seen in many other countries.
+- If many of us wait and only decide to get vaccinated once there is a large outbreak, I imagine there may be more logistical difficulties:
+  + very high ("panic") demand for the vaccine
+  + slower throughput of people being vaccinated due to extra precautions needed during widespread transmission
+  + additional strain on the health system and health workers because they would be dealing with COVID hospitalisations in addition to COVID vaccinations
+
+So although no one can tell what the future holds, it appears:
+
+- COVID is not going away
+- it is unlikely we can contain COVID indefinitely with our current hotel quarantine systems, more contagious variants and more international arrivals
+- it is unlikely that it can be managed in the long term without vaccines
 
 
 ## References
+
+In this section, most of the in text *below* a hyperlink is quoted/pasted directly from the article. Words in square brackets [...] are my own.
+
 
 [ABC News | SA man in 'very serious' condition with blood clotting connected to AstraZeneca COVID–19 vaccine | 20 May 2021](https://www.abc.net.au/news/2021-05-20/sa-man-in-very-serious-condition-with-vaccine-blood-clotting/100153266)
 
@@ -35,7 +71,7 @@ On this page, most of the in text below a hyperlink is quoted/pasted directly fr
 - one fatality, a 48-year-old
 
 [Hence Australian data to 20 May 2021 implies:
-- about 1 in 100,000 (some reports say 1:40,000 to 1:170,000) vaccinations will result in blood clotting
+- about 1 in 100,000 (some reports say 1:40,000 to 1:200,000) vaccinations will result in blood clotting
 - about 1 in 2 million will result in a fatality]
 
 
@@ -130,6 +166,7 @@ Yes, it would be great if all we had was Pfizer and we had millions and millions
 - and drops to about five per million for those 70 and over
 - ‘It’s hard for people to understand what that risk means to them when we just otherwise really seem to have a normal life,’ Associate Professor Hespe said. ‘Whereas we know medically that what we’re trying to do is prevent the awfulness that is happening overseas.’
 
+
 [NewsGP RACGP | Blood clots up to 10 times more common with COVID than vaccines: Study | 19 April 2021](https://www1.racgp.org.au/newsgp/clinical/blood-clots-up-to-10-times-more-common-with-covid)
 
 - cerebral venous thrombosis (CVT)
@@ -137,10 +174,12 @@ Yes, it would be great if all we had was Pfizer and we had millions and millions
 - around 39 in one million people with COVID are diagnosed with CVT
 - meaning people with coronavirus are between 8–10 times more likely to develop the blood clots than those who have been vaccinated against it
 
+
 [NewsGP RACGP | Are blood clots a concern with mRNA vaccines? | 23 Apr 2021](https://www1.racgp.org.au/newsgp/clinical/are-blood-clots-a-concern-with-mrna-vaccines)
 
 - there have been more than 300 cases of TTS associated with coronavirus vaccines worldwide, including 287 occurrences with AstraZeneca, eight with Johnson & Johnson, 25 with Pfizer and five with Moderna.
 - in the US, where more than 180 million doses of the Pfizer and Moderna vaccines have been administered, the Centers for Disease Control and Prevention (CDC) says there have been zero cases of TTS reported.
+
 
 [STAT | Why would a Covid vaccine cause rare blood clots? Researchers have found clues | 13 April 2021](https://www.statnews.com/2021/04/13/researchers-search-for-answers-in-puzzle-of-blood-clots-and-covid-vaccines-and-see-some-clues/)
 
@@ -200,14 +239,17 @@ How do we know there won't be longer-term effects if we're testing short term?
 - Some studies have shown elevated levels of these inflammation-inducing cytokines in the blood of hospitalized COVID-19 patients.
 - But others aren’t convinced. “There seems to have been a quick move to associate COVID-19 with these hyperinflammatory states. I haven’t really seen convincing data that that is the case”
 
+
 [Centers for Disease Control and Prevention (USA) | People at increased risk - Older Adults | 14 May 2021](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
 
 - [Interesting table showing risk of cases / hospitalizations / death by age group]
+
 
 [The Conversation | Coronavirus is growing exponentially – here’s what that really means | 4 April 2020 | Updated 11 November 2020](https://theconversation.com/coronavirus-is-growing-exponentially-heres-what-that-really-means-134591)
 
 - “... without drastic action, cases could double every five or six days”.
 - The consistent doubling of cases in a fixed period is the hallmark of exponential growth.
+
 
 [BBC Future (UK) | Exponential growth bias: The numerical error behind Covid-19 | 13 August 2020](https://www.bbc.com/future/article/20200812-exponential-growth-bias-the-numerical-error-behind-covid-19)
 
