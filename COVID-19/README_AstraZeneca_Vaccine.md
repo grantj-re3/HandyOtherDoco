@@ -27,18 +27,17 @@ I've attempted to find answers to these questions (and others) in the references
 
 Here I list what I feel are the important points from the references section.
 
-- In Australia, our **vaccines have had the full approval process, not emergency authorisation** like in some countries.
-- In Australia, approved **vaccines cannot give you COVID-19.**
-- AstraZeneca is a very effective vaccine against COVID (better than shown by the initial clinical trials).
-- One study claims the **chance of blood clots (CVT) is 8 times higher if you get COVID compared to being given the AstraZeneca vaccine.**
+- In Australia, our **vaccines have had the full approval process, not emergency authorisation** like in some countries. [17]
+- In Australia, approved **vaccines cannot give you COVID-19.** [11]
+- AstraZeneca is a very effective vaccine against COVID (better than shown by the initial clinical trials). [5]
+- One study claims the **chance of blood clots (CVT) is 8-10 times higher if you get COVID compared to being given the AstraZeneca vaccine.** [13]
   In other words, if you think you'd rather take your chances with COVID rather than risk the AstraZeneca clots,
   you may be surprised to discover that the COVID blood clotting rate is higher than the AstraZeneca blood clotting rate!
-- To date [23 May 2021] **the observed number of deaths reported after vaccination is actually less than the [before COVID?] expected number of deaths**
-- The risk of clots after taking Astra is around 1:100,000 - 1:200,000.
-- The risk of death due to clots after taking Astra is around 1:800,000 - 1:1,000,000.
+- To date [23 May 2021] **the observed number of deaths reported after vaccination is actually less than the [before COVID?] expected number of deaths** [26]
+- The risk of clots after taking Astra is around 1:100,000 - 1:200,000. [2, 16, 23]
+- The risk of death due to clots after taking Astra is around 1:800,000 - 1:1,000,000. [10, 16]
 - Hopefully the above risks are even lower in Australia because only those over 50 will be given AstraZeneca (initially at least).
-- In Australia, over 50 year olds will probably not have the opportunity to take Pfizer or Moderna until the end of 2021 or later.
-- None of the vaccines in Australia can give you COVID.
+- In Australia, over 50 year olds will probably not have the opportunity to take Pfizer or Moderna until the end of 2021 or later. [5]
 
 
 ## Future scenarios
