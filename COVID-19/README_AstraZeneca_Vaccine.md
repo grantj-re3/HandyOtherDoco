@@ -113,32 +113,32 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
 
 1. [ABC Coronacast | Why should I bother getting AstraZeneca today? | 21 May 2021](https://www.abc.net.au/radio/programs/coronacast/why-should-i-bother-getting-astrazeneca-today/13352830) including transcript
 
-- [Why should over 50s take AstraZeneca vaccine now (May 2021)? Why not wait until Pfizer or Moderna is available?]
-- [Risk of spread in Australia]
-  + People are coming back from overseas
-  + We do not have adequate hotel quarantine
-  + We are at continued risk of it escaping into the community
-  + We only have had a fraction of Australians who have been infected with COVID-19 ... [hence] most of us are vulnerable
-  + it's winter and people are indoors and there's potential for high spread
-- [Future]
-  + eventually we will have vaccine passports for overseas travel.
-  + whilst the government says that you'll be able to get Pfizer at the end of the year and there will be plenty of doses, we don't know that yet.
-  + there's going to be a queue of people from 12 years to 50 years ... So if you are over 50, you are at the back of the queue for Pfizer and Moderna, behind people who are under 50, and quite rightly so because they are at higher risk of the Astra clotting.
-- [Lower risk of blood clots for over 50 years old]
-  + the data from Finland, Norway, Germany is that it was around about one in 40,000, one in 50,000 doses that people under 50 were getting [blood clotting]
-  + ... versus what looks like one in 87,000 [in Australia for over 50s]
-- [Efficacy - the ability to produce a desired result]
-  + Both [Astra and Pfizer] protect against severe infection to almost 100%
-  + any symptomatic infection with Astra is around about 85%, 12 weeks apart
-  + [compared with old Astra info] ... 62% comes from the early trials where they gave it four weeks apart
-  + Both [Astra and Pfizer] beat the influenza vaccine hands down. So they are really reasonably high performing vaccines.
-- [Opinion by Dr Norman Swan]
-  + Yes, it would be great if all we had was Pfizer and we had millions and millions of doses and we could just get on with it the way the United States and Israel and the United Kingdom have, but we are not in that situation and I think that we've got to make the most of it.
-- [Astra vs Pfizer effectiveness against COVID variants]
-  + it's likely that we will need boosters next year
-  + with the Indian variant there's not a lot of evidence that Astra is any less effective than Pfizer, and people in Singapore were infected with the Indian variant having had Pfizer. They didn't get seriously ill, but they got some symptoms though.
-  + [not so with South African variant]
-  + from the early British studies that were just published a few days ago ... if you have Astra first and Pfizer second, you actually get a better antibody response than if you'd had two doses of Pfizer
+   - [Why should over 50s take AstraZeneca vaccine now (May 2021)? Why not wait until Pfizer or Moderna is available?]
+   - [Risk of spread in Australia]
+     + People are coming back from overseas
+     + We do not have adequate hotel quarantine
+     + We are at continued risk of it escaping into the community
+     + We only have had a fraction of Australians who have been infected with COVID-19 ... [hence] most of us are vulnerable
+     + it's winter and people are indoors and there's potential for high spread
+   - [Future]
+     + eventually we will have vaccine passports for overseas travel.
+     + whilst the government says that you'll be able to get Pfizer at the end of the year and there will be plenty of doses, we don't know that yet.
+     + there's going to be a queue of people from 12 years to 50 years ... So if you are over 50, you are at the back of the queue for Pfizer and Moderna, behind people who are under 50, and quite rightly so because they are at higher risk of the Astra clotting.
+   - [Lower risk of blood clots for over 50 years old]
+     + the data from Finland, Norway, Germany is that it was around about one in 40,000, one in 50,000 doses that people under 50 were getting [blood clotting]
+     + ... versus what looks like one in 87,000 [in Australia for over 50s]
+   - [Efficacy - the ability to produce a desired result]
+     + Both [Astra and Pfizer] protect against severe infection to almost 100%
+     + any symptomatic infection with Astra is around about 85%, 12 weeks apart
+     + [compared with old Astra info] ... 62% comes from the early trials where they gave it four weeks apart
+     + Both [Astra and Pfizer] beat the influenza vaccine hands down. So they are really reasonably high performing vaccines.
+   - [Opinion by Dr Norman Swan]
+     + Yes, it would be great if all we had was Pfizer and we had millions and millions of doses and we could just get on with it the way the United States and Israel and the United Kingdom have, but we are not in that situation and I think that we've got to make the most of it.
+   - [Astra vs Pfizer effectiveness against COVID variants]
+     + it's likely that we will need boosters next year
+     + with the Indian variant there's not a lot of evidence that Astra is any less effective than Pfizer, and people in Singapore were infected with the Indian variant having had Pfizer. They didn't get seriously ill, but they got some symptoms though.
+     + [not so with South African variant]
+     + from the early British studies that were just published a few days ago ... if you have Astra first and Pfizer second, you actually get a better antibody response than if you'd had two doses of Pfizer
 
 
 1. [BBC News | The race to treat post-vaccine blood clots | c.28 May 2021](https://www.bbc.com/news/health-57260463)
@@ -321,6 +321,7 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
    - 94 % (852 of 910) of COVID-19 deaths in Australia have been in those aged 70 or over.
    - Apart from the **single Australian case in which death was linked to TTS**, COVID-19 vaccines have not been found to cause death.
    - This takes the total Australian reports of cases assessed as TTS following the AstraZeneca vaccine to 27 confirmed cases and six probable cases.
+
 
 1. [Department of Health (Australia) | COVID-19 vaccine rollout daily update | 28 May 2021 | Updated daily](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/australias-covid-19-vaccine-rollout)
 
