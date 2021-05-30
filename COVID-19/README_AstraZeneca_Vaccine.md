@@ -25,11 +25,14 @@ I've attempted to find answers to these questions (and others) in the references
 
 ## Main points
 
-- In Australia, our vaccines have had the full approval process, not emergency authorisation like in some countries.
+Here I list what I feel are the important points from the references section.
+
+- In Australia, our **vaccines have had the full approval process, not emergency authorisation** like in some countries.
 - AstraZeneca is a very effective vaccine against COVID (better than shown by the initial clinical trials).
-- One study claims the chance of clots (CVT) is 8 times higher if you get COVID compared to being given the AstraZeneca vaccine.
+- One study claims the **chance of blood clots (CVT) is 8 times higher if you get COVID compared to being given the AstraZeneca vaccine.**
   In other words, if you think you'd rather take your chances with COVID rather than risk the AstraZeneca clots,
-  you may be surprised to discover that the COVID blood clotting rate is higher!
+  you may be surprised to discover that the COVID blood clotting rate is higher than the AstraZeneca blood clotting rate!
+- To date [23 May 2021] **the observed number of deaths reported after vaccination is actually less than the [before COVID?] expected number of deaths**
 - The risk of clots after taking Astra is around 1:100,000 - 1:200,000.
 - The risk of death due to clots after taking Astra is around 1:800,000 - 1:1,000,000.
 - Hopefully the above risks are even lower in Australia because only those over 50 will be given AstraZeneca (initially at least).
@@ -63,12 +66,28 @@ So although no one can tell what the future holds, it appears:
 In this section, most of the in text *below* a hyperlink is quoted/pasted directly from the article. Words in square brackets [...] are my own.
 
 
-[ABC News | SA man in 'very serious' condition with blood clotting connected to AstraZeneca COVID–19 vaccine | 20 May 2021](https://www.abc.net.au/news/2021-05-20/sa-man-in-very-serious-condition-with-vaccine-blood-clotting/100153266)
+1. [Healthdirect Australia | COVID-19 vaccines, thrombocytopenia and blood clots — what’s the story? | 19 Apr 2021](https://www.healthdirect.gov.au/blog/covid-19-vaccines-thrombocytopenia-and-blood-clots)
 
-- About 2.1 million AstraZeneca jabs have been administered in Australia
-- [24 cases of blood clots (thrombosis with thrombocytopenia syndrome (TTS), including suspected cases) in Australia in total]
-- 21 (of those) cases were out of hospital
-- one fatality, a 48-year-old
+   - ‘Thrombosis with thrombocytopenia syndrome’ (TTS) ... occurs when a person has blood clots (thrombosis) as well as low platelet counts (thrombocytopenia).
+   - It’s also referred to as ‘vaccine induced prothrombotic immune thrombocytopenia’ (VIPIT).
+   - The AstraZeneca COVID-19 vaccine has been linked to [TTS]. [The linkage seems to be generally accepted now.]
+   - [The frequency statistics are out of date.]
+   - You should seek immediate medical attention if, [between day 4 and 20] following vaccination, you have any symptoms, such as:
+     + a severe or persistent headache
+     + blurred vision
+     + shortness of breath
+     + chest pain
+     + leg swelling
+     + persistent abdominal (stomach) pain
+     + unusual skin bruising and/or ‘pin-point’ round spots beyond the site of injection
+
+
+1. [ABC News | SA man in 'very serious' condition with blood clotting connected to AstraZeneca COVID–19 vaccine | 20 May 2021](https://www.abc.net.au/news/2021-05-20/sa-man-in-very-serious-condition-with-vaccine-blood-clotting/100153266)
+
+   - About 2.1 million AstraZeneca jabs have been administered in Australia
+   - [24 cases of blood clots (thrombosis with thrombocytopenia syndrome (TTS), including suspected cases) in Australia in total]
+   - 21 (of those) cases were out of hospital
+   - one fatality, a 48-year-old
 
 [Hence Australian data to 20 May 2021 implies:
 - about 1 in 100,000 (some reports say 1:40,000 to 1:200,000) vaccinations will result in blood clotting
@@ -133,6 +152,31 @@ Yes, it would be great if all we had was Pfizer and we had millions and millions
 - with the Indian variant there's not a lot of evidence that Astra is any less effective than Pfizer, and people in Singapore were infected with the Indian variant having had Pfizer. They didn't get seriously ill, but they got some symptoms though.
 - [not so with South African variant]
 - from the early British studies that were just published a few days ago ... if you have Astra first and Pfizer second, you actually get a better antibody response than if you'd had two doses of Pfizer
+
+[BBC News | The race to treat post-vaccine blood clots | c.28 May 2021](https://www.bbc.com/news/health-57260463)
+
+- vaccine-induced thrombosis and thrombocytopenia - VITT
+- [treating VITT] is quite different to how one would normally treat a low platelet count or a blood clot.
+- He was treated with non-heparin blood thinners and a transfusion of immunoglobulin and his condition gradually improved.
+
+
+[Guardian | German scientists say they can help improve Covid vaccines to prevent blood clots | 27 May 2021](https://www.theguardian.com/world/2021/may/26/german-scientists-say-they-can-help-improve-vaccines-to-prevent-blood-clots)
+
+- The blood clots are rare but troubling in the younger age group who are more at risk of clotting
+- pre-print which has not undergone peer review [not yet verified by other experts]
+- problem lies in the entry of the adenovirus [a modified and harmless virus used as a delivery system for genetic instructions] into the nucleus of the cell rather than just the cellular fluid, where the virus normally makes proteins.
+- Inside the cell nucleus, parts of the spike protein splice or split apart. These become mutant protein pieces which float off into the body and can very rarely trigger blood clots, the scientists believe.
+- the vaccines can be redesigned to avoid the problem.
+- [Research Square | Preprint: “Vaccine-Induced Covid-19 Mimicry” Syndrome: Splice reactions within the SARS-CoV-2 Spike open reading frame result in Spike protein variants that may cause thromboembolic events in patients immunized with vector-based vaccines | 26 May 2021](https://doi.org/10.21203/rs.3.rs-558954/v1)
+
+
+[ABC Coronacast | Could German researchers have found a link between Astra and blood clots? | 23 Mar 2021](https://www.abc.net.au/radio/programs/coronacast/could-researchers-have-found-link-between-astra-blood-clots/13268130) including transcript
+
+- a group of German researchers and some reports in the Wall Street Journal
+- disproportionately affect women under 55.
+- the same antibodies that are created when you have the drug heparin [a blood thinner / anticoagulant]
+- Older people, probably men, are much less susceptible to this side effect
+- don't panic if you get a headache on day one [after getting the vaccine jab] because this is not this problem, [blood clot symptoms are] a day four issue
 
 
 [Department of Health (Australia) | About the AstraZeneca COVID-19 vaccine | Updated: 12 May 2021](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/learn-about-covid-19-vaccines/about-the-astrazeneca-covid-19-vaccine#thrombosis-with-thrombocytopenia-syndrome-tts)
@@ -247,14 +291,57 @@ How do we know there won't be longer-term effects if we're testing short term?
 
 [The Conversation | Coronavirus is growing exponentially – here’s what that really means | 4 April 2020 | Updated 11 November 2020](https://theconversation.com/coronavirus-is-growing-exponentially-heres-what-that-really-means-134591)
 
-- “... without drastic action, cases could double every five or six days”.
 - The consistent doubling of cases in a fixed period is the hallmark of exponential growth.
+- With cases doubling every three to four days in the UK and deaths doubling every two to three days, things could get ugly quickly.
 
 
 [BBC Future (UK) | Exponential growth bias: The numerical error behind Covid-19 | 13 August 2020](https://www.bbc.com/future/article/20200812-exponential-growth-bias-the-numerical-error-behind-covid-19)
 
 - Exponential growth ... accelerates over time.
-- Perhaps the simplest example is population growth
 - According to various epidemiological studies, without intervention the number of new Covid-19 cases doubles every three to four days, which was the reason that so many scientists advised rapid lockdowns to prevent the pandemic from spiralling out of control.
 - The researchers speculate that some of the graphical representations found in the media may have been counter-productive. It’s common for the number of infections to be presented on a “logarithmic scale” ... it means that exponential growth looks more linear than it really is ... In their view, simple numerical tables may actually be more powerful.
+
+
+[World Health Organization | AstraZeneca ChAdOx1-S/nCoV-19 [recombinant], COVID-19 vaccine: COVID-19 vaccine explainer | 10 May 2021](https://www.who.int/publications/m/item/chadox1-s-recombinant-covid-19-vaccine)
+
+- [World Health Organization | COVID-19 Vaccine ChAdOx1-S [recombinant]: COVID-19 vaccine explainer | 26 February 2021 | Updated 10 May 2021](https://www.who.int/docs/default-source/coronaviruse/act-accelerator/covax/11-may_21189_astrazeneca_vaccine-explainer-version-2.pdf?sfvrsn=5a29068e_1&download=true)
+  + Precautions ... While no specific risk factors have yet been identified, current data from Europe suggest that the risk of TTS [blood clots] may be higher in younger adults compared to older adults... Very few cases have been reported from non-European countries despite extensive use of vaccine.
+  + Safety information ... Very rare (< 1/10 000): ... Outside of clinical trials, a very rare syndrome of blood clotting ... has been reported around 4 to 20 days following vaccination. A causal relationship between the vaccine and the TTS is considered plausible although the biological mechanism is still being investigated.
+
+
+[World Health Organization | Interim recommendations for use of the ChAdOx1-S [recombinant] vaccine against COVID-19 (AstraZeneca COVID-19 vaccine AZD1222, SII Covishield, SK Bioscience): Interim guidance | 21 April 2021](https://www.who.int/publications/i/item/WHO-2019-nCoV-vaccines-SAGE_recommendation-AZD1222-2021.1)
+
+- [World Health Organization | Interim recommendations for use of the ChAdOx1-S [recombinant] vaccine against COVID-19 (AstraZeneca COVID-19 vaccine AZD1222, SII Covishield, SK Bioscience): Interim guidance | 10 February 2021 | Updated 21 April 2021](https://apps.who.int/iris/rest/bitstreams/1343289/retrieve)
+  + Data from the United Kingdom (31 March 2021) suggest the risk of TTS is approximately... 1 case per 250,000 vaccinated adults
+  + the rate is estimated to be approximately 1 case per 100,000 in the EU.
+  + ...phase 3 trial of the vaccine in the United States, which included a larger number of participants aged 65 years or older, showed an efficacy of 85%
+  + studies from the United Kingdom have shown high rates of protection against hospitalizations, severe COVID-19 and death in older persons, including those over the age of 80 years.
+
+
+[Therapeutic Goods Administration (Australia) | COVID-19 vaccine: News and updates | Updated frequently](https://www.tga.gov.au/covid-19-vaccine-news-and-updates)
+
+- [General TGA COVID-19 news]
+
+
+[Therapeutic Goods Administration (Australia) | COVID-19 vaccine weekly safety report | Updated weekly](https://www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report)
+
+- [List of COVID-19 vaccine weekly safety reports]
+
+
+[Therapeutic Goods Administration (Australia) | COVID-19 vaccine weekly safety report - 27-05-2021 | 27 May 2021](https://www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report-27-05-2021)
+
+- To 23 May 2021, 3.6 million doses of COVID-19 vaccines have been given in Australia. In this period, the TGA has received 210 reports of deaths following immunisation – 109 have been reported for the Pfizer vaccine, 94 for the AstraZeneca vaccine. [The report does not show how many AstraZeneca doses were administered.]
+- (93%) were for people 65 years of age and over
+- Many of the deaths relate to elderly aged-care residents.
+- To date [23 May 2021] the observed number of deaths reported after vaccination is actually less than the [before COVID?] expected number of deaths. [Almost all of these were administered to vulnerable groups and those 50 or more years old.]
+- Each year in Australia, there are about ... 3050 [deaths from all causes] each week... two-thirds of these deaths were in people aged 75 years and over.
+- 94 % (852 of 910) of COVID-19 deaths in Australia have been in those aged 70 or over.
+- Apart from the **single Australian case in which death was linked to TTS**, COVID-19 vaccines have not been found to cause death.
+- This takes the total Australian reports of cases assessed as TTS following the AstraZeneca vaccine to 27 confirmed cases and six probable cases.
+
+[Department of Health (Australia) | COVID-19 vaccine rollout daily update | 28 May 2021 | Updated daily](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/australias-covid-19-vaccine-rollout)
+
+- 4,153,149 Total vaccine doses administered as at 28 May
+- 346,109 Total vaccine doses administered in aged care and disability facilities as at 28 May
+- 2,316,013 Total vaccine doses administered in primary care settings as at 28 May [General Practice (GP), Aboriginal community controlled health services (ACCHS) and General Practice-Led Respiratory Clinics (GPRC)]
 
