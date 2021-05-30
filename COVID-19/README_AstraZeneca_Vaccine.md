@@ -28,6 +28,7 @@ I've attempted to find answers to these questions (and others) in the references
 Here I list what I feel are the important points from the references section.
 
 - In Australia, our **vaccines have had the full approval process, not emergency authorisation** like in some countries.
+- In Australia, approved **vaccines cannot give you COVID-19.**
 - AstraZeneca is a very effective vaccine against COVID (better than shown by the initial clinical trials).
 - One study claims the **chance of blood clots (CVT) is 8 times higher if you get COVID compared to being given the AstraZeneca vaccine.**
   In other words, if you think you'd rather take your chances with COVID rather than risk the AstraZeneca clots,
@@ -87,7 +88,7 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
    - About 2.1 million AstraZeneca jabs have been administered in Australia
    - [24 cases of blood clots (thrombosis with thrombocytopenia syndrome (TTS), including suspected cases) in Australia in total]
    - 21 (of those) cases were out of hospital
-   - one fatality, a 48-year-old
+   - one fatality, a 48-year-old woman
    - [Hence Australian data to 20 May 2021 implies:
      + about 1 in 100,000 (some reports say 1:40,000 to 1:200,000) vaccinations will result in blood clotting
      + about 1 in 2 million will result in a fatality]
@@ -137,7 +138,6 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
    - [Astra vs Pfizer effectiveness against COVID variants]
      + it's likely that we will need boosters next year
      + with the Indian variant there's not a lot of evidence that Astra is any less effective than Pfizer, and people in Singapore were infected with the Indian variant having had Pfizer. They didn't get seriously ill, but they got some symptoms though.
-     + [not so with South African variant]
      + from the early British studies that were just published a few days ago ... if you have Astra first and Pfizer second, you actually get a better antibody response than if you'd had two doses of Pfizer
 
 
