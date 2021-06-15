@@ -5,20 +5,20 @@
 
 Here I list what I feel are the important points from the references section.
 
-- Herd immunity is when most of a population is immune to an infectious disease and this provides indirect protection to those who are not immune to the disease.
-- One of the aims of achieving herd immunity is to keep vulnerable groups who cannot get vaccinated protected from the disease.
-- Typically immunity comes from either being exposed to the disease or having a vaccine.
-- Vaccines train our immune systems to create antibodies that fight the disease but without making us sick.
-- It appears that people previously infected with COVID and people who have had a vaccine can be infected a second time.
-- It is very unlikely that COVID will be eradicated.
+- Herd immunity is when most of a population is immune to an infectious disease and this provides indirect protection to those who are not immune to the disease. [1]
+- One of the aims of achieving herd immunity is to keep vulnerable groups who cannot get vaccinated protected from the disease. [2]
+- Typically immunity comes from either being exposed to the disease or having a vaccine. [3]
+- Vaccines train our immune systems to create antibodies that fight the disease but without making us sick. [2]
+- It appears that people previously infected with COVID and people who have had a vaccine can be infected a second time. [2]
+- It is very unlikely that COVID will be eradicated. [1]
 - The proportion of the population that must be vaccinated against COVID-19 to begin inducing herd immunity is not known, but estimates are 60-90%.
-- Several factors may affect the herd immunity threshold incuding new variants, change in human behaviour and how much vaccines prevent transmission.
-- Herd immunity should be thought of as a gradient rather than a single number.
+- Several factors may affect the herd immunity threshold including new variants, change in human behaviour and how much vaccines prevent transmission. [4]
+- Herd immunity should be thought of as a gradient rather than a single number. [5]
 - Even if we don't achieve herd immunity, the more people that are vaccinated:
-  + those people are less likely to get sick, to go to the hospital, or die
+  + those people are less likely to get sick, to go to the hospital, or die [7]
   + those people are less likely to spread the virus, hence:
-    * others will be less likely to get sick, to go to the hospital, or die
-    * unvaccinated people will be more protected
+    * others will be less likely to get sick, to go to the hospital, or die [6]
+    * unvaccinated people will be more protected [1]\[2]\[5]
     * [the less stress on the health system (e.g. availability of staff and beds in hospitals and other health care settings)]
 
 
