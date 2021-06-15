@@ -1,5 +1,27 @@
 # Herd immunity and COVID-19
 
+
+## Main points
+
+Here I list what I feel are the important points from the references section.
+
+- Herd immunity is when most of a population is immune to an infectious disease and this provides indirect protection to those who are not immune to the disease.
+- One of the aims of achieving herd immunity is to keep vulnerable groups who cannot get vaccinated protected from the disease.
+- Typically immunity comes from either being exposed to the disease or having a vaccine.
+- Vaccines train our immune systems to create antibodies that fight the disease but without making us sick.
+- It appears that people previously infected with COVID and people who have had a vaccine can be infected a second time.
+- It is very unlikely that COVID will be eradicated.
+- The proportion of the population that must be vaccinated against COVID-19 to begin inducing herd immunity is not known, but estimates are 60-90%.
+- Several factors may affect the herd immunity threshold incuding new variants, change in human behaviour and how much vaccines prevent transmission.
+- Herd immunity should be thought of as a gradient rather than a single number.
+- Even if we don't achieve herd immunity, the more people that are vaccinated:
+  + those people are less likely to get sick, to go to the hospital, or die
+  + those people are less likely to spread the virus, hence:
+    * others will be less likely to get sick, to go to the hospital, or die
+    * unvaccinated people will be more protected
+    * [the less stress on the health system (e.g. availability of staff and beds in hospitals and other health care settings)]
+
+
 ## References
 
 In this section, most of the in text *below* a hyperlink is quoted/pasted directly from the article. Words in square brackets [...] are my own.
@@ -58,4 +80,37 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
      + Even after the threshold has been passed, isolated outbreaks will still occur.
      + The vaccine is “an absolutely astonishing development”, but it’s unlikely to completely halt the spread, so we need to think of how we can live with the virus
      + Even without herd immunity, the ability to vaccinate vulnerable people seems to be reducing hospitalizations and deaths from COVID-19.
+
+
+1. [National Geographic (USA) | Are we there yet? What happens if the U.S. can't reach herd immunity | 5 June 2021](https://www.nationalgeographic.com/science/article/are-we-there-yet-what-happens-if-the-us-cant-reach-herd-immunity)
+
+   - Amid a swirl of misinformation, distribution issues, and legitimate hesitancy, as of June 3, only 51 percent of Americans have received at least one shot, and just 41 percent are fully vaccinated.
+   - What herd immunity thresholds get you is more sustainable, more long-term control of the outbreak
+   - likens the herd immunity threshold to a weather forecaster reporting on a nationwide average temperature rather than local conditions... wherever the pockets of people are that are not protected, there will be flare-ups in infections. It’s just a question of how long it takes for them to happen.
+   - We have to be careful not to interpret the absence of cases right now as meaning that we’re protected.
+   - As long as the virus is allowed to circulate anywhere ... it poses a threat to the immunocompromised and others who can’t get vaccines. It also has the potential to give rise to variants that evade the vaccines.
+   - herd immunity should be thought of as a gradient rather than a single number: As more people get vaccinated, the entire population is better protected.
+   - “We all want to see infection rates go down, but we want to see the deaths go down first and more sharply” ... [USA] Nationwide deaths are down from an average of more than 3,500 per day to about 500.
+   - [Even] vaccinating 50 to 70 percent of the population with a vaccine that’s 95 percent effective at preventing COVID-19 will go a long way... “It’ll still find them, but it’ll be slower. And the ... more people vaccinated, the more protected unvaccinated people will be.”
+
+
+1. [The Atlantic (USA)| What If We Never Reach Herd Immunity? | 9 February 2021](https://www.theatlantic.com/health/archive/2021/02/herd-immunity-might-be-impossible-even-vaccines/617973/)
+
+   - While COVID-19 vaccines are very good ... at preventing disease, they are still unlikely to be good enough against transmission of the virus, which is key to herd immunity.
+   - The role of COVID-19 vaccines may ultimately be more akin to that of the flu shot: reducing hospitalizations and deaths by mitigating the disease’s severity.
+   - The COVID-19 vaccines as a whole are excellent at preventing severe disease
+   - Right now, wealthy countries have largely bought out the vaccine supply... Rampant spread in unvaccinated countries may very well seed new variants that come back to cause new outbreaks in vaccinated countries.
+   - There are four important thresholds, from easiest to hardest to achieve: protection against severe symptoms, protection against any symptoms, protection against transmission, and protection against infection.
+   - In the long term, immunity in general tends to wane, with protection against severe disease being the most durable.
+   - Even if the herd-immunity threshold is not reached, every additional person vaccinated is a person who would generally be spreading less virus than if they were not vaccinated. A person exposed to less virus is also a person less likely to get sick, to go to the hospital, or to die.
+
+
+1. [The Conversation | We may never achieve long-term global herd immunity for COVID. But if we’re all vaccinated, we’ll be safe from the worst | 4 May 2021](https://theconversation.com/we-may-never-achieve-long-term-global-herd-immunity-for-covid-but-if-were-all-vaccinated-well-be-safe-from-the-worst-159821)
+
+   - But it’s still very uncertain whether long-term, global herd immunity is achievable.
+   - Vaccines are the ultimate path to long-term immunity
+   - The coronavirus will probably never be eliminated
+   - Even if we overcome vaccine hesitancy and global inaction, and we immunise most of the world, we may not be protected against the virus forever.
+   - We [in Australia] have virtually no local COVID-19 transmission... However, we probably can’t maintain this level of vigilance forever.
+   - Even so, getting vaccinated enormously reduces your risk of severe outcomes like hospitalisation and death.
 

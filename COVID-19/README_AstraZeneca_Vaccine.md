@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am an over 50 year old living in Australia. Unless one has some speical medical condition:
+I am an over 50 year old living in Australia. Unless one has some special medical condition:
 
 - my cohort will receive an AstraZeneca vaccine or no vaccine
 - we will not have a choice of Pfizer anytime soon (unlikely to be in the next 6-12 months)
@@ -10,7 +10,7 @@ I am an over 50 year old living in Australia. Unless one has some speical medica
 To me, the big vaccine (life or death) questions are:
 
 - Were corners cut during rapid approval process for AstraZeneca (or Pfizer) vaccine?
-- What is the level of risk for over 50s taking AstraZeneca?
+- What is the risk of blood clots for over 50s taking AstraZeneca?
 
 Less important (because it is not a question of life or death) is:
 
@@ -18,8 +18,9 @@ Less important (because it is not a question of life or death) is:
 
 I've attempted to find answers to these questions (and others) in the references below. I've attempted to use trusted sources of information... but it depends whether you trust the same people and organisations as me! Since I am not a health expert I need to rely on others.
 
-- I have attempted to use content from health officials, health academics, health professional bodies, health reporters and reporting organisations who use the similar experts.
+- I have attempted to use content from health officials, health academics, health professional bodies, health reporters and reporting organisations who use similar experts.
 - I have attempted to avoid content from non-experts, typically politicians or social media.
+- I have attempted to reference both positive and negative aspects.
 - I've also attempted to use recent information.
 
 
@@ -34,9 +35,11 @@ Here I list what I feel are the important points from the references section.
   In other words, if you think you'd rather take your chances with COVID rather than risk the AstraZeneca clots,
   you may be surprised to discover that the COVID blood clotting rate is higher than the AstraZeneca blood clotting rate!
 - To date [23 May 2021] **the observed number of deaths reported after vaccination is actually less than the [before COVID?] expected number of deaths** [26]
-- The risk of clots after taking Astra is around 1:100,000 - 1:200,000. [2, 16, 23]
-- The risk of death due to clots after taking Astra is around 1:800,000 - 1:1,000,000. [10, 16]
-- Hopefully the above risks are even lower in Australia because only those over 50 will be given AstraZeneca (initially at least).
+- The risk of clots after taking Astra is around 1:100,000 - 1:200,000. [2]\[16]\[23]
+- The risk of death due to clots after taking Astra is around 1:800,000 - 1:1,000,000. [10]\[16]
+- Women under the age of 55-65 have been disproportionately affected by blood clots [8]\[16]
+- Hopefully the above risks are even lower in Australia because only those over 50 will be given AstraZeneca (initially at least)
+  and over 50s have a lesser risk of blood clots than younger people. [7]\[22]
 - In Australia, over 50 year olds will probably not have the opportunity to take Pfizer or Moderna until the end of 2021 or later. [5]
 
 
@@ -177,6 +180,12 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
 
 1. [Department of Health (Australia) | ATAGI statement on AstraZeneca vaccine in response to new vaccine safety concerns | 8 April 2021](https://www.health.gov.au/news/atagi-statement-on-astrazeneca-vaccine-in-response-to-new-vaccine-safety-concerns)
 
+   - Pfizer ... is preferred over ... AstraZeneca in adults aged under 50 years... based on
+     + increasing risk of severe outcomes from COVID-19 in older adults
+     + potentially increased risk of [TTS] following AstraZeneca vaccine in those under 50 years
+   - At the present time, the AstraZeneca vaccine is the only vaccine option for reducing this risk for many Australians, since the global availability of alternative vaccines is highly constrained.
+   - ATAGI recognises this safety concern will likely impact on confidence in being vaccinated with AstraZeneca
+   - delays in vaccine uptake increase the vulnerability of the Australian population to outbreaks of COVID-19
    - Studies have suggested it may occur in approximately 4 - 6 people in every one million people in the 4-20 days after the first dose of vaccine. However, higher rates have been reported in Germany and some Scandinavian countries.
    - TTS can cause serious long term disability or death (with death occurring in approximately 25% of reported cases). [Implies 1 - 1.5 deaths per million people after the first dose of AstraZeneca.]
    - So far no specific biological risk factors or pre-existing medical conditions have been found to modify (i.e. increase or decrease) the risk of TTS occurring after AstraZeneca vaccine.
