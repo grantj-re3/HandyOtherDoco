@@ -1,4 +1,10 @@
-# COVID-19 and AstraZeneca vaccine for over 50s in Australia
+# COVID-19 and AstraZeneca vaccine for over ~~50s~~ 60s in Australia
+
+## Update 19 June 2021
+
+- Sadly, a second person has died due to blood clots in Australia. [10 June 2021] \[28]
+- Based on new information, the ATAGI recommends Pfizer (not AstraZeneca) to those aged under 60 years of age (previously 50). The government has followed this recommendation. [17 June 2021] \[30]\[31]
+- Based on recent data from the UK, ATAGI recommends people who have had their first dose of AstraZeneca without any serious adverse events should receive a second dose of the same vaccine. [17 June 2021] \[30]\[31]
 
 ## Introduction
 
@@ -336,4 +342,29 @@ In this section, most of the in text *below* a hyperlink is quoted/pasted direct
    - 4,153,149 Total vaccine doses administered as at 28 May
    - 346,109 Total vaccine doses administered in aged care and disability facilities as at 28 May
    - 2,316,013 Total vaccine doses administered in primary care settings as at 28 May [General Practice (GP), Aboriginal community controlled health services (ACCHS) and General Practice-Led Respiratory Clinics (GPRC)]
+
+1. [Therapeutic Goods Administration (Australia) | COVID-19 vaccine weekly safety report - 10-06-2021 | 10 June 2021](https://www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report-10-06-2021)
+   - This takes the total Australian reports of cases assessed as TTS following the AstraZeneca vaccine to 48 ... two people have died
+
+
+1. [Therapeutic Goods Administration (Australia) | COVID-19 vaccine weekly safety report - 17-06-2021 | 17 June 2021](https://www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report-17-06-2021)
+   - Table 1: Newly confirmed and probable TTS cases for the week of 11-17 June 2021 [by state, age and gender]
+   - Table 2: Confirmed and probable TTS cases by age and CDC classification [and gender]
+   - Table 3: ... outcomes for TTS cases ... Fatal 2 [total deaths in Australia to date]
+
+
+1. [Department of Health (Australia) | ATAGI statement on revised recommendations on the use of COVID-19 Vaccine AstraZeneca, 17 June 2021 | 17 June 2021](https://www.health.gov.au/news/atagi-statement-on-revised-recommendations-on-the-use-of-covid-19-vaccine-astrazeneca-17-june-2021)
+   - (ATAGI) recommends the COVID-19 Pfizer vaccine (Comirnaty) as the preferred vaccine for those aged 16 to under 60 years.
+   - The recommendation is revised due to a higher risk and observed severity of ... [blood clotting] (TTS) related to the use of AstraZeneca COVID-19 vaccine observed in Australia in the 50-59 year old age group than reported internationally and initially estimated in Australia.
+   - People of any age without contraindications who have had their first dose of COVID-19 Vaccine AstraZeneca without any serious adverse events should receive a second dose of the same vaccine.
+   - People of any age without [some indication that it will cause harm] who have had their first dose of COVID-19 Vaccine AstraZeneca without any serious adverse events should receive a second dose of the same vaccine. This is supported by data indicating a substantially lower rate of TTS following a second COVID-19 Vaccine AstraZeneca dose in the United Kingdom (UK).
+   - The risks of TTS after COVID-19 Vaccine AstraZeneca [interesting table showing risk vs age]
+   - Second dose recommendations for COVID-19 Vaccine AstraZeneca ... 1.5 [blood clotting cases] per million second doses (compared to a reported risk of 14.2 per million first doses in the UK).
+
+
+1. [The Conversation | Australians under 60 will no longer receive the AstraZeneca vaccine. So what’s changed? | 17 June 2021](https://theconversation.com/australians-under-60-will-no-longer-receive-the-astrazeneca-vaccine-so-whats-changed-162930)
+   - The risk of TTS reduces with age. For people aged under 50, there are 3.1 cases of TTS per 100,000 doses. This reduces to 1.9 cases for those aged 80 and above
+   - As awareness of TTS grows, clinicians’ ability to detect and diagnose the condition has also improved. This means the risk of becoming severely ill and dying from this condition has fallen dramatically.
+   - data from the United Kingdom shows TTS appears much less commonly after second doses – 1.5 cases per million doses.
+   - If you have concerns about the risk of TTS, talk to your doctor or vaccine provider.
 
