@@ -55,7 +55,8 @@ Details
 
 1. To prevent fuel leaking:
    - Unscrew petrol cap
-   - Put clean plastic loosely over hole
+   - Put clean plastic sheet loosely over hole (with edges hanging out).
+     I used a clean bread bag.
    - Replace petrol cap
 
 1. Confirm that spark plug fixes the engine "running rough".
@@ -82,8 +83,8 @@ Details
 
 1. Remove mower cutting blades.
    - I used a 9/16" ring spanner and a 9/16" socket.
-   - Remove blade disc. I had a lot of trouble removing blades without
-     doing this step.
+   - Remove blade disc. (I had a lot of trouble removing blades until
+     doing this step.)
    - Put whole disc into vice. To avoid warping disc, secure it
      in the vice at one of the blade bolts.
    - If you cannot loosen bolts with ring spanner or socket (and
@@ -94,9 +95,9 @@ Details
 1. Add new mower cutting blades.
    - Adding new blades is trivial, but ensure you put on the parts
      in the correct order and orientation. Consider adding
-     WD40 to bolts.
+     WD40 to the bolts.
    - Replace blade disc. Ensure you put on the parts in the correct
-     order and orientation. Consider adding WD40 to bolts.
+     order and orientation. Consider adding WD40 to the bolt.
 
 1. Replace old spark plug with new one. Connect spark plug wire.
 
@@ -106,12 +107,12 @@ Details
      + Adding less than the expected amount
      + Check level with dipstick (you might need to wait for 5 minutes
        for the oil to drain from the dipstick/filling pipe)
-     + Repeat the above until level is between dipstick markers
+     + Repeat the above until level is between dipstick low/high markers
      + Run the mower for a minute or so.
      + Wait for 5 minutes. Check oil level again.
 
 1. Replace air cleaner by:
-   - Remove old air cleaner
-   - Clean any dust/dirt from inside casing of air cleaner holder
-   - Add new air cleaner
+   - Removing old air cleaner
+   - Cleaning any dust/dirt from inside casing of air cleaner holder
+   - Adding new air cleaner
 
