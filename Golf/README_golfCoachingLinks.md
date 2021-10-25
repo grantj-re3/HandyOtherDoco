@@ -7,9 +7,12 @@
    - [Community discussion | Why does this work? | c.2016](https://www.reddit.com/r/golf/comments/4pgnz7/why_does_this_work/)
      Discusses the backswing, "The Arm Swing Illusion", "Making a Perfect Back Swing", etc.
    - [Community discussion | The Arm Swing Illusion- Changed the way I thought about the golf swing | c.2015](https://www.reddit.com/r/golf/comments/4esav5/the_arm_swing_illusion_changed_the_way_i_thought/)
-   - [Community discussion | Updated arm swing illusion video. Since the original is extremely popular. Good stuff | c.2017](https://www.reddit.com/r/golf/comments/7ou5wp/updated_arm_swing_illusion_video_since_the/)
+
 
 1. [Jim Waldron | The Arm Swing Illusion Introduction (video) | 2014](https://www.youtube.com/watch?v=MY4mmKu_gy4)
+
+   - [Community discussion | Updated arm swing illusion video. Since the original is extremely popular. Good stuff | c.2017](https://www.reddit.com/r/golf/comments/7ou5wp/updated_arm_swing_illusion_video_since_the/)
+
 
 1. [Monte Scheinblum | Making a Perfect Back Swing (video) | 2013](https://www.youtube.com/watch?v=V5o4A0IrGqg)
 
@@ -57,11 +60,11 @@
 
 ## Putting
 
-1. [Aimee Cho | Basics to Clutch Putting (video) | 2015](https://www.youtube.com/watch?v=7bfo5sA4h8E&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=2)
+1. [Aimee Cho | Basics to Clutch Putting (video) | 2015](https://www.youtube.com/watch?v=7bfo5sA4h8E&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=1)
 
    - Putting, lesson 1
 
-1. [Aimee Cho | Putting Made Simple (video) | 2017](https://www.youtube.com/watch?v=BVlokgkTzIs&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=3)
+1. [Aimee Cho | Putting Made Simple (video) | 2017](https://www.youtube.com/watch?v=BVlokgkTzIs&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=2)
 
    - Putting, lesson 2
 
