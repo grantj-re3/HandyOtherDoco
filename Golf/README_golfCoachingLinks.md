@@ -60,13 +60,20 @@
 
 ## Putting
 
-1. [Aimee Cho | Basics to Clutch Putting (video) | 2015](https://www.youtube.com/watch?v=7bfo5sA4h8E&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=1)
+1. [Aimee Cho | Perfect Putting Starts Here!! (video) | 2021](https://www.youtube.com/watch?v=xfz9mTZntHc&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=14)
 
-   - Putting, lesson 1
-
-1. [Aimee Cho | Putting Made Simple (video) | 2017](https://www.youtube.com/watch?v=BVlokgkTzIs&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=2)
-
-   - Putting, lesson 2
+   - Basic putting - lesson summary
+     * Stance: Inside shoulder width
+     * Ball position: below left (lead) eye
+     * Grip in palms
+     * Bow lead wrist
+     * Elbows rotate inward (but not touching body). Pinch your armpits.
+     * Use core (abs) to rock shoulders
+     * Stroke size 1:1
+   - [Aimee Cho | Basics to Clutch Putting (video) | 2015](https://www.youtube.com/watch?v=7bfo5sA4h8E&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=1)
+     Putting, lesson 1
+   - [Aimee Cho | Putting Made Simple (video) | 2017](https://www.youtube.com/watch?v=BVlokgkTzIs&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=2)
+     Putting, lesson 2
 
 1. [Aimee Cho | Master Short Putts (video) | 2018](https://www.youtube.com/watch?v=rhp62H0mKbU&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=3)
 
@@ -74,4 +81,5 @@
    - Choose your speed first; then choose your break/line according to the speed you've decided on.
    - [3m33s] Speed control drill; outdoors with hole cup
    - [4m41s] Speed control drill; indoors with coin
+   - [Aimee Cho | Best Putting Tip of Your Life (video) | 2019](https://www.youtube.com/watch?v=sKRgzhBfKzo&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=10) Focus on first 3 inches
 
