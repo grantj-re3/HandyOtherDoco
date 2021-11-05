@@ -27,6 +27,14 @@
    - Includes a few grip variations.
    - Likens backswing to drawing back a pinball lever.
 
+1. [Glen Haynes | Myth No.4 - Accelerate Through Putts (video) | 2021](https://www.youtube.com/watch?v=wSWC3_xv8Vc)
+
+   - **How to do long or uphill putts (with claw grip)**
+   - Read the text accompanying this video
+   - Don't accelerate (or decelerate) through the hitting zone
+   - Don't do a short backswing and long followthrough
+   - Equal backswing and followthrough
+
 1. [Neal Freeman | HOW TO PUTT WITH THE CLAW GRIP (video) | 2016](https://www.youtube.com/watch?v=6JiQAIiOP2Y)
 
    - Good closeup showing hand positions.

@@ -83,3 +83,12 @@
    - [4m41s] Speed control drill; indoors with coin
    - [Aimee Cho | Best Putting Tip of Your Life (video) | 2019](https://www.youtube.com/watch?v=sKRgzhBfKzo&list=PL0uaI4r3925QcWIyXqdegaBR8ulbBjgfb&index=10) Focus on first 3 inches
 
+1. Aussie Golf Pros: Putting
+
+   * Long putts - equal backswing/followthrough:
+     [Glen Haynes | Myth No.4 - Accelerate Through Putts (video) | 2021](https://www.youtube.com/watch?v=wSWC3_xv8Vc)
+   * Reading: [Glen Haynes | Complete Guide To Green Reading (video) | 2020](https://www.youtube.com/watch?v=06bT7LGEh90)
+   * Reading: [Glen Haynes | Putting - Green Reading (Why You Miss On The Low Side - Amateur Miss) (video) | 2020](https://www.youtube.com/watch?v=W9C-8H2dIA4)
+   * Distance control drill/game: [Glen Haynes | Putting Game for Perfect Pace | 2020](https://www.youtube.com/watch?v=TrKgEFB2HEI)
+   * Short putt drill/game: [The Best Putting Drill - Clockface (video) | 2019](https://www.youtube.com/watch?v=VGMUaBdZE84)
+
