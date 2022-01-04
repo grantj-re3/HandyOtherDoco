@@ -100,6 +100,17 @@ Also see:
 - https://www.jaacobbowden.com/
 
 
+## Mike Dunaway
+
+1. [Steve Pratt Golf | Mike Dunaway on Supple Quickness, Golf Swing Sequence, and More Drills! Coaching point #5-9 (video) | 2019](https://www.youtube.com/watch?v=a6QxyU27gGo)
+
+1. [Steve Pratt Golf | Mike Dunaway on Hand Action and Drills. Coaching point #4-5 (video) | 2019](https://www.youtube.com/watch?v=rVxWBbGMPyc)
+
+1. [Mike Austin Golf Fan | The Secret of Hands and Arms | Long Drive Legend Mike Dunaway Explains (video) | 2020](https://www.youtube.com/watch?v=l2sluaIdNZg)
+
+1. [Steve Pratt Golf | Young Mike Dunaway: Greatest Driver in Golf History (video) | 2019](https://www.youtube.com/watch?v=qk9gXGG-10c)
+
+
 ## Eric Cogorno
 
 These ideas are components of the Mike Austin Swing.
