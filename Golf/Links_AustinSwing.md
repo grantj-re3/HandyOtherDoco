@@ -108,6 +108,8 @@ Also see:
 
 1. [Mike Austin Golf Fan | The Secret of Hands and Arms | Long Drive Legend Mike Dunaway Explains (video) | 2020](https://www.youtube.com/watch?v=l2sluaIdNZg)
 
+1. [Mike Austin Golf Fan | Full Shoulder Turn to Hit The Ball Farther | Even Us Seniors Can Do It (video) | 2020](https://www.youtube.com/watch?v=F6vfmjWEn8I)
+
 1. [Steve Pratt Golf | Young Mike Dunaway: Greatest Driver in Golf History (video) | 2019](https://www.youtube.com/watch?v=qk9gXGG-10c)
 
 
