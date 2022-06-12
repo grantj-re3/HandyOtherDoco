@@ -56,18 +56,18 @@ Risks:
 ## Actions / tips
 
 - Improve sleep routine by:
-  * decluttering bedroom [clutter is a potential source of conscious
-    or unconscious stress before bed]
   * avoid screen use late at night
   * avoid snacks late at night
   * go to bed and get up at about the same time every day
   * Morning: go outside into the morning light
   * Morning: exercise
+- General: decluttering bedroom [clutter is a potential source of conscious
+  or unconscious stress before bed]
 - General: ensure bedroom is dark, cool and quiet
 - General: reduce calorie intake
 - General: consider the ***quarter of an hour rule*** - if awake for 15 minutes
   then get up and do something else; go to bed when sleepy again; you might
-  need to do this several times in the one night
+  need to do this several times in one night
 
 Napping during the day:
 
