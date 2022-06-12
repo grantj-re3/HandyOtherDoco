@@ -24,7 +24,8 @@ and focuses on general information, risks and tips.
 ## Risks associated with [long term] poor sleep
 
 - Cardiovascular disease [associated with the heart and blood vessels]
-- Metabolic dysfunction [where the body has too much or too little essential substances]
+- Metabolic dysfunction [which causes the body to have too much or too
+  little of the substances regarded as essential]
 - Cancer [where abnormal cells grow uncontrollably]
 - Excess hunger
 - Increased perception of pain
@@ -49,13 +50,14 @@ Risks:
 
 - Hypertension [high blood pressure]
 - Heart disease
-- stroke
+- Stroke
 
 
 ## Actions / tips
 
 - Improve sleep routine by:
-  * decluttering bedroom
+  * decluttering bedroom [clutter is a potential source of conscious
+    or unconscious stress before bed]
   * avoid screen use late at night
   * avoid snacks late at night
   * go to bed and get up at about the same time every day
@@ -63,15 +65,15 @@ Risks:
   * Morning: exercise
 - General: ensure bedroom is dark, cool and quiet
 - General: reduce calorie intake
-- General: consider the "quarter of an hour rule" - if awake for 15 minutes
+- General: consider the ***quarter of an hour rule*** - if awake for 15 minutes
   then get up and do something else; go to bed when sleepy again; you might
-  need to do this severl times in the one night
+  need to do this several times in the one night
 
 Napping during the day:
 
 - About 30 minutes is optimal
-- 1pm to 4pm is ideal
-- It can:
+- During the 1pm to 4pm window is ideal
+- Short ("power") napping can:
   * lift mood
   * improve concentration and creativity
 - It is a behaviour which can be learnt
