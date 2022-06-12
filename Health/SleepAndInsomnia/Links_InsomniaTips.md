@@ -4,7 +4,13 @@ Insomnia is a sleep disorder which:
 
 - makes it difficult to fall asleep, or
 - makes it difficult to stay asleep, or
-- makes the sufferer to wake up too early
+- makes the sufferer wake up too early
+
+In my case insomnia appears to frequently be associated with:
+
+- summertime (I suspect temperature rather than light), or
+- sometimes "restless back" (similar to restless legs syndrome)
+
 
 1. [Mayo Clinic | Insomnia - Lifestyle and home remedies | 2016](https://www.mayoclinic.org/diseases-conditions/insomnia/diagnosis-treatment/drc-20355173#phmaincontent_0_phleftchannel_0_SectionRepeater_phclinicaltrials_0_6_ctLink_6)
    - Basic tips
