@@ -12,6 +12,8 @@ In my case insomnia appears to frequently be associated with:
 - sometimes "restless back" (similar to restless legs syndrome)
 
 
+## General
+
 1. [Mayo Clinic | Insomnia - Lifestyle and home remedies | 2016](https://www.mayoclinic.org/diseases-conditions/insomnia/diagnosis-treatment/drc-20355173#phmaincontent_0_phleftchannel_0_SectionRepeater_phclinicaltrials_0_6_ctLink_6)
    - Basic tips
    - At bedtime
@@ -23,4 +25,53 @@ In my case insomnia appears to frequently be associated with:
 1. [Healthline Media | How to Fall Back Asleep After Waking at Night | 2020](https://www.healthline.com/health/how-to-fall-back-asleep)
 
 1. [Medical News Today | 4-7-8 breathing technique | 2019](https://www.medicalnewstoday.com/articles/324417?c=856096378477)
+
+
+## Sleep Diary
+
+1. [Sleep Foundation | Sleep Diary | 2022](https://www.sleepfoundation.org/sleep-diary)
+
+1. [SA Health | Insomnia Management Kit: Sleep Diary | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/a466c4804033fb25998cbbd30eb2c8cd/3+-+Sleep+Diary+2017.pdf)
+
+1. [Sleep Australia | Sleep Diary | c.2020](https://sleepaustralia.com.au/docs/Sleep-Diary-7-Days-Sleep-Australia.pdf)
+
+
+## Shift Work
+
+1. [SA Health | Sleep problems | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/healthy+living/healthy+sleep/sleep+problems)
+   - Has a short section about "Shift work"
+
+1. [Sleepstation | How to get good sleep, even if you’re a shift worker | 2020](https://www.sleepstation.org.uk/articles/sleep-tips/shift-work-sleep/)
+
+1. [Sleep Health Foundation | Shiftwork | 2019](https://www.sleephealthfoundation.org.au/shiftwork.html)
+
+
+## Insomnia Management Kit (SA Health)
+
+1. [SA Health | Insomnia Management Kit | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Services/Mental%20Health%20and%20Drug%20and%20Alcohol%20Services/Drug%20and%20Alcohol%20Services/For%20health%20professionals%20DASSA/Sleep%20problems%20-%20Insomnia%20Management%20Kit)
+   - General guide written for health professionals
+1. [SA Health | Insomnia Management Kit: Sleep medication | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/145378804033fc149998bbd30eb2c8cd/4+-+Sleep+medication+2017.pdf)
+1. [SA Health | Insomnia Management Kit: Sleep: Facts and hygiene | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/da8f7a004033fcc699a4bbd30eb2c8cd/5+-+Sleep+facts+and+hygiene+2017.pdf)
+1. [SA Health | Insomnia Management Kit: Sleep Diary | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/a466c4804033fb25998cbbd30eb2c8cd/3+-+Sleep+Diary+2017.pdf)
+
+
+## Indirectly related to sleep health
+
+### Exercise
+
+1. [SA Health | Be active | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/healthy+living/be+active)
+
+1. [SA Health | Fitness and exercise for older adults | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Be%20active/Different%20ages%20and%20stages/Fitness%20and%20exercise%20for%20older%20adults)
+
+1. [SA Health | How to walk yourself happy? | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Be%20active/Walk%20yourself%20happy/How%20to%20walk%20yourself%20happy)
+
+### Diet
+
+1. [SA Health | Healthy Eating Tips | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Healthy%20Eating/Healthy%20Eating%20Tips/Healthy%20Eating%20Tips)
+   - Many links to other healthy-eating pages
+
+1. [SA Health | The Risks Of Poor Nutrition | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Is%20Your%20Health%20At%20Risk/The%20Risks%20Of%20Poor%20Nutrition)
+
+1. [SA Health | Tips For Maintaining Healthy Weight | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Healthy%20Weight/Tips%20For%20Maintaining%20Healthy%20Weight)
+   - Tips for breakfast, lunch, dinner and snacks
 
