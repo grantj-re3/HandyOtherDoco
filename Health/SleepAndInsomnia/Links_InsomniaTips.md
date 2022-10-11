@@ -26,6 +26,9 @@ In my case insomnia appears to frequently be associated with:
 
 1. [Medical News Today | 4-7-8 breathing technique | 2019](https://www.medicalnewstoday.com/articles/324417?c=856096378477)
 
+1. [Medical News Today | How can I get to sleep easily? 21 ways to fall asleep naturally | 2022](https://www.medicalnewstoday.com/articles/322928)
+
+1. [Healthline | How to Fall Asleep in 10, 60, or 120 Seconds | 2020](https://www.healthline.com/health/healthy-sleep/fall-asleep-fast)
 
 ## Sleep Diary
 
@@ -46,6 +49,15 @@ In my case insomnia appears to frequently be associated with:
 1. [Sleep Health Foundation | Shiftwork | 2019](https://www.sleephealthfoundation.org.au/shiftwork.html)
 
 
+## Sleep Restriction (Bedtime Restriction Therapy)
+
+1. [Stanford Health Care | Sleep Restriction and CBTI | 2017](https://stanfordhealthcare.org/medical-treatments/c/cognitive-behavioral-therapy-insomnia/procedures/sleep-restriction.html)
+
+1. [SleepHub | What is sleep restriction? | 2016](https://sleephub.com.au/sleep-restriction/)
+
+1. [SA Health | Insomnia Management Kit: Bedtime Restriction Therapy | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/b4ccb7004033fe2599bcbbd30eb2c8cd/7+-+Bedtime+Restriction+Therapy+2017.pdf)
+
+
 ## Insomnia Management Kit (SA Health)
 
 1. [SA Health | Insomnia Management Kit | 2022](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Services/Mental%20Health%20and%20Drug%20and%20Alcohol%20Services/Drug%20and%20Alcohol%20Services/For%20health%20professionals%20DASSA/Sleep%20problems%20-%20Insomnia%20Management%20Kit)
@@ -53,6 +65,11 @@ In my case insomnia appears to frequently be associated with:
 1. [SA Health | Insomnia Management Kit: Sleep medication | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/145378804033fc149998bbd30eb2c8cd/4+-+Sleep+medication+2017.pdf)
 1. [SA Health | Insomnia Management Kit: Sleep: Facts and hygiene | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/da8f7a004033fcc699a4bbd30eb2c8cd/5+-+Sleep+facts+and+hygiene+2017.pdf)
 1. [SA Health | Insomnia Management Kit: Sleep Diary | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/a466c4804033fb25998cbbd30eb2c8cd/3+-+Sleep+Diary+2017.pdf)
+
+
+## Using sound to improve sleep
+
+1. [The Sleep Doctor | The Best Sounds for Sleep | 2022](https://thesleepdoctor.com/noise/sleep-sounds/)
 
 
 ## Indirectly related to sleep health
