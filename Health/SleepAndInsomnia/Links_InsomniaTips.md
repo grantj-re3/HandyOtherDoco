@@ -48,6 +48,8 @@ In my case insomnia appears to frequently be associated with:
 
 1. [Sleep Health Foundation | Shiftwork | 2019](https://www.sleephealthfoundation.org.au/shiftwork.html)
 
+1. [ABC Everyday | Shift workers' advice for staying healthy and happy while working around the clock | 2019](https://www.abc.net.au/everyday/shift-work-advice-for-staying-healthy-happy/9959144)
+
 
 ## Sleep Restriction (Bedtime Restriction Therapy)
 
