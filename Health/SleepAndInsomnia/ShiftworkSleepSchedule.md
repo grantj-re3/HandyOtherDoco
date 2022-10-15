@@ -68,27 +68,12 @@ one of the conflicting activities or purchase a time machine.)
    - p = Shopping (purchasing); 8:30-10:00 and Thu 19:30-21:00
    - e = Exercise; 8:00-9:00
 
-### Schedule timeline
+*Sleep schedule timeline using 24 hour clock and half-hour timeslots
+(click to see PDF).*
 
-- Below I've attempted to show a timeline using characters, however
-  it would be nicer to show the timeline on a chart (e.g. graph paper)
-- Below I've attempted to all days on a single timeline, however it
-  would be better to show each day separately. E.g. For this scenario:
-  + a timeline for Tue-Fri
-  + a timeline for Sat
-  + a timeline for Sun
-  + a timeline for Mon
-- 24 hour clock:
-  + 00 - 23 shown in first 2 lines below
-  + Half hour slots shown by dots between digits in the second line below
+[<img src="assets/WeeklySched_sm.jpg" />](assets/WeeklySched.pdf)
 
-```
-0                   1                   2
-0.1.2.3.4.5.6.7.8.9.0.1.2.3.4.5.6.7.8.9.0.1.2.3.
 
-..wwwwwwwwwww.ww.....ssssssssssssssss..rrrrrr...
-.............m..eeppp................mmppp......
-```
 
 **Question:** What will you do with your free time, Sun,Mon 1:00-7:30
 (that is on the days you don't work)?
