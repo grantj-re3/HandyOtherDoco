@@ -14,32 +14,36 @@ To find a sleep schedule which fits in with your own circumstances
 including, time for family, friends, exercise, etc.
 
 This method should be suitable for those who perform **shift work** at
-at the **same hours** each workday (e.g. 1:00 - 9:00 Monday to Friday).
+at the **same hours** each workday (e.g. 1:00 - 7:30 Tuesday to Saturday).
 
 ## Method
 
 1. List all *fundamental* activities which you do each week.
 1. Divide those activities into 3 categories:
-   - Important but immovable. That is, we have little or no control over
+   - *Immovable activities*: That is, we have little or no control over
      the scheduling of the activity. E.g. Attending work or school.
-   - Important but movable. E.g. Sleep time or time spent with family
-     and friends.
-   - Fundamental but less important activities. E.g. Meals, shopping
-     and exercise.
+   - *Movable and long activities*: That is, we can control or negotiate
+     the scheduling and the activity takes over 2-3 hours.  E.g. Sleep
+     time or time spent with family and friends.
+   - *Movable and short activities*: That is, we can control or negotiate
+     the scheduling and the activity takes less than 2-3 hours.
+     E.g. Meals, shopping and exercise.
 1. Create a schedule by assigning start/end times (and days of the week)
    as follows:
-   - assign activities from the "Important but immovable" list first
-   - fit in activities from the "Important but movable" list next
-   - finally fit in activities from the "Fundamental but less
-     important" list
+   - assign activities from the *Immovable activities* list first
+   - fit in activities from the *Movable and long activities* list next
+   - finally fit in activities from the *Movable and short activities*
+     list
 1. Repeat any or all steps in the above method to see if you can
-   resolve any scheduling conflicts or improve the schedule.
+   resolve any scheduling conflicts or improve the schedule. You
+   may need to make compromises (e.g. remove or split some less
+   important activities).
 
 Like all scheduling problems, this method is not guaranteed to work.
-For example, if you have conflicting schedules in the "Important but
-immovable" category then you need to find a solution outside of the
+For example, if you have conflicting schedules in the *Immovable
+activities* category then you need to find a solution outside of the
 scope of this discussion. (You will probably need to move or remove 
-one of the conflicting activities or purchase a time machine.)
+one of the conflicting activities... or purchase a time machine!)
 
 ## Example
 
@@ -51,12 +55,12 @@ one of the conflicting activities or purchase a time machine.)
    - Shopping
    - Exercise
 1. Divide those activities into 3 categories:
-   - Important but immovable:
+   - *Immovable activities*:
      + Work
-   - Important but movable:
-     + Family/friends socialisation
+   - *Movable and long activities*:
      + Sleep
-   - Fundamental but less important activities:
+     + Family/friends socialisation
+   - *Movable and short activities*:
      + Meals
      + Shopping
      + Exercise
