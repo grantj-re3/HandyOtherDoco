@@ -1,4 +1,4 @@
-# Sleep schedule for regular-hours shift work
+# How to create a sleep schedule for a regular-hours shift worker
 
 Having a sleep schedule might not fix insomnia, however you may not be
 able to fix your insomnia problems without one. In other words, it may
