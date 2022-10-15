@@ -33,7 +33,7 @@ at the **same hours** each workday (e.g. 1:00 - 9:00 Monday to Friday).
    - finally fit in activities from the "Fundamental but less
      important" list
 1. Repeat any or all steps in the above method to see if you can
-   resolve and scheduling conflicts or improve the schedule.
+   resolve any scheduling conflicts or improve the schedule.
 
 Like all scheduling problems, this method is not guaranteed to work.
 For example, if you have conflicting schedules in the "Important but
@@ -70,9 +70,17 @@ one of the conflicting activities or purchase a time machine.)
 
 ### Schedule timeline
 
-24 hour clock:
-- 00 - 23 shown in first 2 lines below
-- Half hour slots shown by dots between digits in the second line below
+- Below I've attempted to show a timeline using characters, however
+  it would be nicer to show the timeline on a chart (e.g. graph paper)
+- Below I've attempted to all days on a single timeline, however it
+  would be better to show each day separately. E.g. For this scenario:
+  + a timeline for Tue-Fri
+  + a timeline for Sat
+  + a timeline for Sun
+  + a timeline for Mon
+- 24 hour clock:
+  + 00 - 23 shown in first 2 lines below
+  + Half hour slots shown by dots between digits in the second line below
 
 ```
 0                   1                   2
