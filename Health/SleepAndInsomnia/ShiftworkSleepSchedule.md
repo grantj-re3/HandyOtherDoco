@@ -61,12 +61,6 @@ one of the conflicting activities or purchase a time machine.)
      + Shopping
      + Exercise
 1. Create a schedule:
-   - w = Work; Tue-Sat 1:00-7:30
-   - r = Family/friends socialisation (recreation); Fri-Wed 19:30-22:00
-   - s = Sleep; 10:30-18:30
-   - m = Meals; 6:00-6:30 and 18:30-19:30
-   - p = Shopping (purchasing); 8:30-10:00 and Thu 19:30-21:00
-   - e = Exercise; 8:00-9:00
 
 *Sleep schedule timeline using 24 hour clock and half-hour timeslots
 (click to see PDF).*
