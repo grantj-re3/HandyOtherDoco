@@ -77,10 +77,12 @@ one of the conflicting activities... or purchase a time machine!)
    - *Movable and long activities*:
      + Sleep
      + Family/friends socialisation
+     + Work preparation
    - *Movable and short activities*:
      + Meals
      + Shopping
      + Exercise
+     + Sleep preparation
 1. Create a schedule:
 
 *Sleep schedule timeline using 24 hour clock and half-hour timeslots
