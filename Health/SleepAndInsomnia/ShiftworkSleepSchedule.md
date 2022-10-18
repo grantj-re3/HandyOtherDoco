@@ -26,8 +26,9 @@ at the **same hours** each workday (e.g. 1:00 - 7:30 Tuesday to Saturday).
    - schedule 30 minutes of relaxation, reading, etc. immediately
      before sleep
 1. List all *fundamental* activities which you do each week. Also,
-   the above constraint list may cause you to to add some minor
-   activities. E.g. In addition to meals, you may need to add:
+   the above constraint list may cause you to to add some other
+   activities - *constraint* activities. E.g. In addition to meals,
+   you may need to add:
    - a time for drinking coffee
    - sleep preparation
 1. Divide the activities into 3 categories:
@@ -64,14 +65,16 @@ one of the conflicting activities... or purchase a time machine!)
    - schedule 30 minutes of relaxation, reading, etc. immediately
      before sleep
    - schedule 3 hours of work preparation before the next working day
-1. List of weekly *fundamental* activities:
+1. List of weekly *fundamental* and *constraint* activities:
+   - Sleep preparation
    - Sleep
    - Family/friends socialisation
+   - Work preparation
    - Work
    - Meals
    - Shopping
    - Exercise
-1. Divide those activities into 3 categories:
+1. Divide the activities into 3 categories:
    - *Immovable activities*:
      + Work
    - *Movable and long activities*:
@@ -85,8 +88,7 @@ one of the conflicting activities... or purchase a time machine!)
      + Sleep preparation
 1. Create a schedule:
 
-*Sleep schedule timeline using 24 hour clock and half-hour timeslots
-(click to see PDF).*
+*Sleep schedule timeline using half-hour timeslots (click to see PDF).*
 
 [<img src="assets/WeeklySched_sm.jpg" />](assets/WeeklySched.pdf)
 
