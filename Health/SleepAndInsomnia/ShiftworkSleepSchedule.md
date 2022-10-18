@@ -19,6 +19,13 @@ at the **same hours** each workday (e.g. 1:00 - 7:30 Tuesday to Saturday).
 ## Method
 
 1. List all *fundamental* activities which you do each week.
+1. List any constraints which may affect your schedule. For
+   example, if you read material regarding good sleep habits
+   (e.g. see [here](Links_InsomniaTips.md)) you might list:
+   - schedule 30 minutes of relaxation, reading, etc. immediately
+     before sleep
+   - schedule sleep at least 3 hours after a meal
+   - schedule sleep at least 12 hours after drinking coffee
 1. Divide those activities into 3 categories:
    - *Immovable activities*: That is, we have little or no control over
      the scheduling of the activity. E.g. Attending work or school.
@@ -30,6 +37,7 @@ at the **same hours** each workday (e.g. 1:00 - 7:30 Tuesday to Saturday).
      E.g. Meals, shopping and exercise.
 1. Create a schedule by assigning start/end times (and days of the week)
    as follows:
+   - try to meet all the constraints you listed above
    - assign activities from the *Immovable activities* list first
    - fit in activities from the *Movable and long activities* list next
    - finally fit in activities from the *Movable and short activities*
