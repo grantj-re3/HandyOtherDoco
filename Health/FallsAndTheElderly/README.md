@@ -50,19 +50,18 @@ Hence it usually involves turning before, or in the process of, sitting.
    - Some of the links to key videos from the above article are also below
    - [How to get up (video)](https://www.youtube.com/watch?v=hYdz7sNQgEk)
      * Most of the info is in the first 2m10s
-     * Before getting onto hands and kness, the woman who has fallen puts her weight onto one *elbow*
+     * Before getting onto hands and knees, the woman who has fallen puts her weight onto one *elbow*
      * They also recommend you practice getting up
    - [What To Do If Someone Falls (video)](https://www.youtube.com/watch?v=cEUjOewgWBA)
-     * Talk them through how they can get up by themself
-     * Before getting onto hands and kness, the woman who has fallen puts her weight onto one *elbow*
+     * Talk them through how they can get up by themselves
+     * Before getting onto hands and knees, the woman who has fallen puts her weight onto one *elbow*
 
 
 ## Other ideas and tips
 
-# Lots of excellent ideas
 1. [Homeability - Rhonda Bonecutter | How to get up from the floor (after a fall) - MacGyver style! | 2014](https://www.youtube.com/watch?v=4ETgQD8QhZs&t=1m52s)
    - Lots of excellent ideas
-   - #1 Basic Fall Recovery: Before getting onto hands and kness, the woman who has fallen puts her weight onto one *elbow*
+   - #1 Basic Fall Recovery: Before getting onto hands and knees, the woman who has fallen puts her weight onto one *elbow*
    - #2 Tipping Point: Works best with a couch
    - #3 Hip Hike: Works best with a couch
    - #4 Step Hip Hike: Works best with a couch and perhaps a light plastic foot stool
