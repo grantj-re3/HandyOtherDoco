@@ -29,19 +29,22 @@ The two-chair method uses one as a prop for the hands (or elbows) and a separate
 The single-chair method uses the same chair as a prop for the hands and to sit on at the end.
 Hence it usually involves turning before, or in the process of, sitting.
 
-1. [Kimberly Berg | How To Safely Help Someone With Parkinson’s Get Up After A Fall (video) | 2018](https://www.youtube.com/watch?v=vXkv_ODqDgY)
-   - This video has fairly poor audio and no English subtitles
-   - The carer requires little effort
-   - When the person first puts his weight on the chair, he leans on his
-     elbows (not his hands)
-
 1. [CAREGIVERSTRAINING | Elderly Falls - How to get seniors back up from a fall (video)](https://www.youtube.com/watch?v=99GnNHk71Qw&t=1m36s)
    - The first scenario assumes you are not injured and are strong enough to get up
    - The second scenario assumes you are injured and cannot get up... and a bunch of other things
 
 1. [Fall Recovery for Seniors (BEST TECHNIQUE!) (video)](https://www.youtube.com/watch?v=Snb_1xZi5v0&t=3m36s)
-   - Interesting method of sliding onto a kitchen chair or folding chair (but not an armchair)
+   - Interesting method of sliding onto a chair (i.e. the "chair slide technique")
    - I suspect you could also do this while leaning on the chair with your *elbow* (instead of your hands)
+   - This is an excerpt of a 52 minute video [here](https://www.youtube.com/watch?v=bIxywwJl-hc&t=11m48s)
+     showing many ideas for getting up from the floor
+
+1. [Kimberly Berg | How To Safely Help Someone With Parkinson’s Get Up After A Fall (video) | 2018](https://www.youtube.com/watch?v=vXkv_ODqDgY)
+   - This video has fairly poor audio and no English subtitles
+   - The carer requires very little effort
+   - When the person first puts his weight on the chair, he leans on his
+     elbows (not his hands)
+   - You could probably combine this with the chair slide technique above
 
 
 ## Other resources
@@ -76,4 +79,18 @@ Hence it usually involves turning before, or in the process of, sitting.
    - Lots of excellent ideas
    - Since the target audience is people with a knee replacement, some ideas
      assume the person is young and strong
+
+1. Gait belt
+   - Some of the links on this page suggest assisting the person who has fallen by
+     holding their clothing or belt. An alternative option would be to use a
+     [gait belt](https://www.med.umich.edu/1libr/FallsPreventionCommittee/UsingAGaitBelt.pdf).
+
+1. Step stools
+   - Some of the links on this page suggest the person who has fallen use
+     intermediate steps in the process of getting up from the floor and onto
+     a chair or couch. Provided that steps will support the person's weight,
+     you could consider using a light and portable plastic step-stool.
+   - These are available in one-step and two-step versions.
+   - The product details will often specify the maximum permitted weight
+     e.g. 80kg.
 
