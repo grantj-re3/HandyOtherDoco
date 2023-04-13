@@ -47,6 +47,16 @@ Hence it usually involves turning before, or in the process of, sitting.
    - You could probably combine this with the chair slide technique above
 
 
+## Wheelchair method (i.e. Dependent Uprighting)
+
+1. [Craig Hospital | Dependent Uprighting: Manual Chair with One Person Assisting | 2017](https://www.youtube.com/watch?v=TuqMfyjE2Zc)
+   - The person in the wheelchair needs flexibility and upper body strength
+   - The carer needs either strength or adequate body weight to counter balance the weight of the person being lifted
+   - *Warning*: I suspect it is important that you ensure the wheelchair rotates from the starting position to beyond the
+     center of gravity, otherwise the occupant of the wheelchair may drop back to the floor perhaps resulting in
+     injury
+
+
 ## Other resources
 
 1. [NHS inform (Scotland) | What to do if you fall | 2022-2023](https://www.nhsinform.scot/healthy-living/preventing-falls/dealing-with-a-fall/what-to-do-if-you-fall)

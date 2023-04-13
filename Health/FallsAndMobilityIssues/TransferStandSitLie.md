@@ -33,7 +33,21 @@ These videos show how moving from a seated position to a standing position might
 ## Other transfers
 
 1. [Adaptive Equipment Corner - Cindy & Christina | Getting In and Out of the Car After Hip or Knee Surgery (video) | 2021](https://www.youtube.com/watch?v=x70fpOebdZA)
+   - Uses a Walking Frame, Gait Belt and Car Assist Handle
 
 1. [Adaptive Equipment Corner - Cindy | How to Assist with Sit to Supine & Supine to Sit (video) | 2021](https://www.youtube.com/watch?v=nPfpFk07TVM)
    - This video shows how to assist a person to move from sitting on the bed to lying on the bed
+
+1. [Craig Hospital | How to do slide board transfers | 2019](https://www.youtube.com/watch?v=TZ6xeS_GjSk)
+   - Makes use of a *Slide Board*, also known as a *Transfer Board* or *Slide Transfer Board*.
+
+1. [Craig Hospital | How to Do a Squat and Stand Pivot Transfer | 2019](https://www.youtube.com/watch?v=MkWIMZyYyXk)
+   - Squat Pivot Transfer: The person being moved does *not* stand during the transfer.
+     * Both footrests are removed
+     * One armrest is removed so it is not between the person being moved and the destination
+     * The other armrest remains in place so the person can use it to push themself up
+     * Person is pivoted through about 90°
+   - Stand Pivot Transfer: The person being moved *does* stand during the transfer.
+     * For a person with better balance
+     * The armrests and footrests are as per the Squat Pivot Transfer
 
