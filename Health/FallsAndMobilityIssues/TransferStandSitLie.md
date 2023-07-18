@@ -32,6 +32,10 @@ These videos show how moving from a seated position to a standing position might
 
 ## Other transfers
 
+1. [New Zealand Accident Compensation Corporation | ACC6075 Moving and handling people guidelines, section 04 – Techniques | 2012](https://www.acc.co.nz/assets/provider/6ab7b70c43/acc6075-moving-guide-technique.pdf)
+   - This 72 page excerpt covers 30 techniques for moving patients in various situations
+   - This is an excerpt from the full document: [ACC6075 Moving and Handling People: The New Zealand Guidelines](https://www.acc.co.nz/assets/provider/1d98940288/acc6075-moving-and-handling-people-guidelines.pdf)
+
 1. [Adaptive Equipment Corner - Cindy & Christina | Getting In and Out of the Car After Hip or Knee Surgery (video) | 2021](https://www.youtube.com/watch?v=x70fpOebdZA)
    - Uses a Walking Frame, Gait Belt and Car Assist Handle
 
@@ -50,4 +54,15 @@ These videos show how moving from a seated position to a standing position might
    - Stand Pivot Transfer: The person being moved *does* stand during the transfer.
      * For a person with better balance
      * The armrests and footrests are as per the Squat Pivot Transfer
+
+
+## Assistive devices / products
+
+1. [Country Care Group | Catalogues page](https://www.countrycaregroup.com.au/resources/catalogues)
+   - CCG DVA Product Range Catalogue 2021; 292 pages
+   - NDIS Low Cost Consumables Catalogue
+   - HealthShare 217B – Clinical Furniture Catalogue
+
+1. [Country Care Group | CCG DVA Top Products Catalogue | 2016](https://www.countrycaregroup.com.au/wp-content/uploads/2021/01/CCG_DVA2016TOPPRODUCTS.pdf)
+   - 367 pages
 
