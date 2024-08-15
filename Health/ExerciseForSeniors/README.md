@@ -4,8 +4,11 @@
    - [5 Simple Health Tips! | 2022](https://morelifehealth.com/articles/5-health-tips)
      * Prioritise Sleep | Reduce Stress | Cut Out Unhealthy Foods | Get Moving More | Get Outside More and Be Happier
    - [Flexibility Exercises For Seniors: A Comprehensive Guide to Regaining Flexibility | 2019-2023](https://morelifehealth.com/articles/regaining-flexibility-guide)
+     * Each exercise has a link to a video demonstration
    - [THE STEADY SENIOR: The Complete Guide To Great Balance Over 60 | 2022-2024](https://morelifehealth.com/articles/balance-guide)
-     * [BALANCE EXERCISES ALL SENIORS SHOULD BE DOING! | 2017-2022](https://morelifehealth.com/articles/best-balance-exercises-for-seniors)
+     * Includes the video *Seniors Balance Test*
+     * [The 10 Best Balance Exercises For Seniors | 2017-2022](https://morelifehealth.com/articles/best-balance-exercises-for-seniors)
+       + Includes a video
    - The Complete Guide To Strong Bones Over 60 | 2021-2023
      * [Part 1: WHAT YOU NEED TO KNOW TO GET STRONGER BONES](https://morelifehealth.com/articles/strong-bones)
      * [Part 2: HOW TO EAT FOR STRONGER BONES (AND OTHER FACTORS THAT IMPROVE BONE HEALTH)](https://morelifehealth.com/articles/strong-bones-part2)
@@ -16,5 +19,8 @@
        Bone strength | Neuropathy | Pelvic floor | Breathing | Shoulder |
        Fall prevention | Weight loss | Surgery related | Vestibular |
        Glute
-   - [Various workouts](https://morelifehealth.com/search?q=workout)
+   - [Various workout articles](https://morelifehealth.com/search?q=workout)
+     * Beginner | Intermediate | Advanced
+     * Low impact | Balance | Strength | Whole body | Cardio | HIIT (High-intensity interval training)
+     * Seated | Standing | With weights | With resistance band
 
