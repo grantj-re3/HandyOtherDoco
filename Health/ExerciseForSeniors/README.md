@@ -14,6 +14,10 @@
      * [Part 2: HOW TO EAT FOR STRONGER BONES (AND OTHER FACTORS THAT IMPROVE BONE HEALTH)](https://morelifehealth.com/articles/strong-bones-part2)
      * [Part 3: EXERCISE TO DO FOR STRONG BONES](https://morelifehealth.com/articles/strong-bones-part3)
        + Includes beginner and intermediate videos
+   - [Seniors Exercises](https://morelifehealth.com/seniors-exercises)
+     * General | strengthening | stretching | posture, shoulders & arm |
+       leg | balance | seated | miscellaneous | cardio | exercise library |
+       educational | exercise routines
    - [MISCELLANEOUS EXERCISE VIDEOS](https://morelifehealth.com/misc-exercise-videos)
      * Warm-up | Core | Feet | Back | Neck | Eye | Hand, wrist, elbow |
        Bone strength | Neuropathy | Pelvic floor | Breathing | Shoulder |
