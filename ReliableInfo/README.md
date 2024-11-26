@@ -20,6 +20,13 @@
      Verifying Information in the Workplace |
      Find Reliable Information with AI | The Bottom Line
 
+1. [FactCheck.org | How to Spot Fake News | 2016](https://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+   - Consider the source | Read beyond the headline | Check the author |
+     What’s the support? | Check the date | Is this some kind of joke? |
+     Check your biases | Consult the experts
+   - [Infographic](https://repository.ifla.org/items/c5dbfa34-7d00-47ac-8057-0183a5056438)
+     by International Federation of Library Associations and Institutions
+
 
 ## Medical articles
 
