@@ -1,4 +1,4 @@
-# Reliable Information
+# Reliable information/news
 
 
 ## General articles
