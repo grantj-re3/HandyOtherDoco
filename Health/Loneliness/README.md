@@ -64,3 +64,17 @@
      Remember That You Are Unique | Connect With Yourself
    - 52 minute video
 
+
+## Ideas for activities
+
+My ideas for physical, mental and social activities.
+The intention is to choose one or two, not all of them! 😃
+
+Several of these activities can be performed in a group, by yourself
+or both (e.g. learn in a group and practice by yourself).
+
+- Drawing/painting, music/singing, dancing, cooking,
+  sport, a hobby, a foreign language, reading, meditation
+- Learn something you always wanted to know e.g. creative writing,
+  woodwork, a computer programming language
+
