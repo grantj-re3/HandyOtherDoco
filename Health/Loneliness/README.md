@@ -54,7 +54,7 @@
      Find a group that matches your interests | Other people's loneliness matters too
 
 1. [Calm (USA) | How to deal with loneliness: 7 tips to help you overcome it | 2023-2024](https://www.calm.com/blog/how-to-deal-with-loneliness)
-   - What is loneliness? | ￼How does loneliness impact your health? | ￼9 signs of loneliness | How to deal with emotional loneliness
+   - What is loneliness? | How does loneliness impact your health? | 9 signs of loneliness | How to deal with emotional loneliness
    - Tips: Reframe loneliness as an opportunity | Get comfortable with the uncomfortable | Try to make the most of your loneliness |
      Talk to someone you trust | If it’s possible, make some changes | Be kind to yourself | Don't be afraid to reach out for help
 
