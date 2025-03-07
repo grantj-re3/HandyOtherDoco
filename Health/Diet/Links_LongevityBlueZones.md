@@ -8,7 +8,7 @@
    - The diet is known for ... stopping eating when you're 80% full
    - Foods in the diet: Vegetables | Soy-based foods | Grains | Herbs and spices |
      Meat and seafood | Fruit | Alcohol
-   - Foods no in the diet: Processed meat | Processed foods | Dairy | Certain types
+   - Foods not in the diet: Processed meat | Processed foods | Dairy | Certain types
      of red meat and poultry products: Beef, chicken, eggs | Nuts and seeds
    - Meal Ideas | Benefits of the Okinawan Diet | Drawbacks and Potential Risks
 
