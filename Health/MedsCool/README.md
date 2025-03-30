@@ -19,7 +19,7 @@
    - Anatomy | Physiology
 
 1. [Dr Matt & Dr Mike: Associate Professor Mike Todorovic (PhD) & Dr. Matt Barton  (PhD) | Playlists](https://www.youtube.com/@DrMattDrMike/playlists)
-   - University lecturers in medical science
+   - They are award winning University lecturers in medical science
    - Anatomy | Physiology | Pathophysiology | Pharmacology | Biochemistry | Human Biology | Embryology
    - [Podcasts](https://podcasts.apple.com/au/podcast/dr-matt-and-dr-mikes-medical-podcast/id1270681468)
 
@@ -32,11 +32,15 @@
    - Human biology | Anatomy | Physiology
 
 
-## Secondary school level
+## Secondary school / enthusiast level
 
 1. [Professor Dave Explains | Playlists](https://www.youtube.com/@ProfessorDaveExplains/playlists)
    - This channel is for students at the high school and undergraduate level, but it is also for members of the general public
    - Includes: General Chemistry | Organic Chemistry | Biochemistry | Biology/Genetics |
      Anatomy & Physiology | Biopsychology | Microbiology/Infectious Diseases | Pharmacology
    - Off topic: Mathematics | Physics | Philosophy | Psychology | Ecology | Italian | etc.
+
+1. [Corporis: Patrick | Playlists](https://www.youtube.com/@Corporis/playlists)
+   - MS in Exercise Physiology | BS in Athletic Training | For fun and entertainment
+   - Anatomy | Physiology | Health sciences
 
