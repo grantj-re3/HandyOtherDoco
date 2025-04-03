@@ -1,5 +1,7 @@
 # Meds Cool
 
+Medical, nursing and health sciences info
+
 1. :thumbsup: [professorfink: Professor Steven A. Fink | Playlists](https://www.youtube.com/@professorfink/playlists)
    - Professor of Biological Sciences | Adjunct Professor of Pharmacology | Adjunct Associate Professor for Anatomy & Physiology
    - Anatomy | Biology/Biochemistry | Pharmacology | Physiology
@@ -9,6 +11,10 @@
    - Anatomy | Physiology | Pharmacology
    - Blood | Brain | Genetics | etc.
    - Diabetes | Hypertension | Inflammation | Sepsis | Shock | etc.
+
+1. [Khan Academy | NCLEX-RN Course](https://www.khanacademy.org/test-prep/nclex-rn)
+   - Registered Nurse course
+   - System physiology and diseases
 
 1. [Dr. Greg [Osterhaus] | Playlists](https://www.youtube.com/@osterhausg/playlists)
    - Maybe: Former Professor at University of Missouri-Kansas City Nursing School
