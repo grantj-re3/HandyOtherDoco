@@ -12,7 +12,7 @@ Medical, nursing and health sciences info
    - Blood | Brain | Genetics | etc.
    - Diabetes | Hypertension | Inflammation | Sepsis | Shock | etc.
 
-1. [Khan Academy | NCLEX-RN Course](https://www.khanacademy.org/test-prep/nclex-rn)
+1. :thumbsup: [Khan Academy | NCLEX-RN Course](https://www.khanacademy.org/test-prep/nclex-rn)
    - Registered Nurse course
    - System physiology and diseases
 

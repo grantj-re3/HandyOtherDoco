@@ -1,7 +1,7 @@
 # Biology
 
 1. Khan Academy
-   - [AP/College Biology](https://www.khanacademy.org/science/ap-biology) -- Advanced Placement course
+   - :thumbsup: [AP/College Biology](https://www.khanacademy.org/science/ap-biology) -- Advanced Placement course
    - [High school biology](https://www.khanacademy.org/science/hs-bio)
    - [Biology archive](https://www.khanacademy.org/science/biology) -- legacy biology content
 
