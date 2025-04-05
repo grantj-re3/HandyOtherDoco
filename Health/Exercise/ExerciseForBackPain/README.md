@@ -30,7 +30,7 @@
 
 1. [Hector Lozada | 5 Super Stretches to Loosen Up Your Lower Back | 2023](https://www.hss.edu/article_stretches-to-loosen-lower-back.asp)
    - If sitting too much has your back feeling tight, try these moves to get loose
-   - Trunk Rotation (Yoga Spine Twist) | Child’s Pose (Prayer Stretch) | Half-Kneeling Hip Flexor Stretch |
+   - Trunk Rotation (Yoga Spine Twist) | **Child’s Pose (Prayer Stretch)** | Half-Kneeling Hip Flexor Stretch |
      Cat Cow | Supine Hamstring Stretch with Towel
 
 1. [Anna Ribaudo | A Guide to Your Core Muscles | 2024](https://www.hss.edu/article_what-are-core-muscles.asp)
@@ -49,5 +49,10 @@
 ## Miscellaneous
 
 1. [Mayo Clinic | Back exercises in 15 minutes a day | 2023](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/back-pain/art-20546859)
+   - Knee-to-chest stretch | Lower back rotational stretch | Lower back flexibility exercise |
+     Bridge exercise | Cat stretch | Seated lower back rotational stretch | Shoulder blade squeeze
+
 1. [WebMD: Lori M. King | Lower Back Pain Relief | 2024](https://www.webmd.com/back-pain/what-helps-with-lower-back-pain)
+   - Research shows that yoga and stretching can ease pain and improve back movement
+   - Pelvic tilts | Abdominal curls | Knee-to-chest stretch | Sitting leg stretch
 
