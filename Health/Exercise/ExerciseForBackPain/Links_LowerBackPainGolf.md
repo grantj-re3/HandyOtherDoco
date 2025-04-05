@@ -7,7 +7,7 @@
 1. Veritas Health: Spine-health
    - [Golf and Low Back Pain | 1999-2021](https://www.spine-health.com/conditions/sports-and-spine-injuries/golf-and-low-back-pain)
    - [Preventing Low Back Pain from Golf | 1999-2021](https://www.spine-health.com/conditions/sports-and-spine-injuries/preventing-low-back-pain-golf)
-   - [Treating Low Back Pain and Back Injury from Golf | 1999-2021](view-source:https://www.spine-health.com/conditions/sports-and-spine-injuries/treating-low-back-pain-and-back-injury-golf) -- includes exercises
+   - [Treating Low Back Pain and Back Injury from Golf | 1999-2021](https://www.spine-health.com/conditions/sports-and-spine-injuries/treating-low-back-pain-and-back-injury-golf) -- includes exercises
    - [Playing Golf with Low Back Pain | 1999-2021](https://www.spine-health.com/conditions/sports-and-spine-injuries/playing-golf-low-back-pain)
    - Videos:
      * [If My Back or Joints Hurt, Should I Work Through the Pain? | 2024](https://www.spine-health.com/video/video-if-my-back-or-joints-hurt-should-i-work-through-pain)
