@@ -24,7 +24,7 @@
 
 1. [New Zealand Government: Science Learning Hub | DNA, chromosomes and gene expression | 2011](https://www.sciencelearn.org.nz/resources/206-dna-chromosomes-and-gene-expression)
 1. [Amoeba Sisters | DNA, Chromosomes, Genes, and Traits: An Intro to Heredity (video) | 2017](https://www.youtube.com/watch?v=8m6hHRlKwxY&t=1m37s)
-1. [[CrashCourse | DNA Structure & Replication: Our Instruction Manual for Existing: Crash Course Biology #33 | 2024](https://www.youtube.com/watch?v=4YNDB_zSzfE)
+1. [CrashCourse | DNA Structure & Replication: Our Instruction Manual for Existing: Crash Course Biology #33 (video) | 2024](https://www.youtube.com/watch?v=4YNDB_zSzfE)
 
 
 ### More detailed introduction
