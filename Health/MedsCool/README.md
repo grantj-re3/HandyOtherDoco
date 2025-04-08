@@ -50,3 +50,9 @@ Medical, nursing and health sciences info
    - MS in Exercise Physiology | BS in Athletic Training | For fun and entertainment
    - Anatomy | Physiology | Health sciences
 
+
+## Free books
+
+1. [Rice University: OpenStax | Open textbooks: Science](https://openstax.org/subjects/science)
+   - Anatomy and Physiology | Biology | Chemistry | Physics
+
