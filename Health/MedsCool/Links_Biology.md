@@ -6,19 +6,18 @@
    - [Biology archive](https://www.khanacademy.org/science/biology) -- legacy biology content
 
 1. CrashCourse
-   - [Biology [with Dr. Samuel Ramsey] (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPW_ofbxdHNciuLoTRLPMgB)
-   - [Biology (2012) [with Hank Green] (playlist) | 2012](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
+   - :thumbsup: [Biology [with Dr. Samuel Ramsey] (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPW_ofbxdHNciuLoTRLPMgB) -- Advanced Placement course
+   - [Biology (2012) [with Hank Green] (playlist) | 2012](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF) -- Advanced Placement course
 
 1. [Amoeba Sisters | Playlists](https://www.youtube.com/@AmoebaSisters/playlists)
-   - High school biology level
-   - Biology | Biotechnology | Heredity | Biochemistry
+   - High School level: Biology | Biotechnology | Heredity | Biochemistry
 
 1. ThoughtCo
    - [Biology: The Study of Life](https://www.thoughtco.com/biology-meaning-373266)
    - [An Introduction to Biology](https://www.thoughtco.com/biology-basics-4133578)
 
 
-## DNA, Genes and chromosomes
+## DNA, genes and chromosomes
 
 ### Simple introduction
 
