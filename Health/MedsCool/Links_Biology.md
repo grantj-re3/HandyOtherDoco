@@ -20,10 +20,10 @@
      [Gr.12 Endocrine System](https://www.youtube.com/playlist?list=PLmblW4mMXmldPfqD1mg0g-qi4UJ6IFz3f) |
      [Gr.12 Nervous System](https://www.youtube.com/playlist?list=PLmblW4mMXmlduJHLZGKMfQMTx65_Q-mOT) | ...
    - Other High School Biology videos, such as:
-     [INTRODUCTION | CHEMISTRY OF LIFE | 2021](https://www.youtube.com/watch?v=q4tMUtMRgwM) |
-     [GLYCOLYSIS | Cellular Respiration | 2021](https://www.youtube.com/watch?v=f0Rn0k_ISis) |
-     [KREBS CYCLE | Cellular Respiration | 2021](https://www.youtube.com/watch?v=C_oASWc1b9s) |
-     [OXIDATIVE PHOSPHORYLATION | Cellular Respiration](https://www.youtube.com/watch?v=1vjecz3oqUY)
+     [INTRODUCTION: CHEMISTRY OF LIFE](https://www.youtube.com/watch?v=q4tMUtMRgwM) |
+     [GLYCOLYSIS: Cellular Respiration](https://www.youtube.com/watch?v=f0Rn0k_ISis) |
+     [KREBS CYCLE: Cellular Respiration](https://www.youtube.com/watch?v=C_oASWc1b9s) |
+     [OXIDATIVE PHOSPHORYLATION: Cellular Respiration](https://www.youtube.com/watch?v=1vjecz3oqUY)
 
 1. [Amoeba Sisters | Playlists](https://www.youtube.com/@AmoebaSisters/playlists)
    - High School level: Biology | Biotechnology | Heredity | Biochemistry
@@ -53,13 +53,13 @@
 
 1. Miss Angler
    - [Introduction to DNA structure](https://www.youtube.com/watch?v=4u8nC8BAq9s) |
-     [Easy to understand | DNA Replication](https://www.youtube.com/watch?v=fnupT4KUt7g) |
-     [Protein Synthesis | Transcription](https://www.youtube.com/watch?v=ej1CVV7_en4) |
+     [Easy to understand: DNA Replication](https://www.youtube.com/watch?v=fnupT4KUt7g) |
+     [Protein Synthesis: Transcription](https://www.youtube.com/watch?v=ej1CVV7_en4) |
      [Protein Synthesis: Translation](https://www.youtube.com/watch?v=pLSDaWU1s9I) |
-     [EASY TO UNDERSTAND | INTRO TO GENETICS](https://www.youtube.com/watch?v=cc3-WB1_Ysk) |
-     [ANIMAL CELL | Beginner Edition | Summary](https://www.youtube.com/watch?v=kM44ghjnc8s) |
-     [THE NUCLEUS | Cell organelles made EASY](https://www.youtube.com/watch?v=If0aMcRQgWg) |
-     [THE MITOCHONDRIA | Cell organelles made EASY](https://www.youtube.com/watch?v=reRd9GpxMkg)
+     [EASY TO UNDERSTAND: INTRO TO GENETICS](https://www.youtube.com/watch?v=cc3-WB1_Ysk) |
+     [ANIMAL CELL: Beginner Edition: Summary](https://www.youtube.com/watch?v=kM44ghjnc8s) |
+     [THE NUCLEUS: Cell organelles made EASY](https://www.youtube.com/watch?v=If0aMcRQgWg) |
+     [THE MITOCHONDRIA: Cell organelles made EASY](https://www.youtube.com/watch?v=reRd9GpxMkg)
 
 1. [MSD Manual Consumer Version: Quasar S. Padiath | Genes and Chromosomes | 2023](https://www.msdmanuals.com/home/fundamentals/genetics/genes-and-chromosomes)
 1. [Federal Judicial Center | DNA Basics: Nucleotides, Genes, and the Genome](https://www.fjc.gov/content/361230/DNA-basics-nucleotides-genes-genome)
