@@ -18,7 +18,7 @@
      [Gr.12 Meiosis](https://www.youtube.com/playlist?list=PLmblW4mMXmldlwxVMlHNY-n-7djXYySZt) |
      [Gr.12 Homeostasis](https://www.youtube.com/playlist?list=PLmblW4mMXmlfcTHyLRVGhtn3kHQfrJ_m8) |
      [Gr.12 Endocrine System](https://www.youtube.com/playlist?list=PLmblW4mMXmldPfqD1mg0g-qi4UJ6IFz3f) |
-     [Gr.12 Nervous System](https://www.youtube.com/playlist?list=PLmblW4mMXmlduJHLZGKMfQMTx65_Q-mOT) | ...
+     [Gr.12 Nervous System](https://www.youtube.com/playlist?list=PLmblW4mMXmlduJHLZGKMfQMTx65_Q-mOT)
    - Other High School Biology videos, such as:
      [INTRODUCTION: CHEMISTRY OF LIFE](https://www.youtube.com/watch?v=q4tMUtMRgwM) |
      [GLYCOLYSIS: Cellular Respiration](https://www.youtube.com/watch?v=f0Rn0k_ISis) |
@@ -38,7 +38,7 @@
 ### Simple introduction
 
 1. Stated Clearly: Jon Perry
-   - [What is DNA and How Does it Work?](https://www.youtube.com/watch?v=zwibgNGe4aY) |
+   - Videos: [What is DNA and How Does it Work?](https://www.youtube.com/watch?v=zwibgNGe4aY) |
      [What is a gene?](https://www.youtube.com/watch?v=5MQdXjRPHmQ) |
      [What is a Chromosome?](https://www.youtube.com/watch?v=IePMXxQ-KWY) |
      [DNA vs RNA - Differences in Form and Function](https://www.youtube.com/watch?v=FNynz6Q12Bw) |
@@ -47,12 +47,17 @@
 1. [New Zealand Government: Science Learning Hub | DNA, chromosomes and gene expression | 2011](https://www.sciencelearn.org.nz/resources/206-dna-chromosomes-and-gene-expression)
 1. [Amoeba Sisters | DNA, Chromosomes, Genes, and Traits: An Intro to Heredity (video) | 2017](https://www.youtube.com/watch?v=8m6hHRlKwxY&t=1m37s)
 1. [CrashCourse | DNA Structure & Replication: Our Instruction Manual for Existing: Crash Course Biology #33 (video) | 2024](https://www.youtube.com/watch?v=4YNDB_zSzfE)
+1. [Bozeman Science: Paul Andersen | Transcription and Translation (video) | 2012](https://www.youtube.com/watch?v=h3b9ArupXZg)
+1. Cell cycle
+   - [Neural Academy | MITOSIS, CYTOKINESIS, AND THE CELL CYCLE (video) | 2019](https://www.youtube.com/watch?v=8uzHTKdv_Sw)
+   - Khan Academy (videos) | 2015: [Interphase: Cells](https://www.youtube.com/watch?v=VXLSTd_dlKg) |
+     [Mitosis: Cells](https://www.youtube.com/watch?v=TKGcfbyFXsw)
 
 
 ### More detailed introduction
 
 1. Miss Angler
-   - [Introduction to DNA structure](https://www.youtube.com/watch?v=4u8nC8BAq9s) |
+   - Videos: [Introduction to DNA structure](https://www.youtube.com/watch?v=4u8nC8BAq9s) |
      [Easy to understand: DNA Replication](https://www.youtube.com/watch?v=fnupT4KUt7g) |
      [Protein Synthesis: Transcription](https://www.youtube.com/watch?v=ej1CVV7_en4) |
      [Protein Synthesis: Translation](https://www.youtube.com/watch?v=pLSDaWU1s9I) |
@@ -64,4 +69,9 @@
 1. [MSD Manual Consumer Version: Quasar S. Padiath | Genes and Chromosomes | 2023](https://www.msdmanuals.com/home/fundamentals/genetics/genes-and-chromosomes)
 1. [Federal Judicial Center | DNA Basics: Nucleotides, Genes, and the Genome](https://www.fjc.gov/content/361230/DNA-basics-nucleotides-genes-genome)
 1. [CDC: Genomics and Your Health | Genetics Basics | 2024](https://www.cdc.gov/genomics-and-health/about/index.html)
+
+
+## Free books
+
+1. [Open Oregon Educational Resources: Lisa Bartee, Walter Shriner, Catherine Creech | Principles of Biology: Biology 211, 212, and 213 | 2017](https://openoregon.pressbooks.pub/mhccmajorsbio/)
 
