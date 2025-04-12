@@ -7,7 +7,7 @@
        Nutrition | [Pre-Game Warm-up](https://www.hss.edu/golfportal/improve-your-game-warm-up.htm)
      * Enhance Your Flexibility | Enhance Your Strength | Enhance Your Balance and Coordination
      * Hip Exercises | Knee Exercises | Foot and Ankle Exercises | [Back and Neck Exercises](https://www.hss.edu/golfportal/improve-your-game-back.htm) |
-       Shoulder Exercises | Elbow Exercises | Wrist Exercises￼
+       Shoulder Exercises | Elbow Exercises | Wrist Exercises
 
 
 1. Veritas Health: Spine-health
