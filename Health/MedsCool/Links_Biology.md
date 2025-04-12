@@ -48,10 +48,23 @@
 1. [Amoeba Sisters | DNA, Chromosomes, Genes, and Traits: An Intro to Heredity (video) | 2017](https://www.youtube.com/watch?v=8m6hHRlKwxY&t=1m37s)
 1. [CrashCourse | DNA Structure & Replication: Our Instruction Manual for Existing: Crash Course Biology #33 (video) | 2024](https://www.youtube.com/watch?v=4YNDB_zSzfE)
 1. [Bozeman Science: Paul Andersen | Transcription and Translation (video) | 2012](https://www.youtube.com/watch?v=h3b9ArupXZg)
-1. Cell cycle
+1. Cell cycle, cell division, mitosis and meiosis
    - [Neural Academy | MITOSIS, CYTOKINESIS, AND THE CELL CYCLE (video) | 2019](https://www.youtube.com/watch?v=8uzHTKdv_Sw)
-   - Khan Academy (videos) | 2015: [Interphase: Cells](https://www.youtube.com/watch?v=VXLSTd_dlKg) |
-     [Mitosis: Cells](https://www.youtube.com/watch?v=TKGcfbyFXsw)
+   - Bozeman Science (videos) | 2010-2014:
+     [Cell Cycle, Mitosis and Meiosis](https://www.youtube.com/watch?v=2aVnN4RePyI) |
+     [Mitosis](https://www.youtube.com/watch?v=1cVZBV9tD-A) |
+     [Phases of Meiosis](https://www.youtube.com/watch?v=16enC385R0w) |
+     [Mitosis and Meiosis Simulation](https://www.youtube.com/watch?v=zGVBAHAsjJM)
+   - Khan Academy (videos) | 2015:
+     [Interphase: Cells](https://www.youtube.com/watch?v=VXLSTd_dlKg) |
+     [Mitosis: Cells](https://www.youtube.com/watch?v=TKGcfbyFXsw) |
+     [Chromosomal crossover in Meiosis I](https://www.youtube.com/watch?v=04gQ0bQu6xk) |
+     [Phases of meiosis I: Cells](https://www.youtube.com/watch?v=XGWL9jfPHJ8) |
+     [Phases of meiosis II: Cells](https://www.youtube.com/watch?v=mMCcBsSAlF4) |
+     [Comparing mitosis and meiosis: Cells](https://www.youtube.com/watch?v=IQJ4DBkCnco)
+   - CrashCourse (videos) | 2024:
+     [Mitosis & the Cell Cycle: How Cells Clone Themselves: Crash Course Biology #29](https://www.youtube.com/watch?v=skPOXcVvS5c) |
+     [Meiosis: Why Are All Humans Unique?: Crash Course Biology #30](https://www.youtube.com/watch?v=pj1oFx42d48)
 
 
 ### More detailed introduction
