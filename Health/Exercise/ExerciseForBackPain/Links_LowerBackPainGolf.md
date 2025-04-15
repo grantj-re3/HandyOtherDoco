@@ -43,7 +43,7 @@
 ...to help reduce the risk of lower back injury.
 
 1. [Prehab: Craig Lindell | The Best Exercises For Golf | 2022](https://theprehabguys.com/best-exercises-for-golf/)
-   - Hips: Dynamic 90/90 Hip Stretch | Hip CARs | 90/90 Active Hip Rotations | 90/90 Hip PAILs & RAILs | Kettlebell Hand-Offs
+   - Hips: Dynamic 90/90 Hip Stretch | Hip CARs | 90/90 Hip PAILs & RAILs | Kettlebell Hand-Offs
    - Thoracic Spine: Spieth’s Backswing Drill [with band]
    - Core: Bird Dog – Band
    - Video: FIX YOUR BACKSWING With These Exercises
@@ -55,11 +55,7 @@
 1. [Shawe Physio: Michael Shawe | Improve Your Trunk Mobility for a Better Golf Swing | 2021](https://www.shawephysio.com/improve-your-trunk-mobility-for-a-better-golf-swing/)
    - Open Book | Thread the Needle | Spiderman Stretch
 
-1. [MyTPI: Natalie Lowe | How Improving Your Hip Hinge Can Increase Your Distance | c.2017](https://www.mytpi.com/articles/fitness/how-improving-your-hip-hinge-can-increase-your-distance)
-   - Titleist Performance Institute
-   - Screening: Pelvic Tilt Test | Toe Touch Test
-   - DEVELOP HAMSTRING MOBILITY AND CORE ENGAGEMENT: RESISTANCE BAND STRAIGHT LEG RAISES | ASSISTED TOE TOUCHES
-   - DEVELOP THIS MOBILITY INTO A HINGE PATTERN: SINGLE LEG ROMANIAN DEADLIFT
-   - ADD RESISTANCE TO THE HINGE PATTERN: RESISTANCE BAND ROMANIAN DEADLIFT
-   - ADD WEIGHT: BARBELL ROMANIAN DEADLIFT
+1. [Medium: The golf hype | 7 Exercises to Increase Trunk and Hip Mobility in your Golf Swing | 2023](https://medium.com/@thegolfhype.com/7-exercises-to-increase-trunk-and-hip-mobility-in-your-golf-swing-2fe4952b40ff)
+   - Seated Trunk Rotations | Quadruped Thoracic Rotations | Seated Piriformis Stretch |
+     Figure 4 Hip Stretch | Lying Windshield Wipers | 90/90 Hip Lift | Walking Knee Hugs
 
