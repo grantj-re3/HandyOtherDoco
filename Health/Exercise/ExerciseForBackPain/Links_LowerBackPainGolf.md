@@ -35,3 +35,31 @@
    - doi: [10.5812/asjsm.24289](https://doi.org/10.5812/asjsm.24289)
    - Suggested reading: Abstract | 7.1. Summary 1-Factors Contributing to LBP From Golf | 7.2. Summary 2-Key Factors For Decreasing LBP From Golf
 
+1. [RecoverRx - Human Performance and Rehab | Golf Warm-Up - Absolutely A Must Do Before Each Round | 2023](https://www.youtube.com/watch?v=AGo9NKr1rv4) -- 2m44s
+
+
+## Hip/trunk mobility exercises
+
+...to help reduce the risk of lower back injury.
+
+1. [Prehab: Craig Lindell | The Best Exercises For Golf | 2022](https://theprehabguys.com/best-exercises-for-golf/)
+   - Hips: Dynamic 90/90 Hip Stretch | Hip CARs | 90/90 Active Hip Rotations | 90/90 Hip PAILs & RAILs | Kettlebell Hand-Offs
+   - Thoracic Spine: Spieth’s Backswing Drill [with band]
+   - Core: Bird Dog – Band
+   - Video: FIX YOUR BACKSWING With These Exercises
+
+1. [Golf Monthly: Jamie Greaves | 10 Simple Golf Stretch Exercises Everyone Can Try | 2021](https://www.golfmonthly.com/features/the-game/10-simple-golf-stretch-exercises-everyone-can-try-249068)
+   - Aeroplane | Half Kneeling Side Bend | Banded Golf Rotation | Cats And Dogs | Standing Hip Hurdle | Wall Reach Through |
+     Half Kneeling Trunk Rotation | Diagonal Band Pulls | Frog Stretch | Half Kneeling Hip Opener And Trunk Mobility
+
+1. [Shawe Physio: Michael Shawe | Improve Your Trunk Mobility for a Better Golf Swing | 2021](https://www.shawephysio.com/improve-your-trunk-mobility-for-a-better-golf-swing/)
+   - Open Book | Thread the Needle | Spiderman Stretch
+
+1. [MyTPI: Natalie Lowe | How Improving Your Hip Hinge Can Increase Your Distance | c.2017](https://www.mytpi.com/articles/fitness/how-improving-your-hip-hinge-can-increase-your-distance)
+   - Titleist Performance Institute
+   - Screening: Pelvic Tilt Test | Toe Touch Test
+   - DEVELOP HAMSTRING MOBILITY AND CORE ENGAGEMENT: RESISTANCE BAND STRAIGHT LEG RAISES | ASSISTED TOE TOUCHES
+   - DEVELOP THIS MOBILITY INTO A HINGE PATTERN: SINGLE LEG ROMANIAN DEADLIFT
+   - ADD RESISTANCE TO THE HINGE PATTERN: RESISTANCE BAND ROMANIAN DEADLIFT
+   - ADD WEIGHT: BARBELL ROMANIAN DEADLIFT
+
