@@ -43,14 +43,14 @@
 ...to help reduce the risk of lower back injury.
 
 1. [Prehab: Craig Lindell | The Best Exercises For Golf | 2022](https://theprehabguys.com/best-exercises-for-golf/)
-   - Hips: Dynamic 90/90 Hip Stretch | Hip CARs | 90/90 Hip PAILs & RAILs | Kettlebell Hand-Offs
-   - Thoracic Spine: Spieth’s Backswing Drill [with band]
+   - Hips: Dynamic *90/90 Hip Stretch* | Hip CARs | *90/90 Hip PAILs & RAILs* | Kettlebell Hand-Offs
+   - Thoracic Spine: *Spieth’s Backswing Drill [with band]*
    - Core: Bird Dog – Band
    - Video: FIX YOUR BACKSWING With These Exercises
 
 1. [Golf Monthly: Jamie Greaves | 10 Simple Golf Stretch Exercises Everyone Can Try | 2021](https://www.golfmonthly.com/features/the-game/10-simple-golf-stretch-exercises-everyone-can-try-249068)
-   - Aeroplane | Half Kneeling Side Bend | Banded Golf Rotation | Cats And Dogs | Standing Hip Hurdle | Wall Reach Through |
-     Half Kneeling Trunk Rotation | Diagonal Band Pulls | Frog Stretch | Half Kneeling Hip Opener And Trunk Mobility
+   - *Aeroplane* | Half Kneeling Side Bend | Banded Golf Rotation | Cats And Dogs | *Standing Hip Hurdle* | *Wall Reach Through* |
+     Half Kneeling Trunk Rotation | Diagonal Band Pulls | Frog Stretch | *Half Kneeling Hip Opener And Trunk Mobility*
 
 1. [Shawe Physio: Michael Shawe | Improve Your Trunk Mobility for a Better Golf Swing | 2021](https://www.shawephysio.com/improve-your-trunk-mobility-for-a-better-golf-swing/)
    - Open Book | Thread the Needle | Spiderman Stretch
