@@ -69,9 +69,17 @@ In my case insomnia appears to frequently be associated with:
 1. [SA Health | Insomnia Management Kit: Sleep Diary | 2017](https://www.sahealth.sa.gov.au/wps/wcm/connect/a466c4804033fb25998cbbd30eb2c8cd/3+-+Sleep+Diary+2017.pdf)
 
 
-## Using sound to improve sleep
+## Other ideas/variations to improve sleep
 
 1. [Sleep Doctor | The Best Sounds for Sleep | 2022-2024](https://sleepdoctor.com/noise/sleep-sounds/)
+   - Sound
+
+1. [TEDx Talks | The secret to getting better sleep tonight | James Leinhardt | TEDxManchester (video) | 2024](https://www.youtube.com/watch?v=WeJrU-VJGfg)
+   - Sleep posture/position
+   - [11m49s](https://www.youtube.com/watch?v=WeJrU-VJGfg&t=11m49s) shows only 2 recommended sleep positions, *The Soldier* and *The Dreamer*
+
+1. [TEDx Talks | How To Trick Your Brain Into Falling Asleep | Jim Donovan | TEDxYoungstown (video) | 2018](https://www.youtube.com/watch?v=A5dE25ANU0k)
+   - Rhythm: Tapping + breathing
 
 
 ## Indirectly related to sleep health
