@@ -38,6 +38,23 @@ Medical, nursing and health sciences info
    - Human biology | Anatomy | Physiology
 
 
+## Action Potentials in neurons and muscle cells
+
+1. Verywell Mind: Kendra Cherry
+   - [Neurons and Their Role in the Nervous System | 2006-2023](https://www.verywellmind.com/what-is-a-neuron-2794890)
+   - [All-or-None Law for Nerves and Muscles | 2011-2022](https://www.verywellmind.com/what-is-the-all-or-none-law-2794808)
+     * The action potential is always a full response. There is no such thing as a "strong" or "weak" action potential.
+     * A strong stimulus will cause the neuron to fire much faster than a weak one.
+     * It is not the action potential that conveys the strength or intensity of a signal, but rather the speed and number of neurons firing simultaneously.
+
+1. [University of Guelph: Human Physiology Students | Human Physiology: Action Potentials | c.2018-2021](https://books.lib.uoguelph.ca/human-physiology/chapter/action-potentials/)
+   - Shows the biochemical processes performed in each part of the Action Potential's waveshape.
+   - [Teacher's Pet | Action Potentials (video) | 2018](https://www.youtube.com/watch?v=FEHNIELPb0s)
+   - [Alila Medical Media | Action Potential in Neurons, Animation (video) | 2016](https://www.youtube.com/watch?v=iBDXOt_uHTQ)
+
+1. [Lumen Learning: Shelli Carter & Monisha Scott | Biology for Majors II, Module 14: The Nervous System: Action Potential | c.2021](https://courses.lumenlearning.com/wm-biology2/chapter/action-potential/)
+
+
 ## Secondary school / enthusiast level
 
 1. [Professor Dave Explains | Playlists](https://www.youtube.com/@ProfessorDaveExplains/playlists)
