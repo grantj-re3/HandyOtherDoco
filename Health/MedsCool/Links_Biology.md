@@ -86,11 +86,11 @@
 
 ### Epigenetics
 
-1. [TED-Ed | What is epigenetics? - Carlos Guerrero-Bosagna | 2016](https://www.youtube.com/watch?v=_aAhcNjmvhc)
-1. [TEDx Talks | Epigenetics and the influence of our genes | Courtney Griffins | 2012](https://www.youtube.com/watch?v=JTBg6hqeuTg)
-1. [SubAnima | You've Been Lied To About Genetics | 2023](https://www.youtube.com/watch?v=zpIqQ0pGs1E)
-1. [The Royal Institution | What is Epigenetics? - with Nessa Carey | 2015](https://www.youtube.com/watch?v=9DAcJSAM_BA) -- 39m
-1. [Science Tech TV | The Gene Switch: How Environment Controls Your DNA | Epigenetics: Decoding Life | Full Documentary | 2025](https://www.youtube.com/watch?v=lNLi13Wu2Ls) -- 45m
+1. [TED-Ed | What is epigenetics? - Carlos Guerrero-Bosagna (video) | 2016](https://www.youtube.com/watch?v=_aAhcNjmvhc)
+1. [TEDx Talks | Epigenetics and the influence of our genes | Courtney Griffins (video) | 2012](https://www.youtube.com/watch?v=JTBg6hqeuTg)
+1. [SubAnima | You've Been Lied To About Genetics (video) | 2023](https://www.youtube.com/watch?v=zpIqQ0pGs1E)
+1. [The Royal Institution | What is Epigenetics? - with Nessa Carey (video) | 2015](https://www.youtube.com/watch?v=9DAcJSAM_BA) -- 39m
+1. [Science Tech TV | The Gene Switch: How Environment Controls Your DNA | Epigenetics: Decoding Life | Full Documentary (video) | 2025](https://www.youtube.com/watch?v=lNLi13Wu2Ls) -- 45m
 
 
 ## Free books
