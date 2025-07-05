@@ -76,6 +76,12 @@ The heart is two pumps, that is blood enters and exits the heart twice.
      * Systole = contraction | Diastole = relaxation | Includes a discussion of blood pressure
 
 
+### Blood pressure and heart problems
+
+1. [TED-Ed | How blood pressure works - Wilfred Manzano | 2015](https://www.youtube.com/watch?v=Ab9OZsDECZw) -- 4m31s
+1. [Health Decide | Cardiac Arrest vs. Heart Attack vs. Heart Failure | 2023](https://www.youtube.com/watch?v=KPKLq-LQjbc) -- 4m23s
+
+
 ## Secondary school / enthusiast level
 
 1. [Professor Dave Explains | Playlists](https://www.youtube.com/@ProfessorDaveExplains/playlists)
