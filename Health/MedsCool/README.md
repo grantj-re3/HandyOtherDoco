@@ -78,8 +78,8 @@ The heart is two pumps, that is blood enters and exits the heart twice.
 
 ### Blood pressure and heart problems
 
-1. [TED-Ed | How blood pressure works - Wilfred Manzano | 2015](https://www.youtube.com/watch?v=Ab9OZsDECZw) -- 4m31s
-1. [Health Decide | Cardiac Arrest vs. Heart Attack vs. Heart Failure | 2023](https://www.youtube.com/watch?v=KPKLq-LQjbc) -- 4m23s
+1. [TED-Ed | How blood pressure works - Wilfred Manzano (video) | 2015](https://www.youtube.com/watch?v=Ab9OZsDECZw) -- 4m31s
+1. [Health Decide | Cardiac Arrest vs. Heart Attack vs. Heart Failure (video) | 2023](https://www.youtube.com/watch?v=KPKLq-LQjbc) -- 4m23s
 
 
 ## Secondary school / enthusiast level
