@@ -55,6 +55,27 @@ Medical, nursing and health sciences info
 1. [Lumen Learning: Shelli Carter & Monisha Scott | Biology for Majors II, Module 14: The Nervous System: Action Potential | c.2021](https://courses.lumenlearning.com/wm-biology2/chapter/action-potential/)
 
 
+## The heart and circulatory system
+
+The heart is two pumps, that is blood enters and exits the heart twice.
+
+1. [Physiology Made Easy | The Heart As a Double Pump (video) | 2021](https://www.youtube.com/watch?v=tv4-h5ivf4o) -- 2m
+1. [Mayo Clinic | The Heart and Circulatory System - How They Work (video) | 2013](https://www.youtube.com/watch?v=CWFyxn0qDEU) -- 3m
+1. [The Children's Hospital of Philadelphia | How a Normal Heart Pumps Blood (video) | 2011](https://www.youtube.com/watch?v=JA0Wb3gc4mE) -- 1m
+
+### More details
+
+1. [Thomas Schwenke | How the Heart Works (Animation) (video) | 2024](https://www.youtube.com/watch?v=L7XLal4Cm1U)
+   - Like other organs, the heart itself needs oxygenated blood which is delivered via two coronary arteries
+   - "A heart attack can occur when the coronary arteries become blocked narrowed or completely obstructed. Blood
+     can then no longer flow freely and oxygen and other nutrients cannot reach the heart."
+
+1. [Interactive Biology | The Circulatory System (playlist) | 2011-2024](https://www.youtube.com/playlist?list=PLD178541375192EF4)
+   - [How Blood Flows Through the Heart (video) | 2011](https://www.youtube.com/watch?v=VUtehbgbpRk)
+   - [The Ultimate Cardiac Cycle Video - Most Comprehensive on YouTube! (video) | 2023](https://www.youtube.com/watch?v=toZI5997hz8)
+     * Systole = contraction | Diastole = relaxation | Includes a discussion of blood pressure
+
+
 ## Secondary school / enthusiast level
 
 1. [Professor Dave Explains | Playlists](https://www.youtube.com/@ProfessorDaveExplains/playlists)
