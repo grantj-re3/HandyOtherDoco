@@ -82,6 +82,15 @@ The heart is two pumps, that is blood enters and exits the heart twice.
 1. [Health Decide | Cardiac Arrest vs. Heart Attack vs. Heart Failure (video) | 2023](https://www.youtube.com/watch?v=KPKLq-LQjbc) -- 4m23s
 
 
+## Blood group / blood type
+
+1. [Dr Matt & Dr Mike | ABO Blood Types Made Easy! (video) | 2021](https://www.youtube.com/watch?v=Amn2EWTY2Lk)
+1. [Alila Medical Media | Blood Types, Blood Group Systems and Transfusion Rule, Animation (video) | 2018](https://www.youtube.com/watch?v=cKnEdvrmHK4)
+1. [Nicole Lantz | Blood Type Genetics Explained (video) | 2022](https://www.youtube.com/watch?v=6Cd2i32iCeU)
+1. [The Tech Interactive: Dr. Barry Starr | What are all the possible blood types for any combination of parents?  | 2006](https://www.thetech.org/ask-a-geneticist/articles/2006/ask199/)
+1. [Medicover Genetics Editorial Team | Genetics of blood type: inheritance and compatibility | 2022](https://medicover-genetics.com/genetics-of-blood-type-inheritance-and-compatibility/)
+
+
 ## Secondary school / enthusiast level
 
 1. [Professor Dave Explains | Playlists](https://www.youtube.com/@ProfessorDaveExplains/playlists)
