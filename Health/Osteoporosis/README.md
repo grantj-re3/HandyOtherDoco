@@ -4,6 +4,8 @@
 
 1. [Osmosis from Elsevier | Osteoporosis - causes, symptoms, diagnosis, treatment, pathology (video) | 2024](https://www.youtube.com/watch?v=6fMkX1J9gWw)
 
+1. [Dr Matt & Dr Mike | Osteoporosis (video) | 2021](https://www.youtube.com/watch?v=iAdF1vvgMmM)
+
 1. [Osteoporosis Canada | Too Fit To Fracture | 2024](https://osteoporosis.ca/too-fit-to-fracture/)
    - Exercises for Healthy Bones
 
@@ -16,18 +18,27 @@
      Target Calcium Intake | Vitamin D Intake and blood level target 25(OH)D | Osteoporosis medications and developing a treatment strategy |
      Medication action and efficacy | Hormone Replacement Therapy | Adverse reactions | Summary
 
-1. [Stanford Health Care | Osteoporosis: Prevention and Treatment (video) | 2023](https://www.youtube.com/watch?v=xc-tqaRBtus) -- 60 minutes
+1. [Stanford Health Care: Joy Wu | Osteoporosis: Prevention and Treatment (video) | 2023](https://www.youtube.com/watch?v=xc-tqaRBtus) -- 60 minutes
 
 1. [Margie Bissinger | YouTube videos re osteoporosis | 2019-2025](https://www.youtube.com/@margiebissinger6980/videos). For example:
    - [Avoid These Exercise Mistakes If You Have Osteoporosis With Margie Bissinger (video) | 2024](https://www.youtube.com/watch?v=u3HbUQarf8k) -- 23 minutes
    - [6 Years of Expert Advice: The Ultimate Osteoporosis Guide from 300+ Episodes (video) | 2025](https://www.youtube.com/watch?v=z91Ty3jgJew) -- 64 minutes
    - [An Osteoporosis Diagnosis: Critical Steps to Take With Dr. Lani Simpson (video) | 2024](https://www.youtube.com/watch?v=OG3BJeqtpJU) -- 53 minutes
 
-1. [The Dr Doug Show | Bones, Hormones and HealthSpan | YouTube channel re osteoporosis, bone health, etc. | 2022-2025](https://www.youtube.com/@Dr_DougLucas)
+1. [The Dr Doug Show | Bones, Hormones and HealthSpan | YouTube channel re osteoporosis, bone health, etc. | 2022-2025](https://www.youtube.com/@Dr_DougLucas). For example:
    - [Osteoporosis and Exercise (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PLMor1nUCvXqWVgpMyVpT9pj7ZUJk5J1qc)
      * [Can The Impact From Heel Drops Reverse Osteoporosis? (video) | 2024](https://www.youtube.com/watch?v=O96v36vDABs)
      * [Is this the EASIEST exercise to build bone? (video) | 2024](https://www.youtube.com/watch?v=31bjTVseo64)
-   - [How Can I Reverse Osteoporosis? (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PLMor1nUCvXqURW9kfB5u_yV2b1pF9KREd)
+   - [Best Exercises for Osteoporosis!! What Will Reverse Bone Loss (video) | 2023](https://www.youtube.com/watch?v=d0efnzv6Qpo)
+   - [The Best Tests for Osteoporosis NOT DEXA (video) | 2023](https://www.youtube.com/watch?v=BQ0DqR14DUg)
+
+1. [PathologyCentral | Medical School Pathology: Pathophysiology of Osteoporosis (video) | 2022](https://www.youtube.com/watch?v=szwba4E6wiA)
+
+1. [University of Washington: Susan Ott, MD, Emeritus Professor of Medicine | Osteoporosis and Bone Physiology | 1998-2024](https://courses.washington.edu/bonephys/)
+   - Excellent text and images. Many animations use Adobe Flash so will not work in most modern web browsers.
+   - [Osteoporosis](https://courses.washington.edu/bonephys/opop/opop.html)
+     * Definition | Clinical features | Incidence | Risk factors | Diagnosis | Markers | Bone density |
+       Treatment | Secondary osteoporosis | Male osteoporosis | Steroid osteoporosis
 
 
 ## Can Bone Mineral Density (BMD) loss be reversed?
@@ -47,13 +58,19 @@ disagreement as to whether the reversal is enough to move from osteoporosis to a
      Exercise Recommendations for Osteoporosis | Can You Reverse Bone Loss With a Vibration Plate? |
      How Martha Reversed Her Osteoporosis | Is It Possible to Reverse Osteoporosis? | Further Readings | References
 
-1. [Royal Osteoporosis Society | Exercise and osteoporosis (video) | 2023](https://www.youtube.com/watch?v=DrHw6zZbIow)
+1. [Royal Osteoporosis Society | Exercise and osteoporosis (video) | 2023](https://www.youtube.com/watch?v=DrHw6zZbIow) -- 33 minutes
    - 3m09s: some of that evidence shows benefits from some types of exercise but not from other types of exercise.
      I think an important thing to bear in mind is that the studies haven't shown the exercise alone is going
      to take you from being osteoporotic, having an osteoporotic BMD right up to being normal. So it can have
      a benefit, but a modest benefit for some types of exercise.
    - 4m55s: if you're inactive, you're likely to lose bone and by increasing the activity then some types
      of exercise can increase the bone density.
+
+1. The Dr Doug Show
+   - [Is Osteoporosis Reversible? (video) | 2022](https://www.youtube.com/watch?v=dlqvxh_IwX8)
+   - [Is It REALLY Possible to Reverse Osteoporosis Without Meds? (video) | 2025](https://www.youtube.com/watch?v=S0RJJKeogMI) -- 29 minutes
+   - [How Can I Reverse Osteoporosis? (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PLMor1nUCvXqURW9kfB5u_yV2b1pF9KREd)
+
 
 1. [Potashkin JA, Kim N. | Reversal of Bone Mineral Density Loss Through Lifestyle Changes: A Case Report. | Am J Lifestyle Med. 2024 Sep 23:15598276241285806. doi: 10.1177/15598276241285806. Epub ahead of print. PMID: 39540188; PMCID: PMC11556536.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11556536/)
    - Abstract: ... This case report describes lifestyle changes that included diet and exercise that increased
