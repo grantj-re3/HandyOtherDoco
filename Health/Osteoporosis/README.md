@@ -1,24 +1,28 @@
 # Osteoporosis
 
+Some of the links below contain material or advice which conflicts with content at other links.
+However, I have attempted to only provide information from health experts (osteoporosis organisations,
+researchers, doctors, physical therapists, etc.) and authors who support their information with evidence.
+
+
+## Introduction
+
 1. [Nucleus Medical Media | Osteoporosis (video) | 2014](https://www.youtube.com/watch?v=eYGkT6OrBk0)
 
 1. [Osmosis from Elsevier | Osteoporosis - causes, symptoms, diagnosis, treatment, pathology (video) | 2024](https://www.youtube.com/watch?v=6fMkX1J9gWw)
 
 1. [Dr Matt & Dr Mike | Osteoporosis (video) | 2021](https://www.youtube.com/watch?v=iAdF1vvgMmM)
 
-1. [Osteoporosis Canada | Too Fit To Fracture | 2024](https://osteoporosis.ca/too-fit-to-fracture/)
-   - Exercises for Healthy Bones
-
 
 ## Details
+
+1. :thumbsup: [Stanford Health Care: Dr Joy Wu | Osteoporosis: Prevention and Treatment (video) | 2023](https://www.youtube.com/watch?v=xc-tqaRBtus) -- 60 minutes (38m presentation; 22m Q&A)
 
 1. [Michael Lavacot | Osteoporosis Medications - Which drug is right for you? (video) | 2024](https://www.youtube.com/watch?v=Z4uXAsnhSaA) -- 65 minutes
    - What is Osteoporosis | Primary and secondary causes of Osteoporosis | Finding the best doctor | Blood and urine testing |
      The calcium balance system | How vitamin D helps bones | How PTH regulates blood calcium | Medications: Risk versus reward |
      Target Calcium Intake | Vitamin D Intake and blood level target 25(OH)D | Osteoporosis medications and developing a treatment strategy |
      Medication action and efficacy | Hormone Replacement Therapy | Adverse reactions | Summary
-
-1. [Stanford Health Care: Joy Wu | Osteoporosis: Prevention and Treatment (video) | 2023](https://www.youtube.com/watch?v=xc-tqaRBtus) -- 60 minutes
 
 1. [Margie Bissinger | YouTube videos re osteoporosis | 2019-2025](https://www.youtube.com/@margiebissinger6980/videos). For example:
    - [Avoid These Exercise Mistakes If You Have Osteoporosis With Margie Bissinger (video) | 2024](https://www.youtube.com/watch?v=u3HbUQarf8k) -- 23 minutes
@@ -41,15 +45,32 @@
        Treatment | Secondary osteoporosis | Male osteoporosis | Steroid osteoporosis
 
 
+## Exercise
+
+1. [Osteoporosis Canada | Too Fit To Fracture | 2024](https://osteoporosis.ca/too-fit-to-fracture/)
+   - Exercises for Healthy Bones
+
+1. [Royal Osteoporosis Society | How to build up exercise for your bone strength | c.2023](https://theros.org.uk/information-and-support/bone-health/exercise-for-bones/how-to-build-up-exercise-for-your-bone-strength/)
+
+1. [Yu Yuan, Xi Chen, et al. | The roles of exercise in bone remodeling and in prevention and treatment of osteoporosis | Progress in Biophysics and Molecular Biology, Volume 122, Issue 2, 2016, Pages 122-130, ISSN 0079-6107, https://doi.org/10.1016/j.pbiomolbio.2015.11.005.](https://www.sciencedirect.com/science/article/pii/S007961071500228X)
+   - Introduction: ... the bone is responsive to mechanical loading, which acts on the bones through both muscle
+     forces and ground reaction forces ... These forces increase both bone mineral density and strength
+   - The aim of the review is to update our understanding of the roles of exercise ... with an emphasis on ... bone mass, bone strength ...
+   - Conclusion: Exercise increases bone mineral density, bone mass, bone strength, and bone mechanical properties.
+
+
 ## Can Bone Mineral Density (BMD) loss be reversed?
 
-I feel that most experts agree that BMD loss can be reversed (depending on the situation) but there is some
-disagreement as to whether the reversal is enough to move from osteoporosis to a healthy bone density.
+I feel that most experts agree that BMD loss can be reversed in some cases with a
+combination of treatments such as drugs, supplements, exercise, diet and other lifestyle
+factors. However, it appears most experts feel there is insufficient evidence that the
+reversal is adequate to move from osteoporosis to a healthy bone density/quality.
 
 1. [BioStrong: Michael Lindee | Can You Reverse Osteoporosis? Debunking the Myth and Exploring Hopeful Approaches | 2023](https://www.biostrong.ca/blog-posts/can-you-reverse-osteoporosis-debunking-the-myth-and-exploring-hopeful-approaches)
    - Debunking the Myth of Full Reversibility | Medication and Pharmaceuticals - A Double-Edged Sword |
      Exploring New Approaches - Exercise and Osteogenic Loading | Conclusion
-   - Many individuals utilizing osteogenic loading have seen their bone density improve. It has gone from osteoporosis to osteopenia (low bone density) and in some cases even improve all the way to having healthy bone density.
+   - Many individuals utilizing osteogenic loading have seen their bone density improve. It has gone from osteoporosis
+     to osteopenia (low bone density) and in some cases even improve all the way to having healthy bone density.
 
 1. [MelioGuide: Margaret Martin | Can Osteoporosis be Reversed? | 2025](https://melioguide.com/osteoporosis-exercises/osteoporosis-reversed/)
    - Can Osteoporosis be Reversed? | Can Exercise Reverse Osteoporosis? | Exercise Recommendations for Osteoporosis |
@@ -105,7 +126,6 @@ The two most common views are *avoid playing golf* and *modify your swing and be
 1. [Royal Osteoporosis Society | How do I keep my bones healthy? (video) | 2021](https://www.youtube.com/watch?v=Z0KtzUVwuNU&t=4m26s)
    - At 4m26s-5m12s they say *Exercises like swimming, gardening, golf and tai chi will help you maintain your muscle
      strength and your balance and coordination and reduce your risk of falling*
-
 
 1. Academic studies
 
