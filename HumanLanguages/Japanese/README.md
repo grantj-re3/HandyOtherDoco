@@ -35,3 +35,16 @@ by The Japan Foundation
 1. [Learn Basic Japanese Vocabulary (playlist) | 2020-2022](https://www.youtube.com/playlist?list=PLPSfPyOOcp3Qbu6DT536Y1IkcRLSLbHty)
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 
+
+## Grammar
+
+These sites discusses English grammar, however many of the terms (but not necessarily the rules) apply to other languages too.
+
+1. Grammar Monster
+   - [Glossary of Grammatical Terms](https://www.grammar-monster.com/grammar_terms_and_definitions.htm)
+   - [Grammar Videos](https://www.grammar-monster.com/grammar-videos.htm)
+     * [Parts of Speech (video) | 2021](https://www.youtube.com/watch?v=2wlKKsA1HMQ)
+       + Adjectives, adverbs, conjunctions, determiners, interjections, nouns, prepositions, pronouns, and verbs
+
+1. [Oxford English Dictionary | Glossary of grammatical terms](https://www.oed.com/information/understanding-entries/glossary-grammatical-terms)
+
