@@ -41,7 +41,7 @@ by The Japan Foundation
 
 ## Grammar
 
-These sites discusses English grammar, however many of the terms (but not necessarily the rules) apply to other languages too.
+These sites discuss English grammar, however many of the terms (but not necessarily the rules) apply to other languages too.
 
 1. Grammar Monster
    - [Glossary of Grammatical Terms](https://www.grammar-monster.com/grammar_terms_and_definitions.htm)
