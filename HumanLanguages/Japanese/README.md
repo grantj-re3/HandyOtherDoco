@@ -35,7 +35,7 @@ by The Japan Foundation
 
 1. [10-Day Hiragana Challenge (playlist)](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxDZf7gkbApq_PrJsGf7Pn)
    - Includes: All columns | Various fonts | Dakuten modifer for each character | Quiz | Some meanings
-1. [Learn Basic Japanese Vocabulary (playlist) | 2020-2022](https://www.youtube.com/playlist?list=PLPSfPyOOcp3Qbu6DT536Y1IkcRLSLbHty)
+1. [Learn Basic Japanese Vocabulary (playlist) | 2020-2022](https://www.youtube.com/playlist?list=PLPSfPyOOcp3Qbu6DT536Y1IkcRLSLbHty) -- 800 words | 20 per video
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 
 
