@@ -2,7 +2,7 @@
 
 ## Intro
 
-1. [Tarek Hamza | Stephen Krashen: Language Acquisition and Comprehensible Input [from c.1982] | 2016](https://www.youtube.com/watch?v=fnUc_W3xE1w)
+1. [Tarek Hamza | Stephen Krashen: Language Acquisition and Comprehensible Input [from c.1982] (video) | 2016](https://www.youtube.com/watch?v=fnUc_W3xE1w)
    - [Taalhammer: Anna Zielazny | What is Comprehensible Input in language learning. Stephen Krashen’s theory | 2023-2024](https://www.taalhammer.com/what-is-comprehensible-input-in-language-learning-stephen-krashens-theory/)
      * [Taalhammer: Mateusz Wiącek | The best way to learn a language is through sentences | 2022-2023](https://www.taalhammer.com/the-best-way-to-learn-a-language-is-through-sentences/)
 
@@ -51,9 +51,9 @@ by The Japan Foundation
 
 ## Sentence Structure
 
-1. [Kaname Naito | Basic Sentence Structure in Japanese | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
-1. [That Japanese Man Yuta | Basic Japanese Sentence Structure | 2024](https://www.youtube.com/watch?v=fJ8v9YQ_Ops)
-1. [Jouzu Juls (上手 ジューズ) | How to Understand EVERY Japanese Sentence With ONE Simple Trick | 2022](https://www.youtube.com/watch?v=7fv1V-BB9NI)
+1. [Kaname Naito | Basic Sentence Structure in Japanese (video) | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
+1. [That Japanese Man Yuta | Basic Japanese Sentence Structure (video) | 2024](https://www.youtube.com/watch?v=fJ8v9YQ_Ops)
+1. [Jouzu Juls (上手 ジューズ) | How to Understand EVERY Japanese Sentence With ONE Simple Trick (video) | 2022](https://www.youtube.com/watch?v=7fv1V-BB9NI)
 
 
 ## Grammar
