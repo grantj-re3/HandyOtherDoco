@@ -1,5 +1,12 @@
 # Japanese language resources
 
+## Intro
+
+1. [Tarek Hamza | Stephen Krashen: Language Acquisition and Comprehensible Input [from c.1982] | 2016](https://www.youtube.com/watch?v=fnUc_W3xE1w)
+   - [Taalhammer: Anna Zielazny | What is Comprehensible Input in language learning. Stephen Krashen’s theory | 2023-2024](https://www.taalhammer.com/what-is-comprehensible-input-in-language-learning-stephen-krashens-theory/)
+     * [Taalhammer: Mateusz Wiącek | The best way to learn a language is through sentences | 2022-2023](https://www.taalhammer.com/the-best-way-to-learn-a-language-is-through-sentences/)
+
+
 ## Tofugu
 
 1. [Home page](https://www.tofugu.com)
@@ -23,6 +30,9 @@ by The Japan Foundation
 
 ## NHK WORLD-JAPAN - Easy Japanese
 
+1. [Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+   - Easy Japanese Conversation Lessons | Easy Japanese for Work | Learn Japanese from the News | Easy Travel Japanese |
+     Essential Japanese | Activate Your Japanese! | Magical Japanese | Easy Japanese: Grammar lessons
 1. [Easy Japanese - free lessons (in various languages)](https://www3.nhk.or.jp/nhkworld/lesson/)
 1. [Easy Japanese: Grammar lessons | 2014](https://www3.nhk.or.jp/nhkworld/lesson/english/)
    - [List of Lessons](https://www3.nhk.or.jp/nhkworld/lesson/english/learn/list/)
@@ -37,6 +47,13 @@ by The Japan Foundation
    - Includes: All columns | Various fonts | Dakuten modifer for each character | Quiz | Some meanings
 1. [Learn Basic Japanese Vocabulary (playlist) | 2020-2022](https://www.youtube.com/playlist?list=PLPSfPyOOcp3Qbu6DT536Y1IkcRLSLbHty) -- 800 words | 20 per video
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
+
+
+## Sentence Structure
+
+1. [Kaname Naito | Basic Sentence Structure in Japanese | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
+1. [That Japanese Man Yuta | Basic Japanese Sentence Structure | 2024](https://www.youtube.com/watch?v=fJ8v9YQ_Ops)
+1. [Jouzu Juls (上手 ジューズ) | How to Understand EVERY Japanese Sentence With ONE Simple Trick | 2022](https://www.youtube.com/watch?v=7fv1V-BB9NI)
 
 
 ## Grammar
