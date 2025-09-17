@@ -49,6 +49,15 @@ by The Japan Foundation
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 
 
+## Reading & listening
+
+1. Tenyomi
+   - [Daily Japanese lessons | 2023-2025](https://tenyomi.com/daily-lessons/) -- Reading/listening
+   - [Listening](https://tenyomi.com/listening/) -- Basic numbers/Verb conjugations
+   - [Practice Japanese reading with short stories](https://tenyomi.com/browse/)
+1. [Team Japanese: Rebecca Shiraishi-Miles | FREE Websites For Japanese Reading Practice (At Every Level) | 2017-2025](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
+
+
 ## Sentence Structure
 
 1. [Kaname Naito | Basic Sentence Structure in Japanese (video) | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
