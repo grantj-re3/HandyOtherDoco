@@ -1,7 +1,12 @@
 # Learning a language
 
 1. [simple, actually | Learn ANY Language FAST for the Rest of Your Life (video) | 2025](https://www.youtube.com/watch?v=Iwj2Hw3bVT4)
-1. :thumbsup: [Mikel | Hyperpolyglot | The 45-Minute Language Learning Routine That Makes You Fluent in 1 Year (video) | 2025](https://www.youtube.com/watch?v=hmlMK8VG2BE)
+1. Mikel | Hyperpolyglot
+   - :thumbsup: [The 45-Minute Language Learning Routine That Makes You Fluent in 1 Year (video) | 2025](https://www.youtube.com/watch?v=hmlMK8VG2BE)
+   - [How to learn 100 words a day and not forget them | 2025](https://www.youtube.com/watch?v=d23uFcDn-Rk)
+1. :thumbsup: [languagejones | The BEST way to learn a language QUICKLY with books | 2025](https://www.youtube.com/watch?v=QVpu66njzdE)
+   - Pipeline: Textbooks you like ⮕ Google Sheets ⮕ Anki ⮕ HyperTTS
+
 1. [Brian Wiles | Captain English | How to LEARN ANY LANGUAGE on Your Own (Fast!) (video) | 2021](https://www.youtube.com/watch?v=qYsHLUAlH_8)
 1. [Norwegian with Ilys | How I learnt Norwegian on my own (video) | 2023](https://www.youtube.com/watch?v=uWQYqcFX8JE)
    - Find your motivation | Make a plan based on your motivation and goal
