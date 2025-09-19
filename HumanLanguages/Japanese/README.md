@@ -16,6 +16,7 @@
      everything has been carefully selected to get you to the finish line faster and more efficiently
 1. [Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
 1. [Learn Hiragana Today (playlist) | 2014](https://www.youtube.com/playlist?list=PL8dUxOTCkXEryT497YDSZu7uSOw5ICBwN) -- only the first 5 columns
+1. [The Best Japanese Language Learning Podcasts for Beginners | 2022](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/)
 
 
 ## Irodori
@@ -51,11 +52,16 @@ by The Japan Foundation
 
 ## Reading & listening
 
+1. SAKURA TIPS
+   - [Podcast | 2020-2025](https://sakuratips.com/category/pod-cast/)
+     * [Episode 1 | 2020](https://podcasts.apple.com/us/podcast/1-%E5%A4%A7%E9%98%AA%E4%BA%BA-osaka-people/id1536540690?i=1000495377061)
+   - [Nihongo Road Map | 2021](https://sakuratips.com/2021/06/06/roadmap/)
 1. Tenyomi
    - [Daily Japanese lessons | 2023-2025](https://tenyomi.com/daily-lessons/) -- Reading/listening
    - [Listening](https://tenyomi.com/listening/) -- Basic numbers/Verb conjugations
    - [Practice Japanese reading with short stories](https://tenyomi.com/browse/)
 1. [Team Japanese: Rebecca Shiraishi-Miles | FREE Websites For Japanese Reading Practice (At Every Level) | 2017-2025](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
+1. [Tom Ray | Traditional Japanese Children's Stories](https://tomray.me/stories/)
 
 
 ## Sentence Structure
