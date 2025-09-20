@@ -1,10 +1,7 @@
 # Japanese language resources
 
-## Intro
-
-1. [Tarek Hamza | Stephen Krashen: Language Acquisition and Comprehensible Input [from c.1982] (video) | 2016](https://www.youtube.com/watch?v=fnUc_W3xE1w)
-   - [Taalhammer: Anna Zielazny | What is Comprehensible Input in language learning. Stephen Krashen’s theory | 2023-2024](https://www.taalhammer.com/what-is-comprehensible-input-in-language-learning-stephen-krashens-theory/)
-     * [Taalhammer: Mateusz Wiącek | The best way to learn a language is through sentences | 2022-2023](https://www.taalhammer.com/the-best-way-to-learn-a-language-is-through-sentences/)
+My links for Learning a language are [here](../../LearningAndMemory/LearningALanguage.md).
+The content includes faster learning ideas, Comprehensible Input and TTS.
 
 
 ## Tofugu

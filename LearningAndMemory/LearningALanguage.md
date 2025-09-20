@@ -36,6 +36,13 @@
 1. [Canguro English: Christian Saunders | Understand ANY English Word (No Dictionary Needed!) (video) | 2025](https://www.youtube.com/watch?v=2-QrjEcMIzs)
 
 
+## Comprehensible Input
+
+1. [Tarek Hamza | Stephen Krashen: Language Acquisition and Comprehensible Input [from c.1982] (video) | 2016](https://www.youtube.com/watch?v=fnUc_W3xE1w)
+   - [Taalhammer: Anna Zielazny | What is Comprehensible Input in language learning. Stephen Krashen’s theory | 2023-2024](https://www.taalhammer.com/what-is-comprehensible-input-in-language-learning-stephen-krashens-theory/)
+     * [Taalhammer: Mateusz Wiącek | The best way to learn a language is through sentences | 2022-2023](https://www.taalhammer.com/the-best-way-to-learn-a-language-is-through-sentences/)
+
+
 ## Text-to-Speech (TTS)
 
 Examples of some online TTS tools
