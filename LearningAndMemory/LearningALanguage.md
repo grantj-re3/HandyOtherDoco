@@ -40,7 +40,11 @@
 
 Examples of some online TTS tools
 
-1. [ttsMP3.com](https://ttsmp3.com/)
 1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
+   - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
+1. [ttsMP3.com](https://ttsmp3.com/)
+   - Free Regular voices: ~375 words or 3,000 characters / day | Free AI voices: ~125 words or 1,000 characters / day
 1. [Ondoku3: Text-to-speech software](https://ondoku3.com/en/)
+   - Non-member (Free): 1000 characters/month | Free member (Lite): 5000 characters/month
+   - Good voices: M: なおき | F: まゆ
 
