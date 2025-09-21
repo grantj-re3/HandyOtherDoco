@@ -26,8 +26,8 @@
 1. [Popular Yuri | Hiragana Japanese Alphabet Song (video) | 2014](https://www.youtube.com/watch?v=OAYWzznNXf8)
 1. [123JAPAN! | 「Song For Learning Japanese」- MANA OKADA from 123JAPAN! (video) | 2021](https://www.youtube.com/watch?v=8KSqBahjlTw)
 1. [FluentU | Learn Japanese with 11 Songs | 2023-2025](https://www.fluentu.com/blog/japanese/learn-japanese-with-music/)
-1. [Learn Japanese with Songs! | Most important verbs in Japanese | 2024-2025](https://www.youtube.com/playlist?list=PL3lGZoz4Ez8Bo1AFm_B-3EPAtNxSIEgvZ)
-   - [From 理解する to 動かす | 2024](https://www.youtube.com/watch?v=K8a3XxL1Msc)
+1. [Learn Japanese with Songs! | Most important verbs in Japanese (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PL3lGZoz4Ez8Bo1AFm_B-3EPAtNxSIEgvZ)
+   - [From 理解する to 動かす (video) | 2024](https://www.youtube.com/watch?v=K8a3XxL1Msc)
 
 
 ## How to make Te-form Verbs from Masu-form
@@ -44,6 +44,7 @@
 ## Songs sung in Japanese which show Japanese lyrics
 
 1. YouTube Music
-   - [レット・イット・ゴー～ | Let It Go (From "Frozen")](https://music.youtube.com/watch?v=84jjnI6M2UI&list=RDAMVMaKmutxnR944)
-   - [にじ -【虹が虹が空にかかって】 | Rainbow - 【Rainbow hangs over the sky】](https://music.youtube.com/watch?v=dsTsJbs7uvk&list=RDAMVMaKmutxnR944)
+   - [レット・イット・ゴー～ | Let It Go (From "Frozen") (video)](https://music.youtube.com/watch?v=84jjnI6M2UI&list=RDAMVMaKmutxnR944)
+   - [にじ -【虹が虹が空にかかって】 | Rainbow - 【Rainbow hangs over the sky】(video)](https://music.youtube.com/watch?v=dsTsJbs7uvk&list=RDAMVMaKmutxnR944)
+     * Lyrics at [Fandom, Power Rangers](https://powerrangers.fandom.com/wiki/Niji_(song))
 

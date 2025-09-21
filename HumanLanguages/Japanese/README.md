@@ -47,8 +47,18 @@ by The Japan Foundation
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 
 
+## Other
+
+1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
+
+
 ## Reading & listening
 
+1. Tetsu Sensei
+   - [4 Hacks That Instantly Make Japanese Reading Easier! (video) | 2025](https://www.youtube.com/watch?v=Ce4q4DCrnZM)
+     * Understand Japanese sentence structure | Focus on the subject first |
+       Use slash reading to break things down | Read stuff you like (that matches your difficulty level)
+   - [Japanese Podcast (playlist) | 2025](https://www.youtube.com/playlist?list=PLuIezMZ2WTHBWhsgu-GLze-n4hNHroxxK)
 1. SAKURA TIPS
    - [Podcast | 2020-2025](https://sakuratips.com/category/pod-cast/)
      * [Episode 1 | 2020](https://podcasts.apple.com/us/podcast/1-%E5%A4%A7%E9%98%AA%E4%BA%BA-osaka-people/id1536540690?i=1000495377061)
