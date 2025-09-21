@@ -3,6 +3,17 @@
 1. [simple, actually | Learn ANY Language FAST for the Rest of Your Life (video) | 2025](https://www.youtube.com/watch?v=Iwj2Hw3bVT4)
 1. Mikel | Hyperpolyglot
    - :thumbsup: [The 45-Minute Language Learning Routine That Makes You Fluent in 1 Year (video) | 2025](https://www.youtube.com/watch?v=hmlMK8VG2BE)
+     * Method:
+       + with no classes, no grammar books, no exams, no apps, not living in the country where the language is spoken... from scratch, at home, on your own
+       + with your phone, your brain & 45 minutes per day [& based on other videos: a spreadsheet & TTS to prepare materials]
+     * Core skills: vocab | pronunciation | grammar (in that order)
+       + Learn 30 words per day using Mnemonic Associations (see below)
+       + Listen every day to real native speakers about topics you like (while doing something else)
+       + Shadowing: Listen and repeat every day
+       + Language islands: Personal conversation scripts. Every day: write 20 sentences about some topic in your native language ⮕
+         translate to the target language ⮕ repeat them out loud. Review older ones.
+     * Mnemonic Associations: [Using a spreadsheet](https://www.youtube.com/watch?v=5YGNv88CK-A) |
+       [Using AI to assist](https://www.youtube.com/watch?v=mUtDeYfiIog) | [For Korean](https://www.youtube.com/watch?v=RKQyNgg0uOc)
    - :thumbsup: [How to learn 100 words a day and not forget them (video) | 2025](https://www.youtube.com/watch?v=d23uFcDn-Rk)
      * Learn useful, high frequency words within relevant sentences. | Instead of learning the word for coffee, learn the sentence to order a coffee.
      * Language islands: E.g. Introducing yourself (name, where you are from, what you do) | At the restaurant (ordering food, asking for bill) | Your work | Your hobbies
@@ -12,6 +23,10 @@
        listen while doing another activity) | Week 5+: Use LASR once or twice per week.
      * Comments section: Where to find sentences? AI | How to understand what I hear? Vocabulary + pronunciation + repetitive listening and shadowing |
        Too time consuming? 1,000 sentences are 45-60min of audio | How to make an audio playlist? See [here](https://www.youtube.com/watch?v=fV2y3UrVeuQ)
+   - [This 5-Minute Video Will Save You 10,000 Hours of Language Learning | 2025](https://www.youtube.com/watch?v=6U_ABzI9J08&t=4m19s)
+     * Learn vocab + useful sentences | Listen to those sentences on repeat (then move on to native speaker content) |
+       Speak a lot (talk to yourself, record yourself, listen & repeat)
+     * Do these 3 things every day. It's not fun, it's not easy, it's hard work, but it works.
 
 1. :thumbsup: [languagejones | The BEST way to learn a language QUICKLY with books (video) | 2025](https://www.youtube.com/watch?v=QVpu66njzdE)
    - Pipeline: Textbooks you like ⮕ Google Sheets ⮕ Anki ⮕ HyperTTS
