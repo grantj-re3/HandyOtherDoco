@@ -76,6 +76,10 @@ by The Japan Foundation
 1. [Kaname Naito | Basic Sentence Structure in Japanese (video) | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
 1. [That Japanese Man Yuta | Basic Japanese Sentence Structure (video) | 2024](https://www.youtube.com/watch?v=fJ8v9YQ_Ops)
 1. [Jouzu Juls (上手 ジューズ) | How to Understand EVERY Japanese Sentence With ONE Simple Trick (video) | 2022](https://www.youtube.com/watch?v=7fv1V-BB9NI)
+1. Particles
+   - Intro: [JapanesePod101.com | Japanese Particles Guide: Wa, Ni, Ga and More! | 2019](https://www.japanesepod101.com/japanese-particles/)
+   - Detail: [Migaku | Mastering the Basics of Japanese Particles | 2024](https://migaku.com/blog/japanese/japanese-particles-guide)
+   - Cheatsheet: [Tofugu: Koichi | Japanese Particles Cheatsheet | 2009](https://www.tofugu.com/japanese/japanese-particles-cheatsheet/)
 
 
 ## Grammar
