@@ -3,7 +3,7 @@
 1. [simple, actually | Learn ANY Language FAST for the Rest of Your Life (video) | 2025](https://www.youtube.com/watch?v=Iwj2Hw3bVT4)
 1. Mikel | Hyperpolyglot
    - :thumbsup: [The 45-Minute Language Learning Routine That Makes You Fluent in 1 Year (video) | 2025](https://www.youtube.com/watch?v=hmlMK8VG2BE)
-   - :thumbsup: [How to learn 100 words a day and not forget them | 2025](https://www.youtube.com/watch?v=d23uFcDn-Rk)
+   - :thumbsup: [How to learn 100 words a day and not forget them (video) | 2025](https://www.youtube.com/watch?v=d23uFcDn-Rk)
      * Learn useful, high frequency words within relevant sentences. | Instead of learning the word for coffee, learn the sentence to order a coffee.
      * Language islands: E.g. Introducing yourself (name, where you are from, what you do) | At the restaurant (ordering food, asking for bill) | Your work | Your hobbies
      * Learn using LASR: Listening | Active recall | Shadowing | Reading
@@ -13,7 +13,7 @@
      * Comments section: Where to find sentences? AI | How to understand what I hear? Vocabulary + pronunciation + repetitive listening and shadowing |
        Too time consuming? 1,000 sentences are 45-60min of audio | How to make an audio playlist? See [here](https://www.youtube.com/watch?v=fV2y3UrVeuQ)
 
-1. :thumbsup: [languagejones | The BEST way to learn a language QUICKLY with books | 2025](https://www.youtube.com/watch?v=QVpu66njzdE)
+1. :thumbsup: [languagejones | The BEST way to learn a language QUICKLY with books (video) | 2025](https://www.youtube.com/watch?v=QVpu66njzdE)
    - Pipeline: Textbooks you like ⮕ Google Sheets ⮕ Anki ⮕ HyperTTS
 
 1. [Brian Wiles | Captain English | How to LEARN ANY LANGUAGE on Your Own (Fast!) (video) | 2021](https://www.youtube.com/watch?v=qYsHLUAlH_8)
