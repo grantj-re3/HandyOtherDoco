@@ -27,6 +27,10 @@
      * Learn vocab + useful sentences | Listen to those sentences on repeat (then move on to native speaker content) |
        Speak a lot (talk to yourself, record yourself, listen & repeat)
      * Do these 3 things every day. It's not fun, it's not easy, it's hard work, but it works.
+   - [How I'm learning japanese grammar FAST | 2024](https://www.youtube.com/watch?v=nU11cQhw_lg)
+   - [How to Create Your Own Language Learning Materials | 2025](https://www.youtube.com/watch?v=PexMQLVqzo8)
+     * Pipeline: Invent your own sentences in your native language ⮕ Type into column A of Google Sheets ⮕ In column B, use the GOOGLETRANSLATE() function
+       to generate a written translation of your sentence in your target language ⮕ Paste your target language text into a TTS to create an audio file
 
 1. :thumbsup: [languagejones | The BEST way to learn a language QUICKLY with books (video) | 2025](https://www.youtube.com/watch?v=QVpu66njzdE)
    - Pipeline: Textbooks you like ⮕ Google Sheets ⮕ Anki ⮕ HyperTTS
