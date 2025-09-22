@@ -49,6 +49,8 @@ by The Japan Foundation
 
 ## Other
 
+1. [The Mezzofanti Guild: Donovan Nagel | Best Japanese Language Learning Resources | 2025](https://www.mezzoguild.com/japanese-resources/)
+1. [Free Japanese Lessons](https://freejapaneselessons.com/) -- The first 10 lessons are free
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
 
 
