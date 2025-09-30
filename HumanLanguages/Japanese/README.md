@@ -47,15 +47,34 @@ by The Japan Foundation
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 
 
+## Japanese Made Easy (JME)
+
+1. [Greg | Japanese Made Easy home page](https://japanesemadeeasy.com/)
+   - 25 free podcast episodes | Vocab approx. 250 words
+   - Each episode includes playable and downloadable audio (Full Episode and Practice audio) and transcript
+     (with vocab in Japanese and romaji)
+1. [Learn Hiragana in Two Hours](https://japanesemadeeasy.com/learn-hiragana/)
+   - Videos
+1. [Learn Katakana in Two Hours](https://japanesemadeeasy.com/learn-katakana-1-4/)
+   - Videos + reading practice PDF
+
+
 ## Other
 
-1. [The Mezzofanti Guild: Donovan Nagel | Best Japanese Language Learning Resources | 2025](https://www.mezzoguild.com/japanese-resources/)
+1. The Mezzofanti Guild: Donovan Nagel
+   - [Best Japanese Language Learning Resources | 2025](https://www.mezzoguild.com/japanese-resources/)
+   - [25 Best YouTube Channels To Learn Japanese (All Levels) | 2021-2025](https://www.mezzoguild.com/learn/japanese/resources/japanese-youtube/)
+   - [12 Best Podcasts To Learn Japanese (All Levels) | 2021-2025](https://www.mezzoguild.com/learn/japanese/resources/japanese-podcasts/)
+   - [13 Most Useful Japanese Translator Apps, Sites & Extensions | 2020-2025](https://www.mezzoguild.com/learn/japanese/resources/english-to-japanese-translation-apps/)
+1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
+   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
 1. [Free Japanese Lessons](https://freejapaneselessons.com/) -- The first 10 lessons are free
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
 
 
 ## Reading & listening
 
+1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
 1. Tetsu Sensei
    - [4 Hacks That Instantly Make Japanese Reading Easier! (video) | 2025](https://www.youtube.com/watch?v=Ce4q4DCrnZM)
      * Understand Japanese sentence structure | Focus on the subject first |
