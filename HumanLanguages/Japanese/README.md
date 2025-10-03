@@ -59,6 +59,16 @@ by The Japan Foundation
    - Videos + reading practice PDF
 
 
+## Tools
+
+1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
+   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
+1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
+   - Also does Romaji-Hiragana conversion
+1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
+   - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
+
+
 ## Other
 
 1. The Mezzofanti Guild: Donovan Nagel
@@ -66,8 +76,6 @@ by The Japan Foundation
    - [25 Best YouTube Channels To Learn Japanese (All Levels) | 2021-2025](https://www.mezzoguild.com/learn/japanese/resources/japanese-youtube/)
    - [12 Best Podcasts To Learn Japanese (All Levels) | 2021-2025](https://www.mezzoguild.com/learn/japanese/resources/japanese-podcasts/)
    - [13 Most Useful Japanese Translator Apps, Sites & Extensions | 2020-2025](https://www.mezzoguild.com/learn/japanese/resources/english-to-japanese-translation-apps/)
-1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
-   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
 1. [Free Japanese Lessons](https://freejapaneselessons.com/) -- The first 10 lessons are free
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
 
