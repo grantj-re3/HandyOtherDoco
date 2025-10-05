@@ -59,16 +59,6 @@ by The Japan Foundation
    - Videos + reading practice PDF
 
 
-## Tools
-
-1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
-   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
-1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
-   - Also does Romaji-Hiragana conversion
-1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
-   - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
-
-
 ## Other
 
 1. The Mezzofanti Guild: Donovan Nagel
@@ -78,6 +68,16 @@ by The Japan Foundation
    - [13 Most Useful Japanese Translator Apps, Sites & Extensions | 2020-2025](https://www.mezzoguild.com/learn/japanese/resources/english-to-japanese-translation-apps/)
 1. [Free Japanese Lessons](https://freejapaneselessons.com/) -- The first 10 lessons are free
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
+
+
+## Tools
+
+1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
+   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
+1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
+   - Also does Romaji-Hiragana conversion
+1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
+   - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
 
 
 ## Reading & listening
@@ -98,6 +98,27 @@ by The Japan Foundation
    - [Practice Japanese reading with short stories](https://tenyomi.com/browse/)
 1. [Team Japanese: Rebecca Shiraishi-Miles | FREE Websites For Japanese Reading Practice (At Every Level) | 2017-2025](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
 1. [Tom Ray | Traditional Japanese Children's Stories](https://tomray.me/stories/)
+
+
+## Long vowels, double consonants, v-sounds, etc.
+
+1. [Coto Japanese Academy: Anna Deutsch | Pronunciation in Japan: Long Vowels and Double Consonants in Japanese | 2023-2025](https://cotoacademy.com/pronunciation-in-japan-long-vowels-and-double-consonants-in-japanese/)
+   - What are Long Vowels? | How to Pronounce Long Vowels in Japanese | How to Write Long Vowels in Hiragana and Katakana | What are Double Consonants? |
+     How Do I Write Double Consonants? | Why are these Important? | Practice, Practice, Practice | Conclusion
+   - Kana beginning with t, s, k, p, or n (or any of these consonants with a diacritical mark) can be doubled.
+     E.g. ぴ [pi] ⮕ っぴ [ppi] | そ [so] ⮕ っそ [sso] | グ [gu] ⮕ ッグ [ggu] | ぺ [pe] ⮕ ッぺ [ppe] | な [na] ⮕ んな [nna] | の [no] ⮕ んの [nno]
+   - To extend the A, I, and U sounds:  add the same kana after the sound that is being made long (i.e. あ,い, and う)
+   - To extend the E sound: えい (normal), ええ (exception) | To extend the O sound: おう (normal), おお (exception)
+1. [90 Day Japanese: Lamar Murray | Japanese Vowels — An introduction to Japan’s Alphabet | 2022-2023](https://90dayjapanese.com/japanese-vowels/)
+   - ... | Long Vowels in Hiragana | Long Vowels in Katakana
+1. [MaruMori | Katakana 7: Contracted Sounds + Long Vowels](https://marumori.io/adventure/introduction/grammar-lesson/31866006)
+   - Introduction | Introducing the (not so) Versatile: Katakana | The Long Vowel | The Small Vowels |
+     V-sounds | W-sounds | F-sounds | Summary | Exercises
+1. TextFugu
+   - [Long Vowels](http://www.textfugu.com/season-1/reading-writing-memorizing-hiragana/4-7/)
+     * Long vowels in hiragana
+   - [Katakana Rules](http://www.textfugu.com/season-3/learn-katakana/2-3/)
+     * Long Vowels | “Weird” New Sounds
 
 
 ## Sentence Structure
