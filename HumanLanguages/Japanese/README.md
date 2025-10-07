@@ -45,6 +45,8 @@ by The Japan Foundation
    - Includes: All columns | Various fonts | Dakuten modifer for each character | Quiz | Some meanings
 1. [Learn Basic Japanese Vocabulary (playlist) | 2020-2022](https://www.youtube.com/playlist?list=PLPSfPyOOcp3Qbu6DT536Y1IkcRLSLbHty) -- 800 words | 20 per video
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
+1. [Learn Japanese Grammar (Absolute Beginner) (playlist) | 2012](https://www.youtube.com/playlist?list=PL4AEC5B13686E3B1A)
+1. [Learn ALL the Grammar You Need in One Morning! (video) | 2025](https://www.youtube.com/watch?v=OwmnM5HqmKE) -- 4h6m
 
 
 ## Japanese Made Easy (JME)
@@ -57,6 +59,14 @@ by The Japan Foundation
    - Videos
 1. [Learn Katakana in Two Hours](https://japanesemadeeasy.com/learn-katakana-1-4/)
    - Videos + reading practice PDF
+
+
+## Tokyo Metropolitan University (TMU): mic-J AV Resources for Japanese Language Instruction
+
+1. [mic-J Elementary Japanese N5 | c.1999-2014](http://nihongo.hum.tmu.ac.jp/mic-j/N5/index.html)
+   - Introduction + 26 units
+1. [mic-J Elementary Japanese N4 | c.1999-2014](http://nihongo.hum.tmu.ac.jp/mic-j/N4/index.html)
+   - Introduction + 26 units
 
 
 ## Other
@@ -83,6 +93,17 @@ by The Japan Foundation
 ## Reading & listening
 
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
+1. University of Tsukuba
+   - [TLG | Japanese Conversation Practice DB, indexed by Situation and Function](https://sfj.intersc.tsukuba.ac.jp/)
+     * 24 lessons with videos, drills and notes
+   - [The Center for Distance Learning of Japanese and Japanese Issues | Let’s study Japanese! にほんご123](https://nihongo123.com/Home/Public/login.html)
+     * Requires a login. *Ensure you signin with the secure HTTPS link!* | Practice grammar patterns and enrich your vocabulary for both
+       basic and intermediate levels | 380 lessons with script-attached dialogue videos, vocabulary flashcards, listening practice and speaking practice
+1. [MyKikitori](https://www.mykikitori.com/)
+   - Listening practice based on the textbook, Genki: An Integrated Course in Elementary Japanese Volume  1, Second Edition
+   - In October 2025, the quizzes don't work
+1. [Learning Chocolate](https://www.learningchocolate.com/en-gb/ja)
+   - Quizzes for learning numbers, days of the week, colours, animals, occupations, shapes, vegetables, etc.
 1. Tetsu Sensei
    - [4 Hacks That Instantly Make Japanese Reading Easier! (video) | 2025](https://www.youtube.com/watch?v=Ce4q4DCrnZM)
      * Understand Japanese sentence structure | Focus on the subject first |
@@ -143,4 +164,12 @@ These sites discuss English grammar, however many of the terms (but not necessar
        + Adjectives, adverbs, conjunctions, determiners, interjections, nouns, prepositions, pronouns, and verbs
 
 1. [Oxford English Dictionary | Glossary of grammatical terms](https://www.oed.com/information/understanding-entries/glossary-grammatical-terms)
+
+
+## Miscellaneous
+
+1. [Japanese Vocabulary: The Shortcut (JVS) | Japanese Vocabulary Lessons | 2020](https://www.japanesevocabularyshortcut.com/category/japanese-vocabulary-lessons/)
+   - Japanese Verb Conjugation 101 | What is te-form and When to Use It? | Itadakimasu! A Guide to Japanese Meal Time Words and Phrases |
+     Japanese Insults 101 | All About Japanese Honorifics | Japanese Greetings and Goodbyes: The Ultimate Guide |
+     10 Japanese Loanwords We Use in English | How to say “cute” in Japanese
 
