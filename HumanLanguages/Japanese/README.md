@@ -92,6 +92,8 @@ by The Japan Foundation
 
 ## Reading & listening
 
+1. [WAKU WAKU JAPANESE | Learn Japanese with drama (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PLWbbTej6f09ihlJqP5_VhKB-WuYUalZrb)
+1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
 1. University of Tsukuba
    - [TLG | Japanese Conversation Practice DB, indexed by Situation and Function](https://sfj.intersc.tsukuba.ac.jp/)
@@ -155,7 +157,11 @@ by The Japan Foundation
 
 ## Grammar
 
-These sites discuss English grammar, however many of the terms (but not necessarily the rules) apply to other languages too.
+1. [いろいろな日本語 | explaining the entirety of japanese grammar in under 11 minutes | 2025](https://www.youtube.com/watch?v=YkFh76rNKUg)
+   - Japanese grammar is literally just a jigsaw puzzle [... but there are exceptions]
+
+
+The sites below discuss English grammatical terms, however many of the terms (but not necessarily the rules) apply to other languages too.
 
 1. Grammar Monster
    - [Glossary of Grammatical Terms](https://www.grammar-monster.com/grammar_terms_and_definitions.htm)
