@@ -178,4 +178,7 @@ The sites below discuss English grammatical terms, however many of the terms (bu
    - Japanese Verb Conjugation 101 | What is te-form and When to Use It? | Itadakimasu! A Guide to Japanese Meal Time Words and Phrases |
      Japanese Insults 101 | All About Japanese Honorifics | Japanese Greetings and Goodbyes: The Ultimate Guide |
      10 Japanese Loanwords We Use in English | How to say “cute” in Japanese
+1. [Kaname Naito | Japanese for Zero Level (video) | 2024](https://www.youtube.com/watch?v=CCGO6kbtfM4)
+1. [NihongoNana | 50 Japanese You Need to Know!! (video) | 2024](https://www.youtube.com/watch?v=BpNKj2B5png)
+1. [NihongoDekita with Sayaka | Japanese Pronunciation (playlist)](https://www.youtube.com/playlist?list=PLw0vy_XSt5QqpFIie_XuAUusD6vOU8mlu)
 
