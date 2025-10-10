@@ -86,6 +86,11 @@ by The Japan Foundation
    - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
 1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
    - Also does Romaji-Hiragana conversion
+1. RomajiDesu
+   - [Japanese translator](https://www.romajidesu.com/translator)
+     * Gives: Japanese/Kanji ⮕ Romaji | Japanese/Kanji ⮕ Kana | Japanese/Kanji ⮕ English
+   - [Rōmaji Converter](https://www.romajidesu.com/romaji_kana/)
+     * Gives: Romaji ⮕ Hiragana | Romaji ⮕ Katakana
 1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
    - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
 
@@ -181,4 +186,9 @@ The sites below discuss English grammatical terms, however many of the terms (bu
 1. [Kaname Naito | Japanese for Zero Level (video) | 2024](https://www.youtube.com/watch?v=CCGO6kbtfM4)
 1. [NihongoNana | 50 Japanese You Need to Know!! (video) | 2024](https://www.youtube.com/watch?v=BpNKj2B5png)
 1. [NihongoDekita with Sayaka | Japanese Pronunciation (playlist)](https://www.youtube.com/playlist?list=PLw0vy_XSt5QqpFIie_XuAUusD6vOU8mlu)
+1. [Japanese Professor: Kenneth Hanson | Demonstratives: The Ko-so-a-do Series | 2011-2014](https://www.japaneseprofessor.com/lessons/beginning/demonstratives-the-ko-so-a-do-series/)
+1. [NIHONGO ICHIBAN | Japanese Kanji Directory](https://nihongoichiban.com/home/japanese-kanji-directory/)
+   - [List of kanji for JLPT N5](https://nihongoichiban.com/2011/04/10/complete-list-of-kanji-for-jlpt-n5/) |
+     [PDF](https://nihongoichiban.com/wp-content/uploads/2012/09/kanjibookjlptn5.pdf)
+   - [Complete list of kanji for the JLPT N4](https://nihongoichiban.com/2011/05/22/complete-list-of-kanji-for-the-jlpt-n4/) | No PDF?
 
