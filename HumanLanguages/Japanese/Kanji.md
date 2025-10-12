@@ -1,7 +1,7 @@
 # Kanji
 
 1. No Friday Night Plans
-   - [Learning Japanese On My Own playlist) | 2021-2024](https://www.youtube.com/playlist?list=PLfgVtKETNu8Ws8r49GoWjRgrmGx2cpk5z), e.g.
+   - [Learning Japanese On My Own (playlist) | 2021-2024](https://www.youtube.com/playlist?list=PLfgVtKETNu8Ws8r49GoWjRgrmGx2cpk5z), e.g.
      * [How I learnt Kanji in 5 Months - The HEISIG Method (video) | 2021](https://www.youtube.com/watch?v=GZP7kZCZVQw)
        + Jōyō kanji is the official set of 2,136 Japanese kanji characters taught in primary and secondary schools
    - [Language Learning Tips (playlist) | 2022-2023](https://www.youtube.com/playlist?list=PLfgVtKETNu8VH0U264yrAEezcaTW-qWMM), e.g.
