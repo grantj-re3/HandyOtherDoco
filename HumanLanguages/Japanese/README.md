@@ -4,29 +4,21 @@ My links for Learning a language are [here](../../LearningAndMemory/LearningALan
 The content includes faster learning ideas, Comprehensible Input and TTS.
 
 
-## Tofugu
+## Lesson series
 
-1. [Home page](https://www.tofugu.com)
-1. [Learn Japanese](https://www.tofugu.com/learn-japanese/)
-   - If you follow the instructions in this ... guide, you will reach ... Japanese fluency |
-     this journey is going to take a lot of effort and hard work | I assume you have zero knowledge of the Japanese language |
-     everything has been carefully selected to get you to the finish line faster and more efficiently
-1. [Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
-1. [Learn Hiragana Today (playlist) | 2014](https://www.youtube.com/playlist?list=PL8dUxOTCkXEryT497YDSZu7uSOw5ICBwN) -- only the first 5 columns
-1. [The Best Japanese Language Learning Podcasts for Beginners | 2022](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/)
+### Japanese Made Easy (JME)
 
-
-## Irodori
-
-by The Japan Foundation
-
-1. [Home page (English version)](https://www.irodori.jpf.go.jp/en)
-   - What is "Irodori"? | FAQ
-   - Course levels: Starter | Elementary 1 | Elementary 2
-1. [Starter level](https://www.irodori.jpf.go.jp/en/starter/pdf.html)
+1. [Greg | Japanese Made Easy home page](https://japanesemadeeasy.com/)
+   - 25 free podcast episodes | Vocab approx. 250 words
+   - Each episode includes playable and downloadable audio (Full Episode and Practice audio) and transcript
+     (with vocab in Japanese and romaji)
+1. [Learn Hiragana in Two Hours](https://japanesemadeeasy.com/learn-hiragana/)
+   - Videos
+1. [Learn Katakana in Two Hours](https://japanesemadeeasy.com/learn-katakana-1-4/)
+   - Videos + reading practice PDF
 
 
-## NHK WORLD-JAPAN - Easy Japanese
+### NHK WORLD-JAPAN - Easy Japanese
 
 1. [Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
    - Easy Japanese Conversation Lessons | Easy Japanese for Work | Learn Japanese from the News | Easy Travel Japanese |
@@ -39,7 +31,7 @@ by The Japan Foundation
    - [Japanese Letters](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/hiragana.html) -- Hiragana, Katakana, and Kanji
 
 
-## Learn Japanese with JapanesePod101.com
+### Learn Japanese with JapanesePod101.com
 
 1. [10-Day Hiragana Challenge (playlist)](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxDZf7gkbApq_PrJsGf7Pn)
    - Includes: All columns | Various fonts | Dakuten modifer for each character | Quiz | Some meanings
@@ -49,19 +41,29 @@ by The Japan Foundation
 1. [Learn ALL the Grammar You Need in One Morning! (video) | 2025](https://www.youtube.com/watch?v=OwmnM5HqmKE) -- 4h6m
 
 
-## Japanese Made Easy (JME)
+### Tofugu
 
-1. [Greg | Japanese Made Easy home page](https://japanesemadeeasy.com/)
-   - 25 free podcast episodes | Vocab approx. 250 words
-   - Each episode includes playable and downloadable audio (Full Episode and Practice audio) and transcript
-     (with vocab in Japanese and romaji)
-1. [Learn Hiragana in Two Hours](https://japanesemadeeasy.com/learn-hiragana/)
-   - Videos
-1. [Learn Katakana in Two Hours](https://japanesemadeeasy.com/learn-katakana-1-4/)
-   - Videos + reading practice PDF
+1. [Home page](https://www.tofugu.com)
+1. [Learn Japanese](https://www.tofugu.com/learn-japanese/)
+   - If you follow the instructions in this ... guide, you will reach ... Japanese fluency |
+     this journey is going to take a lot of effort and hard work | I assume you have zero knowledge of the Japanese language |
+     everything has been carefully selected to get you to the finish line faster and more efficiently
+1. [Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
+1. [Learn Hiragana Today (playlist) | 2014](https://www.youtube.com/playlist?list=PL8dUxOTCkXEryT497YDSZu7uSOw5ICBwN) -- only the first 5 columns
+1. [The Best Japanese Language Learning Podcasts for Beginners | 2022](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/)
 
 
-## Tokyo Metropolitan University (TMU): mic-J AV Resources for Japanese Language Instruction
+### Irodori
+
+by The Japan Foundation
+
+1. [Home page (English version)](https://www.irodori.jpf.go.jp/en)
+   - What is "Irodori"? | FAQ
+   - Course levels: Starter | Elementary 1 | Elementary 2
+1. [Starter level](https://www.irodori.jpf.go.jp/en/starter/pdf.html)
+
+
+### Tokyo Metropolitan University (TMU): mic-J AV Resources for Japanese Language Instruction
 
 1. [mic-J Elementary Japanese N5 | c.1999-2014](http://nihongo.hum.tmu.ac.jp/mic-j/N5/index.html)
    - Introduction + 26 units
@@ -69,7 +71,7 @@ by The Japan Foundation
    - Introduction + 26 units
 
 
-## Other
+### Other
 
 1. The Mezzofanti Guild: Donovan Nagel
    - [Best Japanese Language Learning Resources | 2025](https://www.mezzoguild.com/japanese-resources/)
@@ -84,6 +86,10 @@ by The Japan Foundation
 
 1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
    - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
+1. [Jisho](https://jisho.org/)
+   - Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences...
+   - Our goal is to build a new kind of dictionary that... helps you understand any Japanese text
+   - Just paste what you want to understand into Jisho, be it English, romaji, a single word or an entire paragraph of Japanese text...
 1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
    - Also does Romaji-Hiragana conversion
 1. RomajiDesu
@@ -187,8 +193,4 @@ The sites below discuss English grammatical terms, however many of the terms (bu
 1. [NihongoNana | 50 Japanese You Need to Know!! (video) | 2024](https://www.youtube.com/watch?v=BpNKj2B5png)
 1. [NihongoDekita with Sayaka | Japanese Pronunciation (playlist)](https://www.youtube.com/playlist?list=PLw0vy_XSt5QqpFIie_XuAUusD6vOU8mlu)
 1. [Japanese Professor: Kenneth Hanson | Demonstratives: The Ko-so-a-do Series | 2011-2014](https://www.japaneseprofessor.com/lessons/beginning/demonstratives-the-ko-so-a-do-series/)
-1. [NIHONGO ICHIBAN | Japanese Kanji Directory](https://nihongoichiban.com/home/japanese-kanji-directory/)
-   - [List of kanji for JLPT N5](https://nihongoichiban.com/2011/04/10/complete-list-of-kanji-for-jlpt-n5/) |
-     [PDF](https://nihongoichiban.com/wp-content/uploads/2012/09/kanjibookjlptn5.pdf)
-   - [Complete list of kanji for the JLPT N4](https://nihongoichiban.com/2011/05/22/complete-list-of-kanji-for-the-jlpt-n4/) | No PDF?
 
