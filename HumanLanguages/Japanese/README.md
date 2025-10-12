@@ -63,6 +63,12 @@ by The Japan Foundation
 1. [Starter level](https://www.irodori.jpf.go.jp/en/starter/pdf.html)
 
 
+### [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
+
+- Complete Guide | Grammar Guide | Resources and Tutorials
+- Contains many example exercises
+
+
 ### Tokyo Metropolitan University (TMU): mic-J AV Resources for Japanese Language Instruction
 
 1. [mic-J Elementary Japanese N5 | c.1999-2014](http://nihongo.hum.tmu.ac.jp/mic-j/N5/index.html)
@@ -79,6 +85,8 @@ by The Japan Foundation
    - [12 Best Podcasts To Learn Japanese (All Levels) | 2021-2025](https://www.mezzoguild.com/learn/japanese/resources/japanese-podcasts/)
    - [13 Most Useful Japanese Translator Apps, Sites & Extensions | 2020-2025](https://www.mezzoguild.com/learn/japanese/resources/english-to-japanese-translation-apps/)
 1. [Free Japanese Lessons](https://freejapaneselessons.com/) -- The first 10 lessons are free
+1. [Ninjapanese playlists](https://www.youtube.com/@Ninjapanese/playlists)
+   - N5 level playlists covering vocab, verbs, grammar
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
 
 
@@ -106,6 +114,10 @@ by The Japan Foundation
 1. [WAKU WAKU JAPANESE | Learn Japanese with drama (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PLWbbTej6f09ihlJqP5_VhKB-WuYUalZrb)
 1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
+1. Kuroneko Mum
+   - [Japanese lessons for beginners【JLPT N5 】(playlist) | 2023](https://www.youtube.com/playlist?list=PLnNzsG1pZQSdGgSjAWJEoM63E7MaUzIXT)
+     * The speaker restricts the vocab, grammar, etc. to N5
+   - There are other playlists about N5 vocab, grammar, etc.
 1. University of Tsukuba
    - [TLG | Japanese Conversation Practice DB, indexed by Situation and Function](https://sfj.intersc.tsukuba.ac.jp/)
      * 24 lessons with videos, drills and notes
