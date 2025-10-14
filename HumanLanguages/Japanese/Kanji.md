@@ -28,3 +28,12 @@
 1. [University of Texas at Austin | Japanese Online Self - Help Utility (JOSHU)](https://laits.utexas.edu/japanese/joshu/kanji/kanji_genki.php)
    - Flash cards, quizzes, etc. for Kanji in Genki volumes 1 and 2
 
+1. Japanese Language School - MLC Meguro Language Center, Tokyo
+   - N5: [Basic Kanji 120 – Free Beginner Kanji Lessons by Email](https://www.mlcjapanese.co.jp/basic_kanji_120.html) --
+       [PDF](https://www.mlcjapanese.co.jp/imagewp/Basic_Kanji_120.pdf)
+   - [Basic Kanji 120 for JLPT N5 — Free PDF & Writing Practice with Native Japanese (video) | 2020](https://www.youtube.com/watch?v=KPsgFYbT5bY)
+   - JLPT N5 Kanji Quiz (videos) - 60 Questions:
+     [Vol.1](https://www.youtube.com/watch?v=KdxpdgGJH14),
+     [Vol.2](https://www.youtube.com/watch?v=sump3P-FbQA),
+     [Vol.3](https://www.youtube.com/watch?v=eqxoMt-MIFg)
+
