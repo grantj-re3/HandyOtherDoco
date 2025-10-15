@@ -6,6 +6,11 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
 
 ## Lesson series
 
+### Organic Japanese with Cure Dolly
+
+1. :thumbsup: [Japanese from scratch: the game-changing course in organic Japanese (playlist) | 2018-2021](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) -- 93 videos
+
+
 ### Japanese Made Easy (JME)
 
 1. [Greg | Japanese Made Easy home page](https://japanesemadeeasy.com/)
@@ -89,6 +94,11 @@ by The Japan Foundation
      * [Similar video](https://www.youtube.com/watch?v=cKQaNGOa_9k&t=5m25s)
    - [A Visual Guide to Japanese Word Order | 2016](https://8020japanese.com/japanese-word-order/)
    - [Japanese Pronunciation: A Detailed Guide (With Audio) | 2017](https://8020japanese.com/pronunciation/)
+   - :thumbsup: [Tokyo Cheapo: Richard Webb | 7 Ways to Improve Your Japanese Skills | 2021](https://tokyocheapo.com/business/improve-japanese-skills/)
+     * In particular, see the Slideshare document in section 5, *Fully understand how particles work*
+   - Reviews of the book: 80/20 Japanese
+     * https://tokyocheapo.com/entertainment/recommended-resources-for-learning-japanese/
+     * https://www.reddit.com/r/LearnJapanese/comments/k81bxj/a_quick_review_on_8020_japanese/
 1. JLPT SAMURAI
    - [Shyam | Top Grammar Dictionaries for Japanese Learners (2024 Guide)](https://jlptsamurai.com/2025/07/26/top-grammar-dictionaries-for-japanese-learners-2024-guide/)
    - [Shyam | Practice Makes Perfect: Japanese Grammar Drills You Can Use Today | 2025](https://jlptsamurai.com/2025/07/26/practice-makes-perfect-japanese-grammar-drills-you-can-use-today/)
