@@ -67,7 +67,8 @@ by The Japan Foundation
 
 - Beyond chapter 2, it is assumed you can read Hiragana and Katakana. Kanji
   pronunciation it is usually shown using those kana.
-- Free PDF (CC BY-NC-SA)
+- The [Free PDF](https://www.guidetojapanese.org/grammar_guide.pdf) (CC BY-NC-SA) and the
+  [referring blog post](https://www.guidetojapanese.org/blog/2010/08/13/grammar-guide-now-available-in-pdf/)
 - Complete Guide | Grammar Guide | Resources and Tutorials
 - Contains many example exercises
 
@@ -107,6 +108,7 @@ by The Japan Foundation
 
 1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
    - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
+1. [Google Translate](https://translate.google.com.au/details?sl=en&tl=ja&op=translate)
 1. [Jisho](https://jisho.org/)
    - Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences...
    - Our goal is to build a new kind of dictionary that... helps you understand any Japanese text
