@@ -65,6 +65,9 @@ by The Japan Foundation
 
 ### [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 
+- Beyond chapter 2, it is assumed you can read Hiragana and Katakana. Kanji
+  pronunciation it is usually shown using those kana.
+- Free PDF (CC BY-NC-SA)
 - Complete Guide | Grammar Guide | Resources and Tutorials
 - Contains many example exercises
 
@@ -79,6 +82,16 @@ by The Japan Foundation
 
 ### Other
 
+1. 80/20 Japanese: Richard Webb
+   - [A list of articles by Richard Webb | 2016-2025](https://8020japanese.com/author/richard/)
+   - :thumbsup: [Japanese Sentence Structure: The Ultimate Beginner’s Guide | 2016](https://8020japanese.com/japanese-sentence-structure/)
+     * [Similar video](https://www.youtube.com/watch?v=cKQaNGOa_9k&t=5m25s)
+   - [A Visual Guide to Japanese Word Order | 2016](https://8020japanese.com/japanese-word-order/)
+   - [Japanese Pronunciation: A Detailed Guide (With Audio) | 2017](https://8020japanese.com/pronunciation/)
+1. JLPT SAMURAI
+   - [Shyam | Top Grammar Dictionaries for Japanese Learners (2024 Guide)](https://jlptsamurai.com/2025/07/26/top-grammar-dictionaries-for-japanese-learners-2024-guide/)
+   - [Shyam | Practice Makes Perfect: Japanese Grammar Drills You Can Use Today | 2025](https://jlptsamurai.com/2025/07/26/practice-makes-perfect-japanese-grammar-drills-you-can-use-today/)
+   - [Shyam | Free & Paid Japanese Grammar Books in PDF Format: The Ultimate Guide (2025)](https://jlptsamurai.com/2025/07/16/free-paid-japanese-grammar-books-in-pdf-format-the-ultimate-guide-2025/)
 1. The Mezzofanti Guild: Donovan Nagel
    - [Best Japanese Language Learning Resources | 2025](https://www.mezzoguild.com/japanese-resources/)
    - [25 Best YouTube Channels To Learn Japanese (All Levels) | 2021-2025](https://www.mezzoguild.com/learn/japanese/resources/japanese-youtube/)

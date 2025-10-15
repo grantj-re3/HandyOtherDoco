@@ -19,3 +19,9 @@ Kanji info can be found [here](Kanji.md).
 1. Japanese Language School - MLC Meguro Language Center, Tokyo
    - [JLPT N5 Grammar & Vocabulary (playlist) | 2017-2024](https://www.youtube.com/playlist?list=PLx2HM-ubAFNDzSYk3FSRMGZcp6S7Xldcu)
    - [10 Basic Japanese Grammar Patterns in 5 Minutes (playlist) | 2025](https://www.youtube.com/playlist?list=PLx2HM-ubAFNA45N0tS4c-PBLEgBjFHiY2) -- N5-N4
+
+
+## Resources
+
+1. [JLPT SAMURAI: Shyam | Best Books for JLPT N5: Our 2025 Guide for First-Time Test Takers | 2025](https://jlptsamurai.com/2025/07/26/best-books-for-jlpt-n5-our-2025-guide-for-first-time-test-takers/)
+
