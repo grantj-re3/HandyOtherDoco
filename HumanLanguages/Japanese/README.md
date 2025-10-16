@@ -44,6 +44,7 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 1. [Learn Japanese Grammar (Absolute Beginner) (playlist) | 2012](https://www.youtube.com/playlist?list=PL4AEC5B13686E3B1A)
 1. [Learn ALL the Grammar You Need in One Morning! (video) | 2025](https://www.youtube.com/watch?v=OwmnM5HqmKE) -- 4h6m
+1. [Learn Japanese Grammar in 3 Hours - ALL the Basics Beginners Need [Grammar] | 2024](https://www.youtube.com/watch?v=sbw5IDYyoF0) -- 3h20m
 
 
 ### Tofugu
@@ -95,10 +96,14 @@ by The Japan Foundation
    - [A Visual Guide to Japanese Word Order | 2016](https://8020japanese.com/japanese-word-order/)
    - [Japanese Pronunciation: A Detailed Guide (With Audio) | 2017](https://8020japanese.com/pronunciation/)
    - :thumbsup: [Tokyo Cheapo: Richard Webb | 7 Ways to Improve Your Japanese Skills | 2021](https://tokyocheapo.com/business/improve-japanese-skills/)
-     * In particular, see the Slideshare document in section 5, *Fully understand how particles work*
-   - Reviews of the book: 80/20 Japanese
-     * https://tokyocheapo.com/entertainment/recommended-resources-for-learning-japanese/
-     * https://www.reddit.com/r/LearnJapanese/comments/k81bxj/a_quick_review_on_8020_japanese/
+     * In particular, see the [Slideshare document](https://www.slideshare.net/slideshow/8020-japanese-10-steps-to-500-sentences/34610772)
+       in section 5, *Fully understand how particles work*
+   - Book: [80/20 Japanese](https://8020japanese.com/)
+   - Reviews of the book:
+     * There aren't many reviews on independent web sites
+     * [reddit: r/LearnJapanese | A quick review on 80/20 Japanese | 2020](https://www.reddit.com/r/LearnJapanese/comments/k81bxj/a_quick_review_on_8020_japanese/)
+     * [Tokyo Cheapo: Tiffany | 10+ Recommended Resources for Learning Japanese | 2021](https://tokyocheapo.com/entertainment/recommended-resources-for-learning-japanese/)
+     * [WaniKani Community | MrRyansan says "...my favorite textbook thus far" | 30-Mar-2021](https://community.wanikani.com/t/if-you-were-to-only-buy-one-book/50426/12)
 1. JLPT SAMURAI
    - [Shyam | Top Grammar Dictionaries for Japanese Learners (2024 Guide)](https://jlptsamurai.com/2025/07/26/top-grammar-dictionaries-for-japanese-learners-2024-guide/)
    - [Shyam | Practice Makes Perfect: Japanese Grammar Drills You Can Use Today | 2025](https://jlptsamurai.com/2025/07/26/practice-makes-perfect-japanese-grammar-drills-you-can-use-today/)
@@ -205,6 +210,7 @@ by The Japan Foundation
 
 ## Grammar
 
+1. [Linguajunkie | Learn The 22 Easy Japanese Sentence Structures | 2020](https://www.linguajunkie.com/japanese/japanese-sentence-structures)
 1. [いろいろな日本語 | explaining the entirety of japanese grammar in under 11 minutes | 2025](https://www.youtube.com/watch?v=YkFh76rNKUg)
    - Japanese grammar is literally just a jigsaw puzzle [... but there are exceptions]
 
