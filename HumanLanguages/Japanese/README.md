@@ -9,6 +9,13 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
 ### Organic Japanese with Cure Dolly
 
 1. :thumbsup: [Japanese from scratch: the game-changing course in organic Japanese (playlist) | 2018-2021](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) -- 93 videos
+   -  "After the first 20 lessons you will have the core structure of Japanese"
+1. [All about desu - Japanese desu meaning pronunciation and everything! What the textbooks don't tell you. (playlist) | 2017-2020](https://www.youtube.com/playlist?list=PLg9uYxuZf8x-0DBJ148KxRMTfrkx97IKQ)
+1. [Learn Japanese Online | 2015](https://learnjapaneseonline.info/2015/06/04/learn-japanese-online/)
+1. [Basic Japanese Grammar: How to learn it | 2015](https://learnjapaneseonline.info/2015/05/18/basic-japanese-grammar-how-to-learn-it/)
+1. :thumbsup: [How to Build a Core Japanese Vocabulary: the Organic Way | 2015](https://learnjapaneseonline.info/2015/05/10/core-japanese-vocabulary/)
+1. Book: [Unlocking Japanese: Making Japanese as simple as it really is | 2016](https://learnjapaneseonline.info/2016/11/05/unlocking-japanese-a-breakthrough-in-how-we-learn-the-language/)
+1. Book: [Alice in Kanji Land | 2017](https://learnjapaneseonline.info/alice-in-kanji-land/)
 
 
 ### Japanese Made Easy (JME)
@@ -44,7 +51,7 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
 1. [Japanese Listening Comprehension for Absolute Beginners (playlist) | 2013-2015](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxK_tEoQZXlvULxootJrjh)
 1. [Learn Japanese Grammar (Absolute Beginner) (playlist) | 2012](https://www.youtube.com/playlist?list=PL4AEC5B13686E3B1A)
 1. [Learn ALL the Grammar You Need in One Morning! (video) | 2025](https://www.youtube.com/watch?v=OwmnM5HqmKE) -- 4h6m
-1. [Learn Japanese Grammar in 3 Hours - ALL the Basics Beginners Need [Grammar] | 2024](https://www.youtube.com/watch?v=sbw5IDYyoF0) -- 3h20m
+1. [Learn Japanese Grammar in 3 Hours - ALL the Basics Beginners Need [Grammar] (video) | 2024](https://www.youtube.com/watch?v=sbw5IDYyoF0) -- 3h20m
 
 
 ### Tofugu
