@@ -76,6 +76,19 @@ by The Japan Foundation
 1. [Starter level](https://www.irodori.jpf.go.jp/en/starter/pdf.html)
 
 
+### Japanese Introductory 1 (free ebook)
+
+by Iori Hamada, 2024 (CC BY-NC 4.0)
+
+1. [Iori Hamada | Japanese Introductory 1 | 2024](https://oercollective.caul.edu.au/japanese/)
+   - Available in EPUB, Digital PDF (small), Print PDF (very large) and Pressbooks XML formats
+   - [4.2 Demonstrative Pronouns: これ (kore), それ (sore), あれ (are) and どれ (dore)](https://oercollective.caul.edu.au/japanese/chapter/4-2/)
+   - [9.4 Demonstrative Adjectives: この (kono), その (sono), あの (ano) and どの (dono) + だれの (dare no)](https://oercollective.caul.edu.au/japanese/chapter/9-4/)
+   - [9.5 Demonstrative Pronouns: ここ (koko), そこ (soko), あそこ (asoko) and どこ (doko)](https://oercollective.caul.edu.au/japanese/chapter/9-5/)
+   - [12.3 Past Tense of Verbs](https://oercollective.caul.edu.au/japanese/chapter/12-3/)
+   - [12.4 Past Tense of あります (ari masu) and います (i masu)](https://oercollective.caul.edu.au/japanese/chapter/12-4/)
+
+
 ### [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 
 - Beyond chapter 2, it is assumed you can read Hiragana and Katakana. Kanji
@@ -218,8 +231,16 @@ by The Japan Foundation
 ## Grammar
 
 1. [Linguajunkie | Learn The 22 Easy Japanese Sentence Structures | 2020](https://www.linguajunkie.com/japanese/japanese-sentence-structures)
-1. [いろいろな日本語 | explaining the entirety of japanese grammar in under 11 minutes | 2025](https://www.youtube.com/watch?v=YkFh76rNKUg)
+1. [いろいろな日本語 | explaining the entirety of japanese grammar in under 11 minutes (video) | 2025](https://www.youtube.com/watch?v=YkFh76rNKUg)
    - Japanese grammar is literally just a jigsaw puzzle [... but there are exceptions]
+
+
+Verbs
+
+1. [90 Day Japanese: Jamila Brown | Japanese Verbs — An easy guide in expressing action words | 2022-2025](https://90dayjapanese.com/japanese-verbs/)
+   - Polite speech: Masu-Form | Masu-Past Tense Form | Masu-Negative Form | Masu-Past Negative Form
+1. [Japan Switch: Anastasia Shinkarskaya & Joshua Matsuda | Guide to Japanese Verbs | 2021](https://japanswitch.com/guide-to-japanese-verbs/)
+   - Polite speech: plain form, 〜ます-form, 〜て-form, past form and negation of non-past and past tenses
 
 
 The sites below discuss English grammatical terms, however many of the terms (but not necessarily the rules) apply to other languages too.
