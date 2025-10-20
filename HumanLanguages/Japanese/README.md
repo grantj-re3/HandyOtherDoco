@@ -237,10 +237,14 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 Verbs
 
+1. [Rosetta Stone: Alexa Bevan | Japanese Verb Conjugation: All Types and Tenses | 2024](https://blog.rosettastone.com/japanese-verb-conjugation/)
+   - Polite/plain speech, past/non-past tense, negation, te-form
+1. [Fluent in 3 Months: Caitlin Sacasas | Japanese Verb Conjugation: A Beginner’s Guide [With Charts!] | 2021-2022](https://www.fluentin3months.com/japanese-verb-conjugation/)
+   - Polite/plain speech, past/non-past tense, negation, te-form
 1. [90 Day Japanese: Jamila Brown | Japanese Verbs — An easy guide in expressing action words | 2022-2025](https://90dayjapanese.com/japanese-verbs/)
    - Polite speech: Masu-Form | Masu-Past Tense Form | Masu-Negative Form | Masu-Past Negative Form
 1. [Japan Switch: Anastasia Shinkarskaya & Joshua Matsuda | Guide to Japanese Verbs | 2021](https://japanswitch.com/guide-to-japanese-verbs/)
-   - Polite speech: plain form, 〜ます-form, 〜て-form, past form and negation of non-past and past tenses
+   - Polite speech: 〜ます-form, 〜て-form, past form and negation of non-past and past tenses
 
 
 The sites below discuss English grammatical terms, however many of the terms (but not necessarily the rules) apply to other languages too.
