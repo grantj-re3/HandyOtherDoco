@@ -1,14 +1,31 @@
 # Pronunciation
 
-1. Campanas de Japanese
-   - [Japanese Pronunciation (playlist) | 2020-2025](https://www.youtube.com/playlist?list=PLGos75KF4PaQWko1d_WJEVSmH71QFaTa8)
-     * [How to Pronounce Ra Ri Ru Re Ro - Japanese Pronunciation (video) | 2020](https://www.youtube.com/watch?v=hpRArmZxfFM)
-   - [Yōon (playlist) | 2020-2021](https://www.youtube.com/playlist?list=PLGos75KF4PaTK43eEujb8L3pqsvCAMra5)
-     * [Campanas de Japanese | How to Pronounce Rya Ryu Ryo - Japanese Pronunciation (video) | 2020](https://www.youtube.com/watch?v=KzLDkDcHnB4)
+## ra ri ru re ro らりるれろ | rya ryu ryo りゃ りゅ りょ
+
+1. :thumbsup: [N K | Japanese R sound pronunciation らりるれろ ra ri ru re ro (video) | 2020](https://www.youtube.com/watch?v=JhfdPmHHdAs)
+   - He also briefly covers りゃ りゅ りょ rya ryu ryo
+   - In my view: Teaching a modified English-L, snapped against the top of your mouth like an English-D
+   - To me, it sounds like a quick version of the following (with a relaxed slap of the tongue against the top of the mouth):
+     LL-DA, LL-DI, LL-DU, LL-DE, LL-DO
 
 1. UBC eNunciate! (University of British Columbia)
    - [TLEF2014 - Exercise video of RARIRU1 (video) | 2015](https://www.youtube.com/watch?v=KOA1Z2ihTFM)
+     * In my view: Teaching a modified English-L
    - [How to Pronounce Japanese Rya Ryu Ryo (video) | 2015](https://www.youtube.com/watch?v=yO1WMcSCb2g)
+
+1. Campanas de Japanese
+   - [Japanese Pronunciation (playlist) | 2020-2025](https://www.youtube.com/playlist?list=PLGos75KF4PaQWko1d_WJEVSmH71QFaTa8)
+     * [How to Pronounce Ra Ri Ru Re Ro - Japanese Pronunciation (video) | 2020](https://www.youtube.com/watch?v=hpRArmZxfFM)
+       + In my view: Teaching a modified English-D
+   - [Yōon (playlist) | 2020-2021](https://www.youtube.com/playlist?list=PLGos75KF4PaTK43eEujb8L3pqsvCAMra5)
+     * [How to Pronounce Rya Ryu Ryo - Japanese Pronunciation (video) | 2020](https://www.youtube.com/watch?v=KzLDkDcHnB4)
+
+1. Japanese Conversation with Terumi
+   - [How to pronounce ‘Ra Ri Ru Re Ro’ らりるれろ〜Basic Japanese alphabet Hiragana Katakana Part 9 | 2021](https://www.youtube.com/watch?v=aowIKwzkeyY)
+   - [How to pronounce small Hiragana/Katakana Part 2 ~Small Ya Yu Yo ゃゅょ 'Tokyoとうきょう,Kyotoきょうと' | 2020](https://www.youtube.com/watch?v=I8ZfGhOM9Go&t=17m56s)
+
+
+## Other
 
 1. [Learn Japanese with JapanesePod101.com | Top 5 Japanese Pronunciation Mistakes to Avoid (video) | 2014](https://www.youtube.com/watch?v=QU34Rw-hF64)
 
