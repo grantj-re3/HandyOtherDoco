@@ -4,6 +4,26 @@ My links for Learning a language are [here](../../LearningAndMemory/LearningALan
 The content includes faster learning ideas, Comprehensible Input and TTS.
 
 
+## Tools
+
+1. :thumbsup: [Jisho](https://jisho.org/)
+   - Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences...
+   - Just paste what you want to understand into Jisho, be it English, romaji, a single word or an entire paragraph of Japanese text...
+   - Our goal is to build a new kind of dictionary that... helps you understand any Japanese text
+1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
+   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
+1. [Google Translate](https://translate.google.com.au/details?sl=en&tl=ja&op=translate)
+1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
+   - Also does Romaji-Hiragana conversion
+1. RomajiDesu
+   - [Japanese translator](https://www.romajidesu.com/translator)
+     * Gives: Japanese/Kanji ⮕ Romaji | Japanese/Kanji ⮕ Kana | Japanese/Kanji ⮕ English
+   - [Rōmaji Converter](https://www.romajidesu.com/romaji_kana/)
+     * Gives: Romaji ⮕ Hiragana | Romaji ⮕ Katakana
+1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
+   - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
+
+
 ## Lesson series
 
 ### Organic Japanese with Cure Dolly
@@ -137,26 +157,6 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 1. [Ninjapanese playlists](https://www.youtube.com/@Ninjapanese/playlists)
    - N5 level playlists covering vocab, verbs, grammar
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
-
-
-## Tools
-
-1. [DeepL Translator](https://www.deepl.com/en/translator) -- enterprise level software
-   - They have a free plan which allows 50,000 characters per month. See all plans [here](https://www.deepl.com/en/pro).
-1. [Google Translate](https://translate.google.com.au/details?sl=en&tl=ja&op=translate)
-1. [Jisho](https://jisho.org/)
-   - Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences...
-   - Our goal is to build a new kind of dictionary that... helps you understand any Japanese text
-   - Just paste what you want to understand into Jisho, be it English, romaji, a single word or an entire paragraph of Japanese text...
-1. [Lexilogos | Japanese Hiragana-Romaji conversion](https://www.lexilogos.com/keyboard/hiragana_conversion.htm)
-   - Also does Romaji-Hiragana conversion
-1. RomajiDesu
-   - [Japanese translator](https://www.romajidesu.com/translator)
-     * Gives: Japanese/Kanji ⮕ Romaji | Japanese/Kanji ⮕ Kana | Japanese/Kanji ⮕ English
-   - [Rōmaji Converter](https://www.romajidesu.com/romaji_kana/)
-     * Gives: Romaji ⮕ Hiragana | Romaji ⮕ Katakana
-1. [TTSFree: Text To Speech Free](https://ttsfree.com/text-to-speech)
-   - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
 
 
 ## Reading & listening
