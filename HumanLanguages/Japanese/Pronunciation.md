@@ -8,6 +8,12 @@
    - To me, it sounds like a quick version of the following (with a relaxed slap of the tongue against the top of the mouth):
      LL-DA, LL-DI, LL-DU, LL-DE, LL-DO
 
+1. Komei's Channel
+   - [Japanese consonants for complete beginners [#1.2] (video) | 2021](https://www.youtube.com/watch?v=n9VgnLa1km4&t=18m19s)
+     * In my view: Teaching a modified English-D
+   - [More on consonants [Japanese for complete beginners #1.2.1] (video) | 2021](https://www.youtube.com/watch?v=teqUW3eExW4&t=7m39s)
+     * In my view: Teaching a modified English-D
+
 1. UBC eNunciate! (University of British Columbia)
    - [TLEF2014 - Exercise video of RARIRU1 (video) | 2015](https://www.youtube.com/watch?v=KOA1Z2ihTFM)
      * In my view: Teaching a modified English-L
@@ -34,6 +40,7 @@
 
 ## Long vowels, double consonants, v-sounds, etc.
 
+1. [Komei's Channel | Vowel Combinations in Japanese [Japanese for complete beginners #1.1.1] (video) | 2022](https://www.youtube.com/watch?v=XexGBxkx-to)
 1. [Coto Japanese Academy: Anna Deutsch | Pronunciation in Japan: Long Vowels and Double Consonants in Japanese | 2023-2025](https://cotoacademy.com/pronunciation-in-japan-long-vowels-and-double-consonants-in-japanese/)
    - What are Long Vowels? | How to Pronounce Long Vowels in Japanese | How to Write Long Vowels in Hiragana and Katakana | What are Double Consonants? |
      How Do I Write Double Consonants? | Why are these Important? | Practice, Practice, Practice | Conclusion
