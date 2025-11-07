@@ -17,7 +17,8 @@ Kanji info can be found [here](Kanji.md).
 ## Lessons
 
 1. Japanese Language School - MLC Meguro Language Center, Tokyo
-   - [JLPT N5 Grammar & Vocabulary (playlist) | 2017-2024](https://www.youtube.com/playlist?list=PLx2HM-ubAFNDzSYk3FSRMGZcp6S7Xldcu)
+   - [JLPT N5: Beginner Japanese Language Test Preparation - MLC Japanese](https://www.mlcjapanese.co.jp/n5.html)
+   - :thumbsup: [JLPT N5 Grammar & Vocabulary (playlist) | 2017-2024](https://www.youtube.com/playlist?list=PLx2HM-ubAFNDzSYk3FSRMGZcp6S7Xldcu)
    - [10 Basic Japanese Grammar Patterns in 5 Minutes (playlist) | 2025](https://www.youtube.com/playlist?list=PLx2HM-ubAFNA45N0tS4c-PBLEgBjFHiY2) -- N5-N4
 
 

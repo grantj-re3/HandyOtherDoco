@@ -58,4 +58,5 @@
      * Long vowels in hiragana
    - [Katakana Rules](http://www.textfugu.com/season-3/learn-katakana/2-3/)
      * Long Vowels | “Weird” New Sounds
+1. [JREF Forum | Vowel Pronunciation | 2025](https://jref.com/threads/vowel-pronunciation.16802/#post-199580)
 
