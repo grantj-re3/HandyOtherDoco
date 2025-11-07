@@ -161,13 +161,8 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 ## Reading & listening
 
-1. [WAKU WAKU JAPANESE | Learn Japanese with drama (playlist) | 2024-2025](https://www.youtube.com/playlist?list=PLWbbTej6f09ihlJqP5_VhKB-WuYUalZrb)
-1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
-1. Kuroneko Mum
-   - [Japanese lessons for beginners【JLPT N5 】(playlist) | 2023](https://www.youtube.com/playlist?list=PLnNzsG1pZQSdGgSjAWJEoM63E7MaUzIXT)
-     * The speaker restricts the vocab, grammar, etc. to N5
-   - There are other playlists about N5 vocab, grammar, etc.
+1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
 1. University of Tsukuba
    - [TLG | Japanese Conversation Practice DB, indexed by Situation and Function](https://sfj.intersc.tsukuba.ac.jp/)
      * 24 lessons with videos, drills and notes

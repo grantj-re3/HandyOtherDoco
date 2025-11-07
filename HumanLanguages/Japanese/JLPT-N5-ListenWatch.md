@@ -19,6 +19,11 @@ Approx. JLPT N5
      * [JLPT N5–N4 Beginner: Chapter 1　かさをわすれました. Chapter 2　zoomで話しましょう (video) | 2025](https://www.youtube.com/watch?v=i2UEIUI3XRI)
      * [JLPT N5–N4 Beginner: Chapter 1　むねがくるしです. Chapter 2　一本、いくらですか？ (video) | 2025](https://www.youtube.com/watch?v=IYrCAADD0Kg)
 
+1. Kuroneko Mum
+   - [Japanese lessons for beginners【JLPT N5 】(playlist) | 2023](https://www.youtube.com/playlist?list=PLnNzsG1pZQSdGgSjAWJEoM63E7MaUzIXT)
+     * The speaker restricts the vocab, grammar, etc. to N5
+   - There are other playlists about N5 vocab, grammar, etc.
+
 1. [Learn Japanese for beginners 【 あいう 】 | ⑤Japanese Conversation (playlist) | 2025](https://www.youtube.com/playlist?list=PLNssP_4GRUKxKWemmjpJZrLQzfKFUJCKr)
 
 1. [[Anime] Atashin'chi Official Channel](https://www.youtube.com/@Atashinchi)
