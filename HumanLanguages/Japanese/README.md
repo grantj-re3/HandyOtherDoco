@@ -161,7 +161,7 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 ## Reading & listening
 
-Listening
+### Listening
 
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
 1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
@@ -182,7 +182,7 @@ Listening
    - In October 2025, the quizzes don't work
 
 
-Reading
+### Reading
 
 1. [Hiragana Times: Articles | 2014-2025](https://hiraganatimes.com/web/categories/0)
    - Bilingual Japanese-English magazine articles: History | Culture | Politics | Economy | Society | Geography
@@ -190,7 +190,7 @@ Reading
 1. [Team Japanese: Rebecca Shiraishi-Miles | FREE Websites For Japanese Reading Practice (At Every Level) | 2017-2025](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
 
 
-Both
+### Both
 
 1. SAKURA TIPS
    - [Podcast | 2020-2025](https://sakuratips.com/category/pod-cast/)
@@ -206,7 +206,7 @@ Both
 
 ## Grammar
 
-Sentence Structure
+### Sentence Structure
 
 1. [Kaname Naito | Basic Sentence Structure in Japanese (video) | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
 1. [That Japanese Man Yuta | Basic Japanese Sentence Structure (video) | 2024](https://www.youtube.com/watch?v=fJ8v9YQ_Ops)
@@ -220,7 +220,7 @@ Sentence Structure
    - Japanese grammar is literally just a jigsaw puzzle [... but there are exceptions]
 
 
-Verbs
+### Verbs
 
 1. [Rosetta Stone: Alexa Bevan | Japanese Verb Conjugation: All Types and Tenses | 2024](https://blog.rosettastone.com/japanese-verb-conjugation/)
    - Polite/plain speech, past/non-past tense, negation, te-form
@@ -232,6 +232,8 @@ Verbs
    - Polite speech: 〜ます-form, 〜て-form, past form and negation of non-past and past tenses
 
 
+### Grammatical terms
+
 The sites below discuss English grammatical terms, however many of the terms (but not necessarily the rules) apply to other languages too.
 
 1. Grammar Monster
@@ -239,7 +241,6 @@ The sites below discuss English grammatical terms, however many of the terms (bu
    - [Grammar Videos](https://www.grammar-monster.com/grammar-videos.htm)
      * [Parts of Speech (video) | 2021](https://www.youtube.com/watch?v=2wlKKsA1HMQ)
        + Adjectives, adverbs, conjunctions, determiners, interjections, nouns, prepositions, pronouns, and verbs
-
 1. [Oxford English Dictionary | Glossary of grammatical terms](https://www.oed.com/information/understanding-entries/glossary-grammatical-terms)
 
 
