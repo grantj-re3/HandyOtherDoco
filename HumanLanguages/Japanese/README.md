@@ -161,37 +161,52 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 ## Reading & listening
 
+Listening
+
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
 1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
+1. [Nihongo con Teppei | Japanese podcast for beginners (playlist) | 2019-2025](https://www.youtube.com/playlist?list=PLbsmSVzhiwvA8VNMAW_cuDqujRQULBjFd)
 1. University of Tsukuba
    - [TLG | Japanese Conversation Practice DB, indexed by Situation and Function](https://sfj.intersc.tsukuba.ac.jp/)
      * 24 lessons with videos, drills and notes
    - [The Center for Distance Learning of Japanese and Japanese Issues | Let’s study Japanese! にほんご123](https://nihongo123.com/Home/Public/login.html)
      * Requires a login. *Ensure you signin with the secure HTTPS link!* | Practice grammar patterns and enrich your vocabulary for both
        basic and intermediate levels | 380 lessons with script-attached dialogue videos, vocabulary flashcards, listening practice and speaking practice
-1. [MyKikitori](https://www.mykikitori.com/)
-   - Listening practice based on the textbook, Genki: An Integrated Course in Elementary Japanese Volume  1, Second Edition
-   - In October 2025, the quizzes don't work
-1. [Learning Chocolate](https://www.learningchocolate.com/en-gb/ja)
-   - Quizzes for learning numbers, days of the week, colours, animals, occupations, shapes, vegetables, etc.
 1. Tetsu Sensei
    - [4 Hacks That Instantly Make Japanese Reading Easier! (video) | 2025](https://www.youtube.com/watch?v=Ce4q4DCrnZM)
      * Understand Japanese sentence structure | Focus on the subject first |
        Use slash reading to break things down | Read stuff you like (that matches your difficulty level)
    - [Japanese Podcast (playlist) | 2025](https://www.youtube.com/playlist?list=PLuIezMZ2WTHBWhsgu-GLze-n4hNHroxxK)
+1. [MyKikitori](https://www.mykikitori.com/)
+   - Listening practice based on the textbook, Genki: An Integrated Course in Elementary Japanese Volume  1, Second Edition
+   - In October 2025, the quizzes don't work
+
+
+Reading
+
+1. [Hiragana Times: Articles | 2014-2025](https://hiraganatimes.com/web/categories/0)
+   - Bilingual Japanese-English magazine articles: History | Culture | Politics | Economy | Society | Geography
+1. [Tom Ray | Traditional Japanese Children's Stories](https://tomray.me/stories/)
+1. [Team Japanese: Rebecca Shiraishi-Miles | FREE Websites For Japanese Reading Practice (At Every Level) | 2017-2025](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
+
+
+Both
+
 1. SAKURA TIPS
    - [Podcast | 2020-2025](https://sakuratips.com/category/pod-cast/)
      * [Episode 1 | 2020](https://podcasts.apple.com/us/podcast/1-%E5%A4%A7%E9%98%AA%E4%BA%BA-osaka-people/id1536540690?i=1000495377061)
    - [Nihongo Road Map | 2021](https://sakuratips.com/2021/06/06/roadmap/)
+1. [Learning Chocolate](https://www.learningchocolate.com/en-gb/ja)
+   - Quizzes for learning numbers, days of the week, colours, animals, occupations, shapes, vegetables, etc.
 1. Tenyomi
    - [Daily Japanese lessons | 2023-2025](https://tenyomi.com/daily-lessons/) -- Reading/listening
    - [Listening](https://tenyomi.com/listening/) -- Basic numbers/Verb conjugations
    - [Practice Japanese reading with short stories](https://tenyomi.com/browse/)
-1. [Team Japanese: Rebecca Shiraishi-Miles | FREE Websites For Japanese Reading Practice (At Every Level) | 2017-2025](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
-1. [Tom Ray | Traditional Japanese Children's Stories](https://tomray.me/stories/)
 
 
-## Sentence Structure
+## Grammar
+
+Sentence Structure
 
 1. [Kaname Naito | Basic Sentence Structure in Japanese (video) | 2023](https://www.youtube.com/watch?v=U2q5GsB0swQ)
 1. [That Japanese Man Yuta | Basic Japanese Sentence Structure (video) | 2024](https://www.youtube.com/watch?v=fJ8v9YQ_Ops)
@@ -200,10 +215,6 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
    - Intro: [JapanesePod101.com | Japanese Particles Guide: Wa, Ni, Ga and More! | 2019](https://www.japanesepod101.com/japanese-particles/)
    - Detail: [Migaku | Mastering the Basics of Japanese Particles | 2024](https://migaku.com/blog/japanese/japanese-particles-guide)
    - Cheatsheet: [Tofugu: Koichi | Japanese Particles Cheatsheet | 2009](https://www.tofugu.com/japanese/japanese-particles-cheatsheet/)
-
-
-## Grammar
-
 1. [Linguajunkie | Learn The 22 Easy Japanese Sentence Structures | 2020](https://www.linguajunkie.com/japanese/japanese-sentence-structures)
 1. [いろいろな日本語 | explaining the entirety of japanese grammar in under 11 minutes (video) | 2025](https://www.youtube.com/watch?v=YkFh76rNKUg)
    - Japanese grammar is literally just a jigsaw puzzle [... but there are exceptions]
