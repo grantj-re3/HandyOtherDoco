@@ -63,6 +63,21 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
    - [Japanese Letters](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/hiragana.html) -- Hiragana, Katakana, and Kanji
 
 
+### [Tsunahiro](https://tsunagarujp.mext.go.jp/)
+
+Website for Foreign Nationals as Residents to Learn Japanese Language | By MEXT (Ministry of Education, Culture, Sports, Science and Technology)
+
+1. [How to use this website](https://tsunagarujp.mext.go.jp/guide) -- 1 video
+1. [Characteristics of the Japanese language](https://tsunagarujp.mext.go.jp/nihongo)
+   - 6 videos | 7 PDFs | Transcripts often allow Your language (e.g. English) or Japanese or Romaji or None
+1. Lessons
+   - Short videos with transcripts:
+     [Useful phrases](https://tsunagarujp.mext.go.jp/level00), 6 videos |
+     [Aim for Level A1](https://tsunagarujp.mext.go.jp/level01), 12 videos |
+     [Aim for Level A2](https://tsunagarujp.mext.go.jp/level02), 19 videos |
+     [Aim for Level B1](https://tsunagarujp.mext.go.jp/level03), 19 videos
+
+
 ### Learn Japanese with JapanesePod101.com
 
 1. [10-Day Hiragana Challenge (playlist)](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxDZf7gkbApq_PrJsGf7Pn)
@@ -184,6 +199,10 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 ### Reading
 
+1. [Tadoku](https://tadoku.org/japanese/en/)
+   - [Free Tadoku Books](https://tadoku.org/japanese/en/free-books-en/)
+   - [Level Guide](https://tadoku.org/japanese/en/levels-en/)
+   - [How to start tadoku](https://tadoku.org/japanese/en/what-is-tadoku-en/) -- Four Golden Rules
 1. [Hiragana Times: Articles | 2014-2025](https://hiraganatimes.com/web/categories/0)
    - Bilingual Japanese-English magazine articles: History | Culture | Politics | Economy | Society | Geography
 1. [Tom Ray | Traditional Japanese Children's Stories](https://tomray.me/stories/)
