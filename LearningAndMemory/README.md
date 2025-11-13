@@ -40,6 +40,25 @@
      without compromising accuracy and consistency"
 
 
+## Anki
+
+1. [Conan Liu, M.D. | Guide to Anki Intervals and Learning Steps | 2018](https://www.youtube.com/watch?v=1XaJjbCSXT0) -- 31m
+   - Why learn about Anki's algorithm | Type of cards | How intervals are calculated | Ease vs Interval modifier |
+     How answers modify ease factor | How answers modify interval | Don't get stuck in "Ease Hell" | Learning phase |
+     Longer learning steps are better | Aim for 80-90% success rate | How to achieve ideal retention rate
+1. [Ali Abdaal | How to Study for Exams with Flashcards (Anki Masterclass) | 2024](https://www.youtube.com/watch?v=8zaKVFC9Eu4) -- 3h08m
+   - Why I made this course | Course Introduction | What is a Flashcard? | What is Anki? | Why only Anki?
+   - Section 1: Basic Mechanics of Anki | The Anatomy of Anki | The Basic Flashcard | The Reverse Flashcard | Cloze Deletions |
+     Cloze Deletions with David | Editing a Flashcard | Anki on Different Platforms | Syncing to Anki web
+   - Section 2: Flashcards from a Lecture | Flashcard From a Video | How to Memorise a Paragraph | Improving your Flashcards |
+     [The Best Settings for Anki](https://www.youtube.com/watch?v=8zaKVFC9Eu4&t=1h45m54s)
+   - Section 3: Why Should You Use Anki? | When Should I Start Making Flashcards? | What Should I put on a Flashcard? |
+     How Long Should a Flashcard Be? | Should I Write Notes? | How to Avoid Flashcard Overload? | How to Stay Consistent? |
+     Anki vs Quizlet | Anki vs Google Sheets | Anki vs Notion | Playing the Long Term Game
+   - Section 4: Optimisation of Anki | Tags | Advanced Tagging | Premade Decks | Premade Decks: Philosophy | Add-ons: Heatmap |
+     Add-ons: Frozen Fields | Add-ons: Pop-up Wiki | Add-ons: Speed Focus
+
+
 ## Other
 
 1. [Anthony Metivier | How to Memorize Anything Fast (video) | 2025](https://www.youtube.com/watch?v=a16B8EIBgZ0)
