@@ -63,6 +63,12 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
    - [Japanese Letters](https://www3.nhk.or.jp/nhkworld/lesson/en/letters/hiragana.html) -- Hiragana, Katakana, and Kanji
 
 
+### Learn Japanese From Zero!
+
+1. [Japanese From Zero! Books 1-5 VIDEOS (playlist) | 2016-2025](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB)
+   - 157 videos; mostly 10-45 minutes each
+
+
 ### [Tsunahiro](https://tsunagarujp.mext.go.jp/)
 
 Website for Foreign Nationals as Residents to Learn Japanese Language | By MEXT (Ministry of Education, Culture, Sports, Science and Technology)
@@ -159,6 +165,9 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
      * [reddit: r/LearnJapanese | A quick review on 80/20 Japanese | 2020](https://www.reddit.com/r/LearnJapanese/comments/k81bxj/a_quick_review_on_8020_japanese/)
      * [Tokyo Cheapo: Tiffany | 10+ Recommended Resources for Learning Japanese | 2021](https://tokyocheapo.com/entertainment/recommended-resources-for-learning-japanese/)
      * [WaniKani Community | MrRyansan says "...my favorite textbook thus far" | 30-Mar-2021](https://community.wanikani.com/t/if-you-were-to-only-buy-one-book/50426/12)
+1. ToKini Andy
+   - [Absolute Beginner Japanese (playlist) | 2021-2022](https://www.youtube.com/playlist?list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty)
+   - [Tae Kim Grammar Guide REVIEW | One GREAT RESOURCE for LEARNING JAPANESE (video) | 2019](https://www.youtube.com/watch?v=XDYRS8U8u5s)
 1. JLPT SAMURAI
    - [Shyam | Top Grammar Dictionaries for Japanese Learners (2024 Guide)](https://jlptsamurai.com/2025/07/26/top-grammar-dictionaries-for-japanese-learners-2024-guide/)
    - [Shyam | Practice Makes Perfect: Japanese Grammar Drills You Can Use Today | 2025](https://jlptsamurai.com/2025/07/26/practice-makes-perfect-japanese-grammar-drills-you-can-use-today/)
@@ -249,6 +258,8 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
    - Polite speech: Masu-Form | Masu-Past Tense Form | Masu-Negative Form | Masu-Past Negative Form
 1. [Japan Switch: Anastasia Shinkarskaya & Joshua Matsuda | Guide to Japanese Verbs | 2021](https://japanswitch.com/guide-to-japanese-verbs/)
    - Polite speech: 〜ます-form, 〜て-form, past form and negation of non-past and past tenses
+1. [Nihongoph.com | The difference between masu-form and nai-form in Japanese | 2019](https://www.nihongoph.com/2019/02/the-difference-between-masu-form-and.html)
+   - Polite/plain speech, past/non-past tense, negation, compact examples in tables (without any rules)
 
 
 ### Grammatical terms
