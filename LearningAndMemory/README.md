@@ -57,6 +57,12 @@
      Anki vs Quizlet | Anki vs Google Sheets | Anki vs Notion | Playing the Long Term Game
    - Section 4: Optimisation of Anki | Tags | Advanced Tagging | Premade Decks | Premade Decks: Philosophy | Add-ons: Heatmap |
      Add-ons: Frozen Fields | Add-ons: Pop-up Wiki | Add-ons: Speed Focus
+1. [Cade McNiven | Optimizing Anki For Language Learning | 2021-2022](https://cademcniven.com/posts/20210410/)
+   - The point of that [60 minute] interval isn't to test yourself on the card after 1 hour — it's to test yourself at the end of the session.
+   - Micro-steps: For example, the first 4 steps in 0.08 0.16 0.32 0.64 5 1440
+   - As you learn more words in your target language, it becomes increasingly easy to learn new ones. Microsteps are incredibly useful in the
+     beginning when learning words is difficult, but once you get better they become unnecessary and just add extra reviews without much benefit.
+   - Anki And Immersion Feed Off Each Other.. ***Go immerse***
 
 
 ## Other
