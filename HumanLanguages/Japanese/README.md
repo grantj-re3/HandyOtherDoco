@@ -24,6 +24,25 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
    - Free guest: Upto 500 chars per convert, 50 converts / day | Free member: Upto 2000 chars per convert, 100 converts / day
 
 
+## How to learn Japanese through self-study?
+
+1. AJATT (All Japanese All The Time)
+   - [Table of Contents](https://tatsumoto-ren.github.io/blog/table-of-contents.html) |
+     [What's AJATT?](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) |
+     [***Introduction to learning Japanese***](https://tatsumoto-ren.github.io/blog/introduction-to-learning-japanese.html) |
+     [Japanese Roadmap](https://tatsumoto-ren.github.io/blog/roadmap.html) |
+     [Avoiding bad advice](https://tatsumoto-ren.github.io/blog/bad-advice.html)
+   - Learning a language involves three main components: Reviewing flashcards. |
+     Reading immersion: Watching with target language subtitles, reading manga and books. |
+     Listening immersion: Watching without subtitles, listening to audiobooks, radio, podcasts.
+   - Output comes naturally: Immersion + SRS ⮕ comprehension ability. |
+     Immersion + comprehension ability ⮕ output ability. | Output ability + practice ⮕ output mastery.
+   - [Basic Vocabulary](https://tatsumoto-ren.github.io/blog/basic-vocabulary.html) |
+     [Sentence mining](https://tatsumoto-ren.github.io/blog/sentence-mining.html) |
+     [One target sentences](https://tatsumoto-ren.github.io/blog/one-target-sentences.html) |
+     [Learning grammar](https://tatsumoto-ren.github.io/blog/learning-grammar.html)
+
+
 ## Lesson series
 
 ### Organic Japanese with Cure Dolly
@@ -168,6 +187,9 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 1. ToKini Andy
    - [Absolute Beginner Japanese (playlist) | 2021-2022](https://www.youtube.com/playlist?list=PLA_RcUI8km1OvB9uN-8h0BSJnCLsHJvty)
    - [Tae Kim Grammar Guide REVIEW | One GREAT RESOURCE for LEARNING JAPANESE (video) | 2019](https://www.youtube.com/watch?v=XDYRS8U8u5s)
+   - [How Long It Takes to Learn Japanese (and how to make a study schedule) (video) | 2023](https://www.youtube.com/watch?v=VgHTx1pNFiU)
+     * How much Japanese can I learn in 6 months? *For JLPT N5, ~462 hours (2.5 years at 30m/day). For JLPT N4, ~1,325 hours (7 years at 30m/day).* |
+       Can I become fluent in Japanese in 3 months? *Almost impossible.* | Sample Schedule for Daily Japanese Study
 1. JLPT SAMURAI
    - [Shyam | Top Grammar Dictionaries for Japanese Learners (2024 Guide)](https://jlptsamurai.com/2025/07/26/top-grammar-dictionaries-for-japanese-learners-2024-guide/)
    - [Shyam | Practice Makes Perfect: Japanese Grammar Drills You Can Use Today | 2025](https://jlptsamurai.com/2025/07/26/practice-makes-perfect-japanese-grammar-drills-you-can-use-today/)
@@ -189,6 +211,7 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
 1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
+1. [Japanese Immersion with Asami | Complete Beginners (playlist) | 2019-2020](https://www.youtube.com/playlist?list=PLt4c6vHCiki0kC-X_PHF_6WYOEd1qhSZS)
 1. [Nihongo con Teppei | Japanese podcast for beginners (playlist) | 2019-2025](https://www.youtube.com/playlist?list=PLbsmSVzhiwvA8VNMAW_cuDqujRQULBjFd)
 1. University of Tsukuba
    - [TLG | Japanese Conversation Practice DB, indexed by Situation and Function](https://sfj.intersc.tsukuba.ac.jp/)
@@ -204,6 +227,11 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 1. [MyKikitori](https://www.mykikitori.com/)
    - Listening practice based on the textbook, Genki: An Integrated Course in Elementary Japanese Volume  1, Second Edition
    - In October 2025, the quizzes don't work
+1. [Reddit/LearnJapanese: TinyWhalePrintables | Where to find legal immersion Media & when and how to mine? | 2025](https://www.reddit.com/r/LearnJapanese/comments/1igtict/comment/mavkdb5/)
+   - [Pokémon Kids TV Japan | Pikachu Exploration Club: 体験探検ピカチュウ部！ (playlist) | 2019-2025](https://www.youtube.com/playlist?list=PLrLFZHBIm7SnAhr288C-NuCfjRBVuHVks)
+   - [NHK World JAPAN: Live TV (mostly news) - videos](https://www3.nhk.or.jp/nhkworld/ja/live_tv/)
+   - [NHK for School - videos](https://edu.web.nhk/school/program/) -- playback is unreliable
+   - [Tiny Whale Mama | 15 Best TV Shows For Toddlers And Preschoolers Learning Japanese | 2025](https://tinywhaletales.com/japanese-tv-shows-for-toddlers/
 
 
 ### Reading
