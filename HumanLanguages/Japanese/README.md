@@ -231,7 +231,7 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
    - [Pokémon Kids TV Japan | Pikachu Exploration Club: 体験探検ピカチュウ部！ (playlist) | 2019-2025](https://www.youtube.com/playlist?list=PLrLFZHBIm7SnAhr288C-NuCfjRBVuHVks)
    - [NHK World JAPAN: Live TV (mostly news) - videos](https://www3.nhk.or.jp/nhkworld/ja/live_tv/)
    - [NHK for School - videos](https://edu.web.nhk/school/program/) -- playback is unreliable
-   - [Tiny Whale Mama | 15 Best TV Shows For Toddlers And Preschoolers Learning Japanese | 2025](https://tinywhaletales.com/japanese-tv-shows-for-toddlers/
+   - [Tiny Whale Mama | 15 Best TV Shows For Toddlers And Preschoolers Learning Japanese | 2025](https://tinywhaletales.com/japanese-tv-shows-for-toddlers/)
 
 
 ### Reading
