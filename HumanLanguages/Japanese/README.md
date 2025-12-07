@@ -6,6 +6,10 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
 
 ## Tools
 
+1. :thumbsup: [jpdb](https://jpdb.io/)
+   - A powerful Japanese dictionary, all-in-one learning system | Includes audio and pitch accent
+   - Just copy-paste a piece of text... and we'll automatically extract all of the words from it and teach them to you...
+     so that you can start reading almost immediately!
 1. :thumbsup: [Jisho](https://jisho.org/)
    - Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences...
    - Just paste what you want to understand into Jisho, be it English, romaji, a single word or an entire paragraph of Japanese text...
@@ -209,7 +213,7 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 
 ### Listening
 
-1. [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
+1. :thumbsup: [Comprehensible Japanese | Complete Beginner Japanese 日本語超初心者 (playlist) | 2021-2025](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP)
 1. [いろいろな日本語 | [BEGINNER] いろいろな漢字 (playlist) | 2023-2024](https://www.youtube.com/playlist?list=PLES8uqUGlnvayAhDX_XbF3mwIH88VNxpK)
 1. [Japanese Immersion with Asami | Complete Beginners (playlist) | 2019-2020](https://www.youtube.com/playlist?list=PLt4c6vHCiki0kC-X_PHF_6WYOEd1qhSZS)
 1. [Nihongo con Teppei | Japanese podcast for beginners (playlist) | 2019-2025](https://www.youtube.com/playlist?list=PLbsmSVzhiwvA8VNMAW_cuDqujRQULBjFd)
