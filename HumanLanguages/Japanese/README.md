@@ -107,6 +107,30 @@ Website for Foreign Nationals as Residents to Learn Japanese Language | By MEXT 
      [Aim for Level B1](https://tsunagarujp.mext.go.jp/level03), 19 videos
 
 
+### [Marugoto: Japanese Learning](https://marugoto.jpf.go.jp/en/)
+
+by The Japan Foundation Japanese-Language Institute
+
+1. [Concept and special features of Marugoto](https://marugoto.jpf.go.jp/en/teacher/feature/)
+   - Marugoto’s levels correspond with the six stages of the JFS/CEFR: A1, A2, B1, B2, C1, C2
+1. [MARUGOTO Plus (Starter A1)](https://a1.marugotoweb.jp/en/)
+   - 9 Topics, 18 Lessons, 50 Can-do objectives, grammar, etc.
+1. [MARUGOTO Plus (Elementary 1, A2)](https://a2.marugotoweb.jp/en/)
+   - 9 Topics, 18 Lessons, 53 Can-do objectives, grammar, etc.
+1. [MARUGOTO Plus (Elementary 2, A2)](https://a2-2.marugotoweb.jp/en/)
+   - 9 Topics, 18 Lessons, 49 Can-do objectives, grammar, etc.
+
+
+### Irodori
+
+by The Japan Foundation
+
+1. [Home page (English version)](https://www.irodori.jpf.go.jp/en)
+   - What is "Irodori"? | FAQ
+   - Course levels: Starter | Elementary 1 | Elementary 2
+1. [Starter level](https://www.irodori.jpf.go.jp/en/starter/pdf.html)
+
+
 ### Learn Japanese with JapanesePod101.com
 
 1. [10-Day Hiragana Challenge (playlist)](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SxDZf7gkbApq_PrJsGf7Pn)
@@ -128,16 +152,6 @@ Website for Foreign Nationals as Residents to Learn Japanese Language | By MEXT 
 1. [Learn Hiragana: The Ultimate Guide](https://www.tofugu.com/japanese/learn-hiragana/)
 1. [Learn Hiragana Today (playlist) | 2014](https://www.youtube.com/playlist?list=PL8dUxOTCkXEryT497YDSZu7uSOw5ICBwN) -- only the first 5 columns
 1. [The Best Japanese Language Learning Podcasts for Beginners | 2022](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/)
-
-
-### Irodori
-
-by The Japan Foundation
-
-1. [Home page (English version)](https://www.irodori.jpf.go.jp/en)
-   - What is "Irodori"? | FAQ
-   - Course levels: Starter | Elementary 1 | Elementary 2
-1. [Starter level](https://www.irodori.jpf.go.jp/en/starter/pdf.html)
 
 
 ### Japanese Introductory 1 (free ebook)
@@ -194,6 +208,13 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
    - [How Long It Takes to Learn Japanese (and how to make a study schedule) (video) | 2023](https://www.youtube.com/watch?v=VgHTx1pNFiU)
      * How much Japanese can I learn in 6 months? *For JLPT N5, ~462 hours (2.5 years at 30m/day). For JLPT N4, ~1,325 hours (7 years at 30m/day).* |
        Can I become fluent in Japanese in 3 months? *Almost impossible.* | Sample Schedule for Daily Japanese Study
+1. Association for Japanese-Language Teaching (AJALT)
+   - [Survival Japanese](https://www.ajalt.org/sj/)
+     * :thumbsup: [Survival Japanese: Grammar Index (PDF)](https://www.ajalt.org/sj/pdf/gra_all.pdf)
+   - [Learning Supplements](https://www.ajalt.org/sfyj/)
+     * Quizzes with audio for numbers, money, time, family, etc.
+     * Some quizzes take about 40 seconds to load
+   - Book series: [Japanese for Busy People Series](https://www.ajalt.org/english/textbooks/japanese_for_busy_people.html)
 1. JLPT SAMURAI
    - [Shyam | Top Grammar Dictionaries for Japanese Learners (2024 Guide)](https://jlptsamurai.com/2025/07/26/top-grammar-dictionaries-for-japanese-learners-2024-guide/)
    - [Shyam | Practice Makes Perfect: Japanese Grammar Drills You Can Use Today | 2025](https://jlptsamurai.com/2025/07/26/practice-makes-perfect-japanese-grammar-drills-you-can-use-today/)

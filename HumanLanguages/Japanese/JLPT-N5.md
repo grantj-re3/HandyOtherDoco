@@ -5,6 +5,9 @@ Kanji info can be found [here](Kanji.md).
 
 ## Lists
 
+1. [Learn Japanese (azadsensei)](https://azadsensei.blogspot.com/p/home.html)
+   - [JLPT N5](https://azadsensei.blogspot.com/p/jlpt-n5.html)
+
 1. JLPT Sensei
    - [JLPT N5 Grammar List | 2015](https://jlptsensei.com/jlpt-n5-grammar-list/)
    - [JLPT N5 Vocabulary List | 2015](https://jlptsensei.com/jlpt-n5-vocabulary-list/)
