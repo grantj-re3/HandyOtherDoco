@@ -63,7 +63,7 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
 
 ### Japanese Made Easy (JME)
 
-1. [Greg | Japanese Made Easy home page](https://japanesemadeeasy.com/)
+1. :thumbsup: [Greg | Japanese Made Easy home page](https://japanesemadeeasy.com/)
    - 25 free podcast episodes | Vocab approx. 250 words
    - Each episode includes playable and downloadable audio (Full Episode and Practice audio) and transcript
      (with vocab in Japanese and romaji)
@@ -71,6 +71,15 @@ The content includes faster learning ideas, Comprehensible Input and TTS.
    - Videos
 1. [Learn Katakana in Two Hours](https://japanesemadeeasy.com/learn-katakana-1-4/)
    - Videos + reading practice PDF
+
+
+### Loecsen
+
+1. [Learn Japanese: First contact](https://www.loecsen.com/en/learn-japanese)
+   - Beginner CEFR A1 level | 17 courses/chapters/themes | Can play a slow version of the audio
+   - For each phrase, the side-bar provides extra information regarding grammar, meaning of each word, pronunciation, etc.
+   - [Vocabulary list including English, Japanese, Romaji and audio](https://www.loecsen.com/en/vocabulary-japanese)
+     but without a slow-audio version
 
 
 ### NHK WORLD-JAPAN - Easy Japanese
@@ -185,6 +194,14 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
    - Introduction + 26 units
 
 
+### Japan Society NYC
+
+1. [Japanese Language Lessons (playlist) | 2009-2014](https://www.youtube.com/playlist?list=PL4071737C12790477)
+   - 24 short beginner videos | About 3-12 minutes each
+1. [Waku Waku Japanese Language Lessons! (playlist) | 2011-2013](https://www.youtube.com/playlist?list=PLF97A549D60C2EBA4)
+   - 47 short beginner videos | About 3-5 minutes each
+
+
 ### Other
 
 1. 80/20 Japanese: Richard Webb
@@ -228,6 +245,8 @@ by Iori Hamada, 2024 (CC BY-NC 4.0)
 1. [Ninjapanese playlists](https://www.youtube.com/@Ninjapanese/playlists)
    - N5 level playlists covering vocab, verbs, grammar
 1. [Tandem | A Detailed Guide to Learning Japanese for Beginners | 2024](https://tandem.net/blog/learning-japanese-beginners)
+1. [FluentU | The Best Online Japanese Courses: 16 Options for 2025](https://www.fluentu.com/blog/japanese/best-online-japanese-course/)
+   - Free courses: Cure Dolly | edX | Duolingo | Marugoto | NHK World | Japan Society NYC | Loecsen Japanese
 
 
 ## Reading & listening
