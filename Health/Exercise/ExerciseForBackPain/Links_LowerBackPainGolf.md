@@ -1,5 +1,12 @@
 # Lower back pain (LBP) from Golf
 
+1. [Titleist Performance Institute: Dave Phillips & Dr Greg Rose with Quinn Griffing | TPI TV Season 9 Ep.10 - Lower Back (video) | c.2014](https://www.mytpi.com/tpitv/shows/titleist-performance-institute-season-9/episodes/ep.10-lower-back) -- 22m
+   - Lower back pain: Often it is either the thoracic spine or hips which have lost flexibility
+   - [1m29s] Lower back assessments: Lower Quarter Rotation | Seated Trunk Rotation | Modified Thomas Test
+   - [6m25s] Exercises: Butt Kicks | Resisted Leg Hangs | Rolling | Press-up | Single Leg Squat
+   - [12m49s] Pre-round warm-up (using a  golf cart): Hip Flexor Stretch | Calf Raise | Assisted Deep Squat | Glute Stretch | T-Spine Stretch | Prayer Stretch
+   - [17m52s] Practice drills: Neutral Pelvis Drill | Level Hip Drill | Resisted Sway Drill | Pelvic Punch Drill
+
 1. Hospital for Special Surgery Rehabilitation
    - [Tips for Protecting Your Back on the Golf Course | c.2014](https://www.hss.edu/golfportal/tips-for-protecting-your-back-on-the-golf-course.htm)
    - [Exercises to Improve Your Game](https://www.hss.edu/golfportal/improve-your-game-exercises.htm)
@@ -8,7 +15,6 @@
      * Enhance Your Flexibility | Enhance Your Strength | Enhance Your Balance and Coordination
      * Hip Exercises | Knee Exercises | Foot and Ankle Exercises | [Back and Neck Exercises](https://www.hss.edu/golfportal/improve-your-game-back.htm) |
        Shoulder Exercises | Elbow Exercises | Wrist Exercises
-
 
 1. Veritas Health: Spine-health
    - [Golf and Low Back Pain | 1999-2021](https://www.spine-health.com/conditions/sports-and-spine-injuries/golf-and-low-back-pain)
