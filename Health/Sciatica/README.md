@@ -19,12 +19,14 @@
    - Movement/exercise prescription: Dose | Frequency | Timing
 
 1. Shrey Vazir - Physiotherapist
-   * :thumbsup: [The ONLY 3 Exercises you NEED for Sciatica (Ages 60+) (video) | 2024](https://www.youtube.com/watch?v=-MRj3ukHUaM&t=2m57s)
-   * [Sciatica Pain Relief in 10 min (the 2:1:2 Method!) (video) | 2024](https://www.youtube.com/watch?v=XSN-HpPo2B0)
+   - :thumbsup: [The ONLY 3 Exercises you NEED for Sciatica (Ages 60+) (video) | 2024](https://www.youtube.com/watch?v=-MRj3ukHUaM&t=2m57s)
+   - [Sciatica Pain Relief in 10 min (the 2:1:2 Method!) (video) | 2024](https://www.youtube.com/watch?v=XSN-HpPo2B0)
 
-1. [Will Harlow – Over-Fifties Specialist Physio | Sciatica In Seniors: How to Get Relief (& Mistakes to Avoid) (video) | 2023](https://www.youtube.com/watch?v=yCMKLAapauM)
+1. Will Harlow – Over-Fifties Specialist Physio
+   - [Sciatica In Seniors: How to Get Relief (& Mistakes to Avoid) (video) | 2023](https://www.youtube.com/watch?v=yCMKLAapauM)
+   - [Seniors with Sciatica: 12 Strategies for Rapid Relief (video) | 2025](https://www.youtube.com/watch?v=d5_fpAZig6o)
 
 1. Dr. Rowe - SpineCare Decompression and Chiropractic Center
-   * [How to INSTANTLY Fix Pinched Nerve Pain in the Back and Leg (video) | 2024](https://www.youtube.com/watch?v=3Rp6-8wzjRo)
-   * [Sciatica at Night? Do THIS Before Bed (video) | 2024](https://www.youtube.com/watch?v=BoqeyUEcNPs)
+   - [How to INSTANTLY Fix Pinched Nerve Pain in the Back and Leg (video) | 2024](https://www.youtube.com/watch?v=3Rp6-8wzjRo)
+   - [Sciatica at Night? Do THIS Before Bed (video) | 2024](https://www.youtube.com/watch?v=BoqeyUEcNPs)
 
