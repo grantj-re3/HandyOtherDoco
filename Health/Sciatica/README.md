@@ -1,6 +1,12 @@
 # Sciatica
 
-1. :thumbsup: [Clinical Physio | What is Sciatica?! | Expert Physio explains anatomy, diagnosis and key strategies for treatment! (video) | 2025](https://www.youtube.com/watch?v=BKi9q7cjm2k)
+1. :thumbsup: [Clinical Physio: Khalid | What is Sciatica?! | Expert Physio explains anatomy, diagnosis and key strategies for treatment! (video) | 2025](https://www.youtube.com/watch?v=BKi9q7cjm2k) -- 13m
+
+1. :thumbsup: [Institute of Human Anatomy: Jonathan Bennion | Why Sciatica is So Hard To Fix (video) | 2026](https://www.youtube.com/watch?v=T_vr3xgNk2I) -- 17m
+   - What Is Sciatica? Understanding the Sciatic Nerve | Where the Sciatic Nerve Travels Down the Leg | Sciatica Symptoms: Why Does It Hurt So Bad? |
+     The 5 Spinal Nerves That Form the Sciatic Nerve | What Is an Intervertebral Disc? (Annulus vs. Nucleus) | How Bulging & Herniated Discs Compress Nerves |
+     Why L4-L5 Disc Herniations Cause Pain in the L5 Nerve | Health & Weight Management Factors for Sciatica | How Doctors Find the Cause: Dermatomes & Myotomes |
+     Is It Piriformis Syndrome? Deep Gluteal Causes | Rare Anatomy: Sciatic Nerve Piercing the Piriformis | Sciatica Pain Relief: Exercises, Injections & Surgery Options
 
 1. [Rhesus Medicine | Sciatica Explained (Including Red Flag Symptoms) (video) | 2024](https://www.youtube.com/watch?v=EVPlqu2FH2g)
 
