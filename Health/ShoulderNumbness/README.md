@@ -2,12 +2,12 @@
 
 ## Short introduction
 
-1. [Performance Ortho: Nadia Hercules | Sometimes my shoulder feels like pins and needles, what is it? | 2018](https://www.performanceortho.com/shoulder-feels-like-pins-and-needles/#1759771357313-9853a034-9561)
+1. [Performance Ortho: Nadia Hercules | Sometimes my shoulder feels like pins and needles, what is it? | 2018](https://www.performanceortho.com/shoulder-feels-like-pins-and-needles/)
 
 1. [Paragon Medical: Dr Bernard Lee | Should I Worry About Shoulder Blade Numbness and Tingling? | 2025](https://paragonmedical.com.sg/should-i-worry-about-shoulder-blade-numbness-and-tingling/)
    - What Does Shoulder Blade Numbness and Tingling Usually Mean? | Common Causes | When Is Shoulder Blade Numbness a Sign of Something Serious? |
      Can Shoulder Blade Numbness Go Away on Its Own? | Diagnosing the Cause of Numbness | Minimally Invasive Pain Treatment Options |
-     Daily habits that improve shoulder and neck health | Do Not Ignore The Signs
+     ***Daily habits that improve shoulder and neck health*** | Do Not Ignore The Signs
 
 
 ## More details
